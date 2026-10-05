@@ -1,0 +1,21 @@
+# Python environment and caches (several GB)
+.venv/
+.cache/
+__pycache__/
+*.pyc
+
+# Training data: downloaded fonts, browser renders, logs. Recreate with training/fetch_fonts.py
+# and make_browser_renders.py. Never commit font files: some (Windows fonts) are proprietary.
+data/
+
+# Training checkpoints and older model versions (large). The shipped model is
+# models/fonteye.onnx + index.npy + index.json + calibration.json.
+models/*.pt
+models/v1/
+models/v2/
+
+# Test output (popup screenshots)
+tests/out/
+
+# Log file written by the uiautomation library
+@AutomationLog.txt

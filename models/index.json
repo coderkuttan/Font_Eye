@@ -1,0 +1,8510 @@
+[
+ {
+  "name": "ABeeZee",
+  "path": "data/fonts/google/ABeeZee.ttf",
+  "trained": true
+ },
+ {
+  "name": "Abel",
+  "path": "data/fonts/google/Abel.ttf",
+  "trained": true
+ },
+ {
+  "name": "Abhaya Libre",
+  "path": "data/fonts/google/Abhaya_Libre.ttf",
+  "trained": true
+ },
+ {
+  "name": "Aboreto",
+  "path": "data/fonts/google/Aboreto.ttf",
+  "trained": true
+ },
+ {
+  "name": "Abril Fatface",
+  "path": "data/fonts/google/Abril_Fatface.ttf",
+  "trained": true
+ },
+ {
+  "name": "Abyssinica SIL",
+  "path": "data/fonts/google/Abyssinica_SIL.ttf",
+  "trained": true
+ },
+ {
+  "name": "Aclonica",
+  "path": "data/fonts/google/Aclonica.ttf",
+  "trained": true
+ },
+ {
+  "name": "Acme",
+  "path": "data/fonts/google/Acme.ttf",
+  "trained": true
+ },
+ {
+  "name": "Actor",
+  "path": "data/fonts/google/Actor.ttf",
+  "trained": true
+ },
+ {
+  "name": "Adamina",
+  "path": "data/fonts/google/Adamina.ttf",
+  "trained": true
+ },
+ {
+  "name": "ADLaM Display",
+  "path": "data/fonts/google/ADLaM_Display.ttf",
+  "trained": true
+ },
+ {
+  "name": "Advent Pro",
+  "path": "data/fonts/google/Advent_Pro.ttf",
+  "trained": true
+ },
+ {
+  "name": "Afacad",
+  "path": "data/fonts/google/Afacad.ttf",
+  "trained": true,
+  "group": "Afacad",
+  "twins": [
+   "Afacad Flux"
+  ]
+ },
+ {
+  "name": "Agbalumo",
+  "path": "data/fonts/google/Agbalumo.ttf",
+  "trained": true
+ },
+ {
+  "name": "Agdasima",
+  "path": "data/fonts/google/Agdasima.ttf",
+  "trained": true
+ },
+ {
+  "name": "Agu Display",
+  "path": "data/fonts/google/Agu_Display.ttf",
+  "trained": true
+ },
+ {
+  "name": "Aguafina Script",
+  "path": "data/fonts/google/Aguafina_Script.ttf",
+  "trained": true
+ },
+ {
+  "name": "Akatab",
+  "path": "data/fonts/google/Akatab.ttf",
+  "trained": true,
+  "group": "Akatab",
+  "twins": [
+   "Tirra"
+  ]
+ },
+ {
+  "name": "Akaya Kanadaka",
+  "path": "data/fonts/google/Akaya_Kanadaka.ttf",
+  "trained": true,
+  "group": "Akaya Kanadaka",
+  "twins": [
+   "Akaya Telivigala"
+  ]
+ },
+ {
+  "name": "Akaya Telivigala",
+  "path": "data/fonts/google/Akaya_Telivigala.ttf",
+  "trained": true,
+  "group": "Akaya Kanadaka",
+  "twins": [
+   "Akaya Telivigala"
+  ]
+ },
+ {
+  "name": "Akronim",
+  "path": "data/fonts/google/Akronim.ttf",
+  "trained": true
+ },
+ {
+  "name": "Akshar",
+  "path": "data/fonts/google/Akshar.ttf",
+  "trained": true
+ },
+ {
+  "name": "Akt",
+  "path": "data/fonts/google/Akt.ttf",
+  "trained": true
+ },
+ {
+  "name": "Aladin",
+  "path": "data/fonts/google/Aladin.ttf",
+  "trained": true
+ },
+ {
+  "name": "Alan Sans",
+  "path": "data/fonts/google/Alan_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Alata",
+  "path": "data/fonts/google/Alata.ttf",
+  "trained": true
+ },
+ {
+  "name": "Alatsi",
+  "path": "data/fonts/google/Alatsi.ttf",
+  "trained": true
+ },
+ {
+  "name": "Albert Sans",
+  "path": "data/fonts/google/Albert_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Aldrich",
+  "path": "data/fonts/google/Aldrich.ttf",
+  "trained": true
+ },
+ {
+  "name": "Alef",
+  "path": "data/fonts/google/Alef.ttf",
+  "trained": true
+ },
+ {
+  "name": "Alegreya",
+  "path": "data/fonts/google/Alegreya.ttf",
+  "trained": true
+ },
+ {
+  "name": "Alegreya Sans",
+  "path": "data/fonts/google/Alegreya_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Alegreya Sans SC",
+  "path": "data/fonts/google/Alegreya_Sans_SC.ttf",
+  "trained": true
+ },
+ {
+  "name": "Alegreya SC",
+  "path": "data/fonts/google/Alegreya_SC.ttf",
+  "trained": true
+ },
+ {
+  "name": "Aleo",
+  "path": "data/fonts/google/Aleo.ttf",
+  "trained": true
+ },
+ {
+  "name": "Alex Brush",
+  "path": "data/fonts/google/Alex_Brush.ttf",
+  "trained": true
+ },
+ {
+  "name": "Alexandria",
+  "path": "data/fonts/google/Alexandria.ttf",
+  "trained": true
+ },
+ {
+  "name": "Alfa Slab One",
+  "path": "data/fonts/google/Alfa_Slab_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Alice",
+  "path": "data/fonts/google/Alice.ttf",
+  "trained": true
+ },
+ {
+  "name": "Alien Block",
+  "path": "data/fonts/google/Alien_Block.ttf",
+  "trained": true
+ },
+ {
+  "name": "Alike",
+  "path": "data/fonts/google/Alike.ttf",
+  "trained": true
+ },
+ {
+  "name": "Alike Angular",
+  "path": "data/fonts/google/Alike_Angular.ttf",
+  "trained": true
+ },
+ {
+  "name": "Alkalami",
+  "path": "data/fonts/google/Alkalami.ttf",
+  "trained": true
+ },
+ {
+  "name": "Alkatra",
+  "path": "data/fonts/google/Alkatra.ttf",
+  "trained": true
+ },
+ {
+  "name": "Allan",
+  "path": "data/fonts/google/Allan.ttf",
+  "trained": true,
+  "group": "Allan",
+  "twins": [
+   "Ranga"
+  ]
+ },
+ {
+  "name": "Allerta",
+  "path": "data/fonts/google/Allerta.ttf",
+  "trained": true,
+  "group": "Allerta",
+  "twins": [
+   "Allerta Stencil"
+  ]
+ },
+ {
+  "name": "Allison",
+  "path": "data/fonts/google/Allison.ttf",
+  "trained": true
+ },
+ {
+  "name": "Allura",
+  "path": "data/fonts/google/Allura.ttf",
+  "trained": true
+ },
+ {
+  "name": "Almarai",
+  "path": "data/fonts/google/Almarai.ttf",
+  "trained": true
+ },
+ {
+  "name": "Almendra",
+  "path": "data/fonts/google/Almendra.ttf",
+  "trained": true
+ },
+ {
+  "name": "Almendra Display",
+  "path": "data/fonts/google/Almendra_Display.ttf",
+  "trained": true
+ },
+ {
+  "name": "Almendra SC",
+  "path": "data/fonts/google/Almendra_SC.ttf",
+  "trained": true
+ },
+ {
+  "name": "Alumni Sans",
+  "path": "data/fonts/google/Alumni_Sans.ttf",
+  "trained": true,
+  "group": "Alumni Sans",
+  "twins": [
+   "Alumni Sans SC"
+  ]
+ },
+ {
+  "name": "Alumni Sans Collegiate One",
+  "path": "data/fonts/google/Alumni_Sans_Collegiate_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Alumni Sans Inline One",
+  "path": "data/fonts/google/Alumni_Sans_Inline_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Alumni Sans Pinstripe",
+  "path": "data/fonts/google/Alumni_Sans_Pinstripe.ttf",
+  "trained": true
+ },
+ {
+  "name": "Alumni Sans SC",
+  "path": "data/fonts/google/Alumni_Sans_SC.ttf",
+  "trained": true,
+  "group": "Alumni Sans",
+  "twins": [
+   "Alumni Sans SC"
+  ]
+ },
+ {
+  "name": "Alyamama",
+  "path": "data/fonts/google/Alyamama.ttf",
+  "trained": true,
+  "group": "Alyamama",
+  "twins": [
+   "Ancizar Serif"
+  ]
+ },
+ {
+  "name": "Amarante",
+  "path": "data/fonts/google/Amarante.ttf",
+  "trained": true
+ },
+ {
+  "name": "Amaranth",
+  "path": "data/fonts/google/Amaranth.ttf",
+  "trained": true
+ },
+ {
+  "name": "Amarna",
+  "path": "data/fonts/google/Amarna.ttf",
+  "trained": true
+ },
+ {
+  "name": "Amatic SC",
+  "path": "data/fonts/google/Amatic_SC.ttf",
+  "trained": true
+ },
+ {
+  "name": "Amethysta",
+  "path": "data/fonts/google/Amethysta.ttf",
+  "trained": true
+ },
+ {
+  "name": "Amiko",
+  "path": "data/fonts/google/Amiko.ttf",
+  "trained": true
+ },
+ {
+  "name": "Amiri",
+  "path": "data/fonts/google/Amiri.ttf",
+  "trained": true,
+  "group": "Amiri",
+  "twins": [
+   "Amiri Quran"
+  ]
+ },
+ {
+  "name": "Amiri Quran",
+  "path": "data/fonts/google/Amiri_Quran.ttf",
+  "trained": true,
+  "group": "Amiri",
+  "twins": [
+   "Amiri Quran"
+  ]
+ },
+ {
+  "name": "Amita",
+  "path": "data/fonts/google/Amita.ttf",
+  "trained": true
+ },
+ {
+  "name": "Anaheim",
+  "path": "data/fonts/google/Anaheim.ttf",
+  "trained": true
+ },
+ {
+  "name": "Ancizar Sans",
+  "path": "data/fonts/google/Ancizar_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Ancizar Serif",
+  "path": "data/fonts/google/Ancizar_Serif.ttf",
+  "trained": true,
+  "group": "Alyamama",
+  "twins": [
+   "Ancizar Serif"
+  ]
+ },
+ {
+  "name": "Andada Pro",
+  "path": "data/fonts/google/Andada_Pro.ttf",
+  "trained": true
+ },
+ {
+  "name": "Andika",
+  "path": "data/fonts/google/Andika.ttf",
+  "trained": true,
+  "group": "Andika",
+  "twins": [
+   "Kanchenjunga"
+  ]
+ },
+ {
+  "name": "Anek Bangla",
+  "path": "data/fonts/google/Anek_Bangla.ttf",
+  "trained": true,
+  "group": "Anek Bangla",
+  "twins": [
+   "Anek Devanagari",
+   "Anek Gujarati",
+   "Anek Gurmukhi",
+   "Anek Kannada",
+   "Anek Latin",
+   "Anek Tamil",
+   "Anek Telugu"
+  ]
+ },
+ {
+  "name": "Anek Devanagari",
+  "path": "data/fonts/google/Anek_Devanagari.ttf",
+  "trained": true,
+  "group": "Anek Bangla",
+  "twins": [
+   "Anek Devanagari",
+   "Anek Gujarati",
+   "Anek Gurmukhi",
+   "Anek Kannada",
+   "Anek Latin",
+   "Anek Tamil",
+   "Anek Telugu"
+  ]
+ },
+ {
+  "name": "Anek Gujarati",
+  "path": "data/fonts/google/Anek_Gujarati.ttf",
+  "trained": true,
+  "group": "Anek Bangla",
+  "twins": [
+   "Anek Devanagari",
+   "Anek Gujarati",
+   "Anek Gurmukhi",
+   "Anek Kannada",
+   "Anek Latin",
+   "Anek Tamil",
+   "Anek Telugu",
+   "Anek Odia"
+  ]
+ },
+ {
+  "name": "Anek Gurmukhi",
+  "path": "data/fonts/google/Anek_Gurmukhi.ttf",
+  "trained": true,
+  "group": "Anek Bangla",
+  "twins": [
+   "Anek Devanagari",
+   "Anek Gujarati",
+   "Anek Gurmukhi",
+   "Anek Kannada",
+   "Anek Latin",
+   "Anek Tamil",
+   "Anek Telugu"
+  ]
+ },
+ {
+  "name": "Anek Kannada",
+  "path": "data/fonts/google/Anek_Kannada.ttf",
+  "trained": true,
+  "group": "Anek Bangla",
+  "twins": [
+   "Anek Devanagari",
+   "Anek Gujarati",
+   "Anek Gurmukhi",
+   "Anek Kannada",
+   "Anek Latin",
+   "Anek Tamil",
+   "Anek Telugu",
+   "Anek Malayalam"
+  ]
+ },
+ {
+  "name": "Anek Latin",
+  "path": "data/fonts/google/Anek_Latin.ttf",
+  "trained": true,
+  "group": "Anek Bangla",
+  "twins": [
+   "Anek Devanagari",
+   "Anek Gujarati",
+   "Anek Gurmukhi",
+   "Anek Kannada",
+   "Anek Latin",
+   "Anek Tamil",
+   "Anek Telugu"
+  ]
+ },
+ {
+  "name": "Anek Tamil",
+  "path": "data/fonts/google/Anek_Tamil.ttf",
+  "trained": true,
+  "group": "Anek Bangla",
+  "twins": [
+   "Anek Devanagari",
+   "Anek Gujarati",
+   "Anek Gurmukhi",
+   "Anek Kannada",
+   "Anek Latin",
+   "Anek Tamil",
+   "Anek Telugu"
+  ]
+ },
+ {
+  "name": "Anek Telugu",
+  "path": "data/fonts/google/Anek_Telugu.ttf",
+  "trained": true,
+  "group": "Anek Bangla",
+  "twins": [
+   "Anek Devanagari",
+   "Anek Gujarati",
+   "Anek Gurmukhi",
+   "Anek Kannada",
+   "Anek Latin",
+   "Anek Tamil",
+   "Anek Telugu"
+  ]
+ },
+ {
+  "name": "Angkor",
+  "path": "data/fonts/google/Angkor.ttf",
+  "trained": true,
+  "group": "Angkor",
+  "twins": [
+   "Moul"
+  ]
+ },
+ {
+  "name": "Annapurna SIL",
+  "path": "data/fonts/google/Annapurna_SIL.ttf",
+  "trained": true
+ },
+ {
+  "name": "Annie Use Your Telescope",
+  "path": "data/fonts/google/Annie_Use_Your_Telescope.ttf",
+  "trained": true
+ },
+ {
+  "name": "Anonymous Pro",
+  "path": "data/fonts/google/Anonymous_Pro.ttf",
+  "trained": true
+ },
+ {
+  "name": "Anta",
+  "path": "data/fonts/google/Anta.ttf",
+  "trained": true
+ },
+ {
+  "name": "Antic",
+  "path": "data/fonts/google/Antic.ttf",
+  "trained": true
+ },
+ {
+  "name": "Antic Didone",
+  "path": "data/fonts/google/Antic_Didone.ttf",
+  "trained": true
+ },
+ {
+  "name": "Antic Slab",
+  "path": "data/fonts/google/Antic_Slab.ttf",
+  "trained": true
+ },
+ {
+  "name": "Anton",
+  "path": "data/fonts/google/Anton.ttf",
+  "trained": true,
+  "group": "Anton",
+  "twins": [
+   "Anton SC"
+  ]
+ },
+ {
+  "name": "Antonio",
+  "path": "data/fonts/google/Antonio.ttf",
+  "trained": true
+ },
+ {
+  "name": "Anuphan",
+  "path": "data/fonts/google/Anuphan.ttf",
+  "trained": true
+ },
+ {
+  "name": "Anybody",
+  "path": "data/fonts/google/Anybody.ttf",
+  "trained": true
+ },
+ {
+  "name": "AR One Sans",
+  "path": "data/fonts/google/AR_One_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Arapey",
+  "path": "data/fonts/google/Arapey.ttf",
+  "trained": true
+ },
+ {
+  "name": "Arbutus",
+  "path": "data/fonts/google/Arbutus.ttf",
+  "trained": true
+ },
+ {
+  "name": "Arbutus Slab",
+  "path": "data/fonts/google/Arbutus_Slab.ttf",
+  "trained": true
+ },
+ {
+  "name": "Architects Daughter",
+  "path": "data/fonts/google/Architects_Daughter.ttf",
+  "trained": true
+ },
+ {
+  "name": "Archivo",
+  "path": "data/fonts/google/Archivo.ttf",
+  "trained": true
+ },
+ {
+  "name": "Archivo Black",
+  "path": "data/fonts/google/Archivo_Black.ttf",
+  "trained": true
+ },
+ {
+  "name": "Archivo Narrow",
+  "path": "data/fonts/google/Archivo_Narrow.ttf",
+  "trained": true
+ },
+ {
+  "name": "Are You Serious",
+  "path": "data/fonts/google/Are_You_Serious.ttf",
+  "trained": true
+ },
+ {
+  "name": "Aref Ruqaa",
+  "path": "data/fonts/google/Aref_Ruqaa.ttf",
+  "trained": true,
+  "group": "Aref Ruqaa",
+  "twins": [
+   "Aref Ruqaa Ink"
+  ]
+ },
+ {
+  "name": "Arial / Arimo",
+  "path": "data/fonts/google/Arimo.ttf",
+  "trained": true
+ },
+ {
+  "name": "Arima",
+  "path": "data/fonts/google/Arima.ttf",
+  "trained": true
+ },
+ {
+  "name": "Arizonia",
+  "path": "data/fonts/google/Arizonia.ttf",
+  "trained": true
+ },
+ {
+  "name": "Armata",
+  "path": "data/fonts/google/Armata.ttf",
+  "trained": true
+ },
+ {
+  "name": "Arsenal",
+  "path": "data/fonts/google/Arsenal.ttf",
+  "trained": true,
+  "group": "Arsenal",
+  "twins": [
+   "Arsenal SC"
+  ]
+ },
+ {
+  "name": "Artifika",
+  "path": "data/fonts/google/Artifika.ttf",
+  "trained": true
+ },
+ {
+  "name": "Arvo",
+  "path": "data/fonts/google/Arvo.ttf",
+  "trained": true
+ },
+ {
+  "name": "Arya",
+  "path": "data/fonts/google/Arya.ttf",
+  "trained": true
+ },
+ {
+  "name": "Asap",
+  "path": "data/fonts/google/Asap.ttf",
+  "trained": true
+ },
+ {
+  "name": "Asap Condensed",
+  "path": "data/fonts/google/Asap_Condensed.ttf",
+  "trained": true
+ },
+ {
+  "name": "Asap Sharp",
+  "path": "data/fonts/google/Asap_Sharp.ttf",
+  "trained": true
+ },
+ {
+  "name": "Asar",
+  "path": "data/fonts/google/Asar.ttf",
+  "trained": true
+ },
+ {
+  "name": "Asimovian",
+  "path": "data/fonts/google/Asimovian.ttf",
+  "trained": true
+ },
+ {
+  "name": "Asset",
+  "path": "data/fonts/google/Asset.ttf",
+  "trained": true
+ },
+ {
+  "name": "Assistant",
+  "path": "data/fonts/google/Assistant.ttf",
+  "trained": true
+ },
+ {
+  "name": "Astloch",
+  "path": "data/fonts/google/Astloch.ttf",
+  "trained": true
+ },
+ {
+  "name": "Asul",
+  "path": "data/fonts/google/Asul.ttf",
+  "trained": true
+ },
+ {
+  "name": "Athiti",
+  "path": "data/fonts/google/Athiti.ttf",
+  "trained": true
+ },
+ {
+  "name": "Atkinson Hyperlegible",
+  "path": "data/fonts/google/Atkinson_Hyperlegible.ttf",
+  "trained": true,
+  "group": "Atkinson Hyperlegible",
+  "twins": [
+   "Atkinson Hyperlegible Next"
+  ]
+ },
+ {
+  "name": "Atkinson Hyperlegible Mono",
+  "path": "data/fonts/google/Atkinson_Hyperlegible_Mono.ttf",
+  "trained": true
+ },
+ {
+  "name": "Atkinson Hyperlegible Next",
+  "path": "data/fonts/google/Atkinson_Hyperlegible_Next.ttf",
+  "trained": true,
+  "group": "Atkinson Hyperlegible",
+  "twins": [
+   "Atkinson Hyperlegible Next"
+  ]
+ },
+ {
+  "name": "Atma",
+  "path": "data/fonts/google/Atma.ttf",
+  "trained": true
+ },
+ {
+  "name": "Atomic Age",
+  "path": "data/fonts/google/Atomic_Age.ttf",
+  "trained": true
+ },
+ {
+  "name": "Aubrey",
+  "path": "data/fonts/google/Aubrey.ttf",
+  "trained": true
+ },
+ {
+  "name": "Audiowide",
+  "path": "data/fonts/google/Audiowide.ttf",
+  "trained": true
+ },
+ {
+  "name": "Autour One",
+  "path": "data/fonts/google/Autour_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Average",
+  "path": "data/fonts/google/Average.ttf",
+  "trained": true
+ },
+ {
+  "name": "Average Sans",
+  "path": "data/fonts/google/Average_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Averia Gruesa Libre",
+  "path": "data/fonts/google/Averia_Gruesa_Libre.ttf",
+  "trained": true
+ },
+ {
+  "name": "Averia Libre",
+  "path": "data/fonts/google/Averia_Libre.ttf",
+  "trained": true
+ },
+ {
+  "name": "Averia Sans Libre",
+  "path": "data/fonts/google/Averia_Sans_Libre.ttf",
+  "trained": true
+ },
+ {
+  "name": "Averia Serif Libre",
+  "path": "data/fonts/google/Averia_Serif_Libre.ttf",
+  "trained": true
+ },
+ {
+  "name": "Azeret Mono",
+  "path": "data/fonts/google/Azeret_Mono.ttf",
+  "trained": true
+ },
+ {
+  "name": "B612",
+  "path": "data/fonts/google/B612.ttf",
+  "trained": true
+ },
+ {
+  "name": "B612 Mono",
+  "path": "data/fonts/google/B612_Mono.ttf",
+  "trained": true
+ },
+ {
+  "name": "Babylonica",
+  "path": "data/fonts/google/Babylonica.ttf",
+  "trained": true
+ },
+ {
+  "name": "Bacasime Antique",
+  "path": "data/fonts/google/Bacasime_Antique.ttf",
+  "trained": true
+ },
+ {
+  "name": "Bad Script",
+  "path": "data/fonts/google/Bad_Script.ttf",
+  "trained": true
+ },
+ {
+  "name": "Badeen Display",
+  "path": "data/fonts/google/Badeen_Display.ttf",
+  "trained": true
+ },
+ {
+  "name": "Bahiana",
+  "path": "data/fonts/google/Bahiana.ttf",
+  "trained": true
+ },
+ {
+  "name": "Bahianita",
+  "path": "data/fonts/google/Bahianita.ttf",
+  "trained": true
+ },
+ {
+  "name": "Bahnschrift",
+  "path": "C:/Windows/Fonts/bahnschrift.ttf",
+  "trained": true
+ },
+ {
+  "name": "Bai Jamjuree",
+  "path": "data/fonts/google/Bai_Jamjuree.ttf",
+  "trained": true
+ },
+ {
+  "name": "Bakbak One",
+  "path": "data/fonts/google/Bakbak_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Ballet",
+  "path": "data/fonts/google/Ballet.ttf",
+  "trained": true
+ },
+ {
+  "name": "Baloo 2",
+  "path": "data/fonts/google/Baloo_2.ttf",
+  "trained": true,
+  "group": "Baloo 2",
+  "twins": [
+   "Baloo Bhaina 2",
+   "Baloo Paaji 2",
+   "Baloo Tamma 2",
+   "Baloo Bhai 2",
+   "Baloo Bhaijaan 2",
+   "Baloo Chettan 2",
+   "Baloo Da 2",
+   "Baloo Thambi 2"
+  ]
+ },
+ {
+  "name": "Baloo Bhaina 2",
+  "path": "data/fonts/google/Baloo_Bhaina_2.ttf",
+  "trained": true,
+  "group": "Baloo 2",
+  "twins": [
+   "Baloo Bhaina 2",
+   "Baloo Paaji 2",
+   "Baloo Tamma 2",
+   "Baloo Tammudu 2"
+  ]
+ },
+ {
+  "name": "Baloo Paaji 2",
+  "path": "data/fonts/google/Baloo_Paaji_2.ttf",
+  "trained": true,
+  "group": "Baloo 2",
+  "twins": [
+   "Baloo Bhaina 2",
+   "Baloo Paaji 2",
+   "Baloo Tamma 2"
+  ]
+ },
+ {
+  "name": "Baloo Tamma 2",
+  "path": "data/fonts/google/Baloo_Tamma_2.ttf",
+  "trained": true,
+  "group": "Baloo 2",
+  "twins": [
+   "Baloo Bhaina 2",
+   "Baloo Paaji 2",
+   "Baloo Tamma 2"
+  ]
+ },
+ {
+  "name": "Balsamiq Sans",
+  "path": "data/fonts/google/Balsamiq_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Balthazar",
+  "path": "data/fonts/google/Balthazar.ttf",
+  "trained": true
+ },
+ {
+  "name": "Bangers",
+  "path": "data/fonts/google/Bangers.ttf",
+  "trained": true
+ },
+ {
+  "name": "Barlow",
+  "path": "data/fonts/google/Barlow.ttf",
+  "trained": true
+ },
+ {
+  "name": "Barlow Condensed",
+  "path": "data/fonts/google/Barlow_Condensed.ttf",
+  "trained": true
+ },
+ {
+  "name": "Barlow Semi Condensed",
+  "path": "data/fonts/google/Barlow_Semi_Condensed.ttf",
+  "trained": true
+ },
+ {
+  "name": "Barriecito",
+  "path": "data/fonts/google/Barriecito.ttf",
+  "trained": true
+ },
+ {
+  "name": "Barrio",
+  "path": "data/fonts/google/Barrio.ttf",
+  "trained": true
+ },
+ {
+  "name": "Basic",
+  "path": "data/fonts/google/Basic.ttf",
+  "trained": true
+ },
+ {
+  "name": "Baskervville",
+  "path": "data/fonts/google/Baskervville.ttf",
+  "trained": true
+ },
+ {
+  "name": "Baskervville SC",
+  "path": "data/fonts/google/Baskervville_SC.ttf",
+  "trained": true
+ },
+ {
+  "name": "Battambang",
+  "path": "data/fonts/google/Battambang.ttf",
+  "trained": true,
+  "group": "Battambang",
+  "twins": [
+   "Roboto Slab",
+   "Suwannaphum"
+  ]
+ },
+ {
+  "name": "Baumans",
+  "path": "data/fonts/google/Baumans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Bayon",
+  "path": "data/fonts/google/Bayon.ttf",
+  "trained": true,
+  "group": "Bayon",
+  "twins": [
+   "Staatliches",
+   "Koulen"
+  ]
+ },
+ {
+  "name": "BBH Bartle",
+  "path": "data/fonts/google/BBH_Bartle.ttf",
+  "trained": true
+ },
+ {
+  "name": "BBH Bogle",
+  "path": "data/fonts/google/BBH_Bogle.ttf",
+  "trained": true
+ },
+ {
+  "name": "BBH Hegarty",
+  "path": "data/fonts/google/BBH_Hegarty.ttf",
+  "trained": true
+ },
+ {
+  "name": "Be Vietnam Pro",
+  "path": "data/fonts/google/Be_Vietnam_Pro.ttf",
+  "trained": true
+ },
+ {
+  "name": "Beau Rivage",
+  "path": "data/fonts/google/Beau_Rivage.ttf",
+  "trained": true
+ },
+ {
+  "name": "Bebas Neue",
+  "path": "data/fonts/google/Bebas_Neue.ttf",
+  "trained": true
+ },
+ {
+  "name": "Beiruti",
+  "path": "data/fonts/google/Beiruti.ttf",
+  "trained": true
+ },
+ {
+  "name": "Belanosima",
+  "path": "data/fonts/google/Belanosima.ttf",
+  "trained": true
+ },
+ {
+  "name": "Belgrano",
+  "path": "data/fonts/google/Belgrano.ttf",
+  "trained": true
+ },
+ {
+  "name": "Bellefair",
+  "path": "data/fonts/google/Bellefair.ttf",
+  "trained": true
+ },
+ {
+  "name": "Belleza",
+  "path": "data/fonts/google/Belleza.ttf",
+  "trained": true
+ },
+ {
+  "name": "Bellota",
+  "path": "data/fonts/google/Bellota.ttf",
+  "trained": true
+ },
+ {
+  "name": "Bellota Text",
+  "path": "data/fonts/google/Bellota_Text.ttf",
+  "trained": true
+ },
+ {
+  "name": "BenchNine",
+  "path": "data/fonts/google/BenchNine.ttf",
+  "trained": true
+ },
+ {
+  "name": "Benne",
+  "path": "data/fonts/google/Benne.ttf",
+  "trained": true,
+  "group": "Benne",
+  "twins": [
+   "EB Garamond"
+  ]
+ },
+ {
+  "name": "Bentham",
+  "path": "data/fonts/google/Bentham.ttf",
+  "trained": true
+ },
+ {
+  "name": "Berkshire Swash",
+  "path": "data/fonts/google/Berkshire_Swash.ttf",
+  "trained": true
+ },
+ {
+  "name": "Besley",
+  "path": "data/fonts/google/Besley.ttf",
+  "trained": true
+ },
+ {
+  "name": "Betania Patmos",
+  "path": "data/fonts/google/Betania_Patmos.ttf",
+  "trained": true,
+  "group": "Betania Patmos",
+  "twins": [
+   "Betania Patmos In"
+  ]
+ },
+ {
+  "name": "Betania Patmos GDL",
+  "path": "data/fonts/google/Betania_Patmos_GDL.ttf",
+  "trained": true,
+  "group": "Betania Patmos GDL",
+  "twins": [
+   "Betania Patmos In GDL"
+  ]
+ },
+ {
+  "name": "Beth Ellen",
+  "path": "data/fonts/google/Beth_Ellen.ttf",
+  "trained": true
+ },
+ {
+  "name": "Bevan",
+  "path": "data/fonts/google/Bevan.ttf",
+  "trained": true
+ },
+ {
+  "name": "BhuTuka Expanded One",
+  "path": "data/fonts/google/BhuTuka_Expanded_One.ttf",
+  "trained": true,
+  "group": "BhuTuka Expanded One",
+  "twins": [
+   "Padyakke Expanded One"
+  ]
+ },
+ {
+  "name": "Big Shoulders",
+  "path": "data/fonts/google/Big_Shoulders.ttf",
+  "trained": true
+ },
+ {
+  "name": "Big Shoulders Inline",
+  "path": "data/fonts/google/Big_Shoulders_Inline.ttf",
+  "trained": true
+ },
+ {
+  "name": "Big Shoulders Stencil",
+  "path": "data/fonts/google/Big_Shoulders_Stencil.ttf",
+  "trained": true
+ },
+ {
+  "name": "Bigelow Rules",
+  "path": "data/fonts/google/Bigelow_Rules.ttf",
+  "trained": true
+ },
+ {
+  "name": "Bigshot One",
+  "path": "data/fonts/google/Bigshot_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Bilbo",
+  "path": "data/fonts/google/Bilbo.ttf",
+  "trained": true
+ },
+ {
+  "name": "Bilbo Swash Caps",
+  "path": "data/fonts/google/Bilbo_Swash_Caps.ttf",
+  "trained": true
+ },
+ {
+  "name": "BioRhyme",
+  "path": "data/fonts/google/BioRhyme.ttf",
+  "trained": true
+ },
+ {
+  "name": "BioRhyme Expanded",
+  "path": "data/fonts/google/BioRhyme_Expanded.ttf",
+  "trained": true
+ },
+ {
+  "name": "Birthstone",
+  "path": "data/fonts/google/Birthstone.ttf",
+  "trained": true
+ },
+ {
+  "name": "Birthstone Bounce",
+  "path": "data/fonts/google/Birthstone_Bounce.ttf",
+  "trained": true
+ },
+ {
+  "name": "Biryani",
+  "path": "data/fonts/google/Biryani.ttf",
+  "trained": true
+ },
+ {
+  "name": "Bitcount",
+  "path": "data/fonts/google/Bitcount.ttf",
+  "trained": true,
+  "group": "Bitcount",
+  "twins": [
+   "Bitcount Grid Double",
+   "Bitcount Grid Double Ink",
+   "Bitcount Ink"
+  ]
+ },
+ {
+  "name": "Bitcount Grid Single",
+  "path": "data/fonts/google/Bitcount_Grid_Single.ttf",
+  "trained": true,
+  "group": "Bitcount Grid Single",
+  "twins": [
+   "Bitcount Grid Single Ink",
+   "Bitcount Single",
+   "Bitcount Single Ink"
+  ]
+ },
+ {
+  "name": "Bitcount Prop Double",
+  "path": "data/fonts/google/Bitcount_Prop_Double.ttf",
+  "trained": true,
+  "group": "Bitcount Prop Double",
+  "twins": [
+   "Bitcount Prop Double Ink"
+  ]
+ },
+ {
+  "name": "Bitcount Prop Single",
+  "path": "data/fonts/google/Bitcount_Prop_Single.ttf",
+  "trained": true,
+  "group": "Bitcount Prop Single",
+  "twins": [
+   "Bitcount Prop Single Ink"
+  ]
+ },
+ {
+  "name": "Bitter",
+  "path": "data/fonts/google/Bitter.ttf",
+  "trained": true
+ },
+ {
+  "name": "BJCree",
+  "path": "data/fonts/google/BJCree.ttf",
+  "trained": true
+ },
+ {
+  "name": "Black Ops One",
+  "path": "data/fonts/google/Black_Ops_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Blaka",
+  "path": "data/fonts/google/Blaka.ttf",
+  "trained": true,
+  "group": "Blaka",
+  "twins": [
+   "Blaka Ink"
+  ]
+ },
+ {
+  "name": "Blaka Hollow",
+  "path": "data/fonts/google/Blaka_Hollow.ttf",
+  "trained": true
+ },
+ {
+  "name": "Blinker",
+  "path": "data/fonts/google/Blinker.ttf",
+  "trained": true
+ },
+ {
+  "name": "Bodoni Moda",
+  "path": "data/fonts/google/Bodoni_Moda.ttf",
+  "trained": true
+ },
+ {
+  "name": "Bodoni Moda SC",
+  "path": "data/fonts/google/Bodoni_Moda_SC.ttf",
+  "trained": true
+ },
+ {
+  "name": "Bokor",
+  "path": "data/fonts/google/Bokor.ttf",
+  "trained": true,
+  "group": "Bokor",
+  "twins": [
+   "Pirata One"
+  ]
+ },
+ {
+  "name": "Boldonse",
+  "path": "data/fonts/google/Boldonse.ttf",
+  "trained": true
+ },
+ {
+  "name": "Bona Nova",
+  "path": "data/fonts/google/Bona_Nova.ttf",
+  "trained": true,
+  "group": "Bona Nova",
+  "twins": [
+   "Bona Nova SC"
+  ]
+ },
+ {
+  "name": "Bonbon",
+  "path": "data/fonts/google/Bonbon.ttf",
+  "trained": true
+ },
+ {
+  "name": "Bonheur Royale",
+  "path": "data/fonts/google/Bonheur_Royale.ttf",
+  "trained": true
+ },
+ {
+  "name": "Boogaloo",
+  "path": "data/fonts/google/Boogaloo.ttf",
+  "trained": true
+ },
+ {
+  "name": "Book Antiqua",
+  "path": "C:/Windows/Fonts/BKANT.TTF",
+  "trained": true,
+  "group": "Palatino Linotype",
+  "twins": [
+   "Book Antiqua"
+  ]
+ },
+ {
+  "name": "Bookman Old Style",
+  "path": "C:/Windows/Fonts/BOOKOS.TTF",
+  "trained": true
+ },
+ {
+  "name": "Borel",
+  "path": "data/fonts/google/Borel.ttf",
+  "trained": true
+ },
+ {
+  "name": "Bowlby One",
+  "path": "data/fonts/google/Bowlby_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Bowlby One SC",
+  "path": "data/fonts/google/Bowlby_One_SC.ttf",
+  "trained": true
+ },
+ {
+  "name": "Braah One",
+  "path": "data/fonts/google/Braah_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Bradley Hand ITC",
+  "path": "C:/Windows/Fonts/BRADHITC.TTF",
+  "trained": true
+ },
+ {
+  "name": "Brawler",
+  "path": "data/fonts/google/Brawler.ttf",
+  "trained": true
+ },
+ {
+  "name": "Bree Serif",
+  "path": "data/fonts/google/Bree_Serif.ttf",
+  "trained": true
+ },
+ {
+  "name": "Bricolage Grotesque",
+  "path": "data/fonts/google/Bricolage_Grotesque.ttf",
+  "trained": true
+ },
+ {
+  "name": "Bruno Ace",
+  "path": "data/fonts/google/Bruno_Ace.ttf",
+  "trained": true
+ },
+ {
+  "name": "Bruno Ace SC",
+  "path": "data/fonts/google/Bruno_Ace_SC.ttf",
+  "trained": true
+ },
+ {
+  "name": "Brygada 1918",
+  "path": "data/fonts/google/Brygada_1918.ttf",
+  "trained": true
+ },
+ {
+  "name": "Bubblegum Sans",
+  "path": "data/fonts/google/Bubblegum_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Bubbler One",
+  "path": "data/fonts/google/Bubbler_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Buda",
+  "path": "data/fonts/google/Buda.ttf",
+  "trained": true
+ },
+ {
+  "name": "Buenard",
+  "path": "data/fonts/google/Buenard.ttf",
+  "trained": true
+ },
+ {
+  "name": "Bungee",
+  "path": "data/fonts/google/Bungee.ttf",
+  "trained": true,
+  "group": "Bungee",
+  "twins": [
+   "Bungee Spice",
+   "Bungee Tint"
+  ]
+ },
+ {
+  "name": "Bungee Hairline",
+  "path": "data/fonts/google/Bungee_Hairline.ttf",
+  "trained": true
+ },
+ {
+  "name": "Bungee Inline",
+  "path": "data/fonts/google/Bungee_Inline.ttf",
+  "trained": true
+ },
+ {
+  "name": "Bungee Outline",
+  "path": "data/fonts/google/Bungee_Outline.ttf",
+  "trained": true
+ },
+ {
+  "name": "Bungee Shade",
+  "path": "data/fonts/google/Bungee_Shade.ttf",
+  "trained": true
+ },
+ {
+  "name": "Butcherman",
+  "path": "data/fonts/google/Butcherman.ttf",
+  "trained": true
+ },
+ {
+  "name": "Butterfly Kids",
+  "path": "data/fonts/google/Butterfly_Kids.ttf",
+  "trained": true
+ },
+ {
+  "name": "Bytesized",
+  "path": "data/fonts/google/Bytesized.ttf",
+  "trained": true
+ },
+ {
+  "name": "Caacupe One",
+  "path": "data/fonts/google/Caacupe_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Cabin",
+  "path": "data/fonts/google/Cabin.ttf",
+  "trained": true
+ },
+ {
+  "name": "Cabin Condensed",
+  "path": "data/fonts/google/Cabin_Condensed.ttf",
+  "trained": true
+ },
+ {
+  "name": "Cabin Sketch",
+  "path": "data/fonts/google/Cabin_Sketch.ttf",
+  "trained": true
+ },
+ {
+  "name": "Caesar Dressing",
+  "path": "data/fonts/google/Caesar_Dressing.ttf",
+  "trained": true
+ },
+ {
+  "name": "Cagliostro",
+  "path": "data/fonts/google/Cagliostro.ttf",
+  "trained": true
+ },
+ {
+  "name": "Cairo",
+  "path": "data/fonts/google/Cairo.ttf",
+  "trained": true,
+  "group": "Cairo",
+  "twins": [
+   "Cairo Play"
+  ]
+ },
+ {
+  "name": "Cal Sans",
+  "path": "data/fonts/google/Cal_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Calibri / Carlito",
+  "path": "data/fonts/google/Carlito.ttf",
+  "trained": true
+ },
+ {
+  "name": "Calistoga",
+  "path": "data/fonts/google/Calistoga.ttf",
+  "trained": true
+ },
+ {
+  "name": "Calligraffitti",
+  "path": "data/fonts/google/Calligraffitti.ttf",
+  "trained": true
+ },
+ {
+  "name": "Cambay",
+  "path": "data/fonts/google/Cambay.ttf",
+  "trained": true
+ },
+ {
+  "name": "Cambo",
+  "path": "data/fonts/google/Cambo.ttf",
+  "trained": true
+ },
+ {
+  "name": "Cambria / Caladea",
+  "path": "data/fonts/google/Caladea.ttf",
+  "trained": true
+ },
+ {
+  "name": "Candal",
+  "path": "data/fonts/google/Candal.ttf",
+  "trained": true
+ },
+ {
+  "name": "Candara",
+  "path": "C:/Windows/Fonts/Candara.ttf",
+  "trained": true
+ },
+ {
+  "name": "Cantarell",
+  "path": "data/fonts/google/Cantarell.ttf",
+  "trained": true
+ },
+ {
+  "name": "Cantata One",
+  "path": "data/fonts/google/Cantata_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Cantora One",
+  "path": "data/fonts/google/Cantora_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Caprasimo",
+  "path": "data/fonts/google/Caprasimo.ttf",
+  "trained": true
+ },
+ {
+  "name": "Capriola",
+  "path": "data/fonts/google/Capriola.ttf",
+  "trained": true
+ },
+ {
+  "name": "Caramel",
+  "path": "data/fonts/google/Caramel.ttf",
+  "trained": true
+ },
+ {
+  "name": "Carattere",
+  "path": "data/fonts/google/Carattere.ttf",
+  "trained": true
+ },
+ {
+  "name": "Cardo",
+  "path": "data/fonts/google/Cardo.ttf",
+  "trained": true
+ },
+ {
+  "name": "Carme",
+  "path": "data/fonts/google/Carme.ttf",
+  "trained": true
+ },
+ {
+  "name": "Carrois Gothic",
+  "path": "data/fonts/google/Carrois_Gothic.ttf",
+  "trained": true
+ },
+ {
+  "name": "Carrois Gothic SC",
+  "path": "data/fonts/google/Carrois_Gothic_SC.ttf",
+  "trained": true
+ },
+ {
+  "name": "Carter One",
+  "path": "data/fonts/google/Carter_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Cascadia Code",
+  "path": "data/fonts/google/Cascadia_Code.ttf",
+  "trained": true,
+  "group": "Cascadia Code",
+  "twins": [
+   "Cascadia Mono"
+  ]
+ },
+ {
+  "name": "Castoro",
+  "path": "data/fonts/google/Castoro.ttf",
+  "trained": true,
+  "group": "Castoro",
+  "twins": [
+   "Tiro Bangla"
+  ]
+ },
+ {
+  "name": "Castoro Titling",
+  "path": "data/fonts/google/Castoro_Titling.ttf",
+  "trained": true
+ },
+ {
+  "name": "Catamaran",
+  "path": "data/fonts/google/Catamaran.ttf",
+  "trained": true
+ },
+ {
+  "name": "Caudex",
+  "path": "data/fonts/google/Caudex.ttf",
+  "trained": true
+ },
+ {
+  "name": "Cause",
+  "path": "data/fonts/google/Cause.ttf",
+  "trained": true
+ },
+ {
+  "name": "Caveat",
+  "path": "data/fonts/google/Caveat.ttf",
+  "trained": true
+ },
+ {
+  "name": "Caveat Brush",
+  "path": "data/fonts/google/Caveat_Brush.ttf",
+  "trained": true
+ },
+ {
+  "name": "Cedarville Cursive",
+  "path": "data/fonts/google/Cedarville_Cursive.ttf",
+  "trained": true
+ },
+ {
+  "name": "Century",
+  "path": "C:/Windows/Fonts/CENTURY.TTF",
+  "trained": true
+ },
+ {
+  "name": "Century Gothic",
+  "path": "C:/Windows/Fonts/GOTHIC.TTF",
+  "trained": true
+ },
+ {
+  "name": "Ceviche One",
+  "path": "data/fonts/google/Ceviche_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Chakra Petch",
+  "path": "data/fonts/google/Chakra_Petch.ttf",
+  "trained": true
+ },
+ {
+  "name": "Changa",
+  "path": "data/fonts/google/Changa.ttf",
+  "trained": true
+ },
+ {
+  "name": "Changa One",
+  "path": "data/fonts/google/Changa_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Chango",
+  "path": "data/fonts/google/Chango.ttf",
+  "trained": true
+ },
+ {
+  "name": "Charis SIL",
+  "path": "data/fonts/google/Charis_SIL.ttf",
+  "trained": true
+ },
+ {
+  "name": "Charm",
+  "path": "data/fonts/google/Charm.ttf",
+  "trained": true
+ },
+ {
+  "name": "Charmonman",
+  "path": "data/fonts/google/Charmonman.ttf",
+  "trained": true
+ },
+ {
+  "name": "Chathura",
+  "path": "data/fonts/google/Chathura.ttf",
+  "trained": true
+ },
+ {
+  "name": "Chau Philomene One",
+  "path": "data/fonts/google/Chau_Philomene_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Chela One",
+  "path": "data/fonts/google/Chela_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Chelsea Market",
+  "path": "data/fonts/google/Chelsea_Market.ttf",
+  "trained": true
+ },
+ {
+  "name": "Cherish",
+  "path": "data/fonts/google/Cherish.ttf",
+  "trained": true
+ },
+ {
+  "name": "Cherry Cream Soda",
+  "path": "data/fonts/google/Cherry_Cream_Soda.ttf",
+  "trained": true
+ },
+ {
+  "name": "Cherry Swash",
+  "path": "data/fonts/google/Cherry_Swash.ttf",
+  "trained": true
+ },
+ {
+  "name": "Chewy",
+  "path": "data/fonts/google/Chewy.ttf",
+  "trained": true
+ },
+ {
+  "name": "Chicle",
+  "path": "data/fonts/google/Chicle.ttf",
+  "trained": true
+ },
+ {
+  "name": "Chilanka",
+  "path": "data/fonts/google/Chilanka.ttf",
+  "trained": true
+ },
+ {
+  "name": "Chivo",
+  "path": "data/fonts/google/Chivo.ttf",
+  "trained": true
+ },
+ {
+  "name": "Chivo Mono",
+  "path": "data/fonts/google/Chivo_Mono.ttf",
+  "trained": true
+ },
+ {
+  "name": "Chonburi",
+  "path": "data/fonts/google/Chonburi.ttf",
+  "trained": true
+ },
+ {
+  "name": "Cinzel",
+  "path": "data/fonts/google/Cinzel.ttf",
+  "trained": true
+ },
+ {
+  "name": "Cinzel Decorative",
+  "path": "data/fonts/google/Cinzel_Decorative.ttf",
+  "trained": true
+ },
+ {
+  "name": "Clarity City",
+  "path": "data/fonts/google/Clarity_City.ttf",
+  "trained": true
+ },
+ {
+  "name": "Clicker Script",
+  "path": "data/fonts/google/Clicker_Script.ttf",
+  "trained": true
+ },
+ {
+  "name": "Climate Crisis",
+  "path": "data/fonts/google/Climate_Crisis.ttf",
+  "trained": true
+ },
+ {
+  "name": "Coda",
+  "path": "data/fonts/google/Coda.ttf",
+  "trained": true
+ },
+ {
+  "name": "Codystar",
+  "path": "data/fonts/google/Codystar.ttf",
+  "trained": true
+ },
+ {
+  "name": "Coiny",
+  "path": "data/fonts/google/Coiny.ttf",
+  "trained": true
+ },
+ {
+  "name": "Combo",
+  "path": "data/fonts/google/Combo.ttf",
+  "trained": true
+ },
+ {
+  "name": "Comfortaa",
+  "path": "data/fonts/google/Comfortaa.ttf",
+  "trained": true
+ },
+ {
+  "name": "Comforter",
+  "path": "data/fonts/google/Comforter.ttf",
+  "trained": true,
+  "group": "Comforter",
+  "twins": [
+   "Comforter Brush"
+  ]
+ },
+ {
+  "name": "Comforter Brush",
+  "path": "data/fonts/google/Comforter_Brush.ttf",
+  "trained": true,
+  "group": "Comforter",
+  "twins": [
+   "Comforter Brush"
+  ]
+ },
+ {
+  "name": "Comic Neue",
+  "path": "data/fonts/google/Comic_Neue.ttf",
+  "trained": true
+ },
+ {
+  "name": "Comic Relief",
+  "path": "data/fonts/google/Comic_Relief.ttf",
+  "trained": true
+ },
+ {
+  "name": "Comic Sans MS",
+  "path": "C:/Windows/Fonts/comic.ttf",
+  "trained": true
+ },
+ {
+  "name": "Coming Soon",
+  "path": "data/fonts/google/Coming_Soon.ttf",
+  "trained": true
+ },
+ {
+  "name": "Comme",
+  "path": "data/fonts/google/Comme.ttf",
+  "trained": true
+ },
+ {
+  "name": "Commissioner",
+  "path": "data/fonts/google/Commissioner.ttf",
+  "trained": true
+ },
+ {
+  "name": "Concert One",
+  "path": "data/fonts/google/Concert_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Condiment",
+  "path": "data/fonts/google/Condiment.ttf",
+  "trained": true
+ },
+ {
+  "name": "Consolas",
+  "path": "C:/Windows/Fonts/consola.ttf",
+  "trained": true
+ },
+ {
+  "name": "Constantia",
+  "path": "C:/Windows/Fonts/constan.ttf",
+  "trained": true
+ },
+ {
+  "name": "Contrail One",
+  "path": "data/fonts/google/Contrail_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Convergence",
+  "path": "data/fonts/google/Convergence.ttf",
+  "trained": true
+ },
+ {
+  "name": "Cookie",
+  "path": "data/fonts/google/Cookie.ttf",
+  "trained": true
+ },
+ {
+  "name": "Copse",
+  "path": "data/fonts/google/Copse.ttf",
+  "trained": true
+ },
+ {
+  "name": "Coral Pixels",
+  "path": "data/fonts/google/Coral_Pixels.ttf",
+  "trained": true
+ },
+ {
+  "name": "Corbel",
+  "path": "C:/Windows/Fonts/corbel.ttf",
+  "trained": true
+ },
+ {
+  "name": "Corben",
+  "path": "data/fonts/google/Corben.ttf",
+  "trained": true
+ },
+ {
+  "name": "Corinthia",
+  "path": "data/fonts/google/Corinthia.ttf",
+  "trained": true
+ },
+ {
+  "name": "Cormorant",
+  "path": "data/fonts/google/Cormorant.ttf",
+  "trained": true,
+  "group": "Cormorant",
+  "twins": [
+   "Cormorant Infant",
+   "Cormorant Garamond"
+  ]
+ },
+ {
+  "name": "Cormorant Infant",
+  "path": "data/fonts/google/Cormorant_Infant.ttf",
+  "trained": true,
+  "group": "Cormorant",
+  "twins": [
+   "Cormorant Infant"
+  ]
+ },
+ {
+  "name": "Cormorant SC",
+  "path": "data/fonts/google/Cormorant_SC.ttf",
+  "trained": true
+ },
+ {
+  "name": "Cormorant Unicase",
+  "path": "data/fonts/google/Cormorant_Unicase.ttf",
+  "trained": true
+ },
+ {
+  "name": "Cormorant Upright",
+  "path": "data/fonts/google/Cormorant_Upright.ttf",
+  "trained": true
+ },
+ {
+  "name": "Cossette Texte",
+  "path": "data/fonts/google/Cossette_Texte.ttf",
+  "trained": true
+ },
+ {
+  "name": "Cossette Titre",
+  "path": "data/fonts/google/Cossette_Titre.ttf",
+  "trained": true
+ },
+ {
+  "name": "Courgette",
+  "path": "data/fonts/google/Courgette.ttf",
+  "trained": true
+ },
+ {
+  "name": "Courier / Nimbus Mono PS",
+  "path": "data/fonts/extras/NimbusMonoPS-Regular.otf",
+  "trained": true
+ },
+ {
+  "name": "Courier New / Cousine",
+  "path": "data/fonts/google/Cousine.ttf",
+  "trained": true
+ },
+ {
+  "name": "Courier Prime",
+  "path": "data/fonts/google/Courier_Prime.ttf",
+  "trained": true
+ },
+ {
+  "name": "Coustard",
+  "path": "data/fonts/google/Coustard.ttf",
+  "trained": true
+ },
+ {
+  "name": "Covered By Your Grace",
+  "path": "data/fonts/google/Covered_By_Your_Grace.ttf",
+  "trained": true
+ },
+ {
+  "name": "Crafty Girls",
+  "path": "data/fonts/google/Crafty_Girls.ttf",
+  "trained": true
+ },
+ {
+  "name": "Creepster",
+  "path": "data/fonts/google/Creepster.ttf",
+  "trained": true
+ },
+ {
+  "name": "Crete Round",
+  "path": "data/fonts/google/Crete_Round.ttf",
+  "trained": true
+ },
+ {
+  "name": "Crimson Pro",
+  "path": "data/fonts/google/Crimson_Pro.ttf",
+  "trained": true
+ },
+ {
+  "name": "Crimson Text",
+  "path": "data/fonts/google/Crimson_Text.ttf",
+  "trained": true
+ },
+ {
+  "name": "Croissant One",
+  "path": "data/fonts/google/Croissant_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Crushed",
+  "path": "data/fonts/google/Crushed.ttf",
+  "trained": true
+ },
+ {
+  "name": "Cuprum",
+  "path": "data/fonts/google/Cuprum.ttf",
+  "trained": true
+ },
+ {
+  "name": "Cutive",
+  "path": "data/fonts/google/Cutive.ttf",
+  "trained": true
+ },
+ {
+  "name": "Cutive Mono",
+  "path": "data/fonts/google/Cutive_Mono.ttf",
+  "trained": true
+ },
+ {
+  "name": "Dai Banna SIL",
+  "path": "data/fonts/google/Dai_Banna_SIL.ttf",
+  "trained": true
+ },
+ {
+  "name": "Damion",
+  "path": "data/fonts/google/Damion.ttf",
+  "trained": true
+ },
+ {
+  "name": "Dancing Script",
+  "path": "data/fonts/google/Dancing_Script.ttf",
+  "trained": true
+ },
+ {
+  "name": "Danfo",
+  "path": "data/fonts/google/Danfo.ttf",
+  "trained": true
+ },
+ {
+  "name": "Dangrek",
+  "path": "data/fonts/google/Dangrek.ttf",
+  "trained": true
+ },
+ {
+  "name": "Darker Grotesque",
+  "path": "data/fonts/google/Darker_Grotesque.ttf",
+  "trained": true
+ },
+ {
+  "name": "Datatype",
+  "path": "data/fonts/google/Datatype.ttf",
+  "trained": true
+ },
+ {
+  "name": "David Libre",
+  "path": "data/fonts/google/David_Libre.ttf",
+  "trained": true,
+  "group": "David Libre",
+  "twins": [
+   "Gentium Plus"
+  ]
+ },
+ {
+  "name": "Dawning of a New Day",
+  "path": "data/fonts/google/Dawning_of_a_New_Day.ttf",
+  "trained": true
+ },
+ {
+  "name": "Days One",
+  "path": "data/fonts/google/Days_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "DejaVu Sans",
+  "path": "data/fonts/extras/DejaVuSans.ttf",
+  "trained": true
+ },
+ {
+  "name": "DejaVu Sans Mono",
+  "path": "data/fonts/extras/DejaVuSansMono.ttf",
+  "trained": true
+ },
+ {
+  "name": "DejaVu Serif",
+  "path": "data/fonts/extras/DejaVuSerif.ttf",
+  "trained": true
+ },
+ {
+  "name": "Dekko",
+  "path": "data/fonts/google/Dekko.ttf",
+  "trained": true
+ },
+ {
+  "name": "Delicious Handrawn",
+  "path": "data/fonts/google/Delicious_Handrawn.ttf",
+  "trained": true
+ },
+ {
+  "name": "Delius",
+  "path": "data/fonts/google/Delius.ttf",
+  "trained": true
+ },
+ {
+  "name": "Delius Swash Caps",
+  "path": "data/fonts/google/Delius_Swash_Caps.ttf",
+  "trained": true
+ },
+ {
+  "name": "Delius Unicase",
+  "path": "data/fonts/google/Delius_Unicase.ttf",
+  "trained": true
+ },
+ {
+  "name": "Della Respira",
+  "path": "data/fonts/google/Della_Respira.ttf",
+  "trained": true
+ },
+ {
+  "name": "Denk One",
+  "path": "data/fonts/google/Denk_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Devonshire",
+  "path": "data/fonts/google/Devonshire.ttf",
+  "trained": true
+ },
+ {
+  "name": "Dhurjati",
+  "path": "data/fonts/google/Dhurjati.ttf",
+  "trained": true
+ },
+ {
+  "name": "Didact Gothic",
+  "path": "data/fonts/google/Didact_Gothic.ttf",
+  "trained": true
+ },
+ {
+  "name": "Diplomata",
+  "path": "data/fonts/google/Diplomata.ttf",
+  "trained": true
+ },
+ {
+  "name": "Diplomata SC",
+  "path": "data/fonts/google/Diplomata_SC.ttf",
+  "trained": true
+ },
+ {
+  "name": "DM Mono",
+  "path": "data/fonts/google/DM_Mono.ttf",
+  "trained": true
+ },
+ {
+  "name": "DM Sans",
+  "path": "data/fonts/google/DM_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "DM Serif Display",
+  "path": "data/fonts/google/DM_Serif_Display.ttf",
+  "trained": true
+ },
+ {
+  "name": "DM Serif Text",
+  "path": "data/fonts/google/DM_Serif_Text.ttf",
+  "trained": true
+ },
+ {
+  "name": "Domine",
+  "path": "data/fonts/google/Domine.ttf",
+  "trained": true
+ },
+ {
+  "name": "Donegal One",
+  "path": "data/fonts/google/Donegal_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Doppio One",
+  "path": "data/fonts/google/Doppio_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Dorsa",
+  "path": "data/fonts/google/Dorsa.ttf",
+  "trained": true
+ },
+ {
+  "name": "Dosis",
+  "path": "data/fonts/google/Dosis.ttf",
+  "trained": true
+ },
+ {
+  "name": "Doto",
+  "path": "data/fonts/google/Doto.ttf",
+  "trained": true
+ },
+ {
+  "name": "Dr Sugiyama",
+  "path": "data/fonts/google/Dr_Sugiyama.ttf",
+  "trained": true
+ },
+ {
+  "name": "Dubai",
+  "path": "C:/Windows/Fonts/DUBAI-REGULAR.TTF",
+  "trained": true
+ },
+ {
+  "name": "Duru Sans",
+  "path": "data/fonts/google/Duru_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Dynalight",
+  "path": "data/fonts/google/Dynalight.ttf",
+  "trained": true
+ },
+ {
+  "name": "DynaPuff",
+  "path": "data/fonts/google/DynaPuff.ttf",
+  "trained": true
+ },
+ {
+  "name": "Eagle Lake",
+  "path": "data/fonts/google/Eagle_Lake.ttf",
+  "trained": true
+ },
+ {
+  "name": "Eater",
+  "path": "data/fonts/google/Eater.ttf",
+  "trained": true
+ },
+ {
+  "name": "EB Garamond",
+  "path": "data/fonts/google/EB_Garamond.ttf",
+  "trained": true,
+  "group": "Benne",
+  "twins": [
+   "EB Garamond"
+  ]
+ },
+ {
+  "name": "Economica",
+  "path": "data/fonts/google/Economica.ttf",
+  "trained": true
+ },
+ {
+  "name": "Eczar",
+  "path": "data/fonts/google/Eczar.ttf",
+  "trained": true
+ },
+ {
+  "name": "Edu AU VIC WA NT Arrows",
+  "path": "data/fonts/google/Edu_AU_VIC_WA_NT_Arrows.ttf",
+  "trained": true
+ },
+ {
+  "name": "Edu AU VIC WA NT Dots",
+  "path": "data/fonts/google/Edu_AU_VIC_WA_NT_Dots.ttf",
+  "trained": true
+ },
+ {
+  "name": "Edu AU VIC WA NT Guides",
+  "path": "data/fonts/google/Edu_AU_VIC_WA_NT_Guides.ttf",
+  "trained": true
+ },
+ {
+  "name": "Edu AU VIC WA NT Hand",
+  "path": "data/fonts/google/Edu_AU_VIC_WA_NT_Hand.ttf",
+  "trained": true,
+  "group": "Edu AU VIC WA NT Hand",
+  "twins": [
+   "Edu VIC WA NT Hand",
+   "Edu AU VIC WA NT Pre"
+  ]
+ },
+ {
+  "name": "Edu NSW ACT Cursive",
+  "path": "data/fonts/google/Edu_NSW_ACT_Cursive.ttf",
+  "trained": true
+ },
+ {
+  "name": "Edu NSW ACT Foundation",
+  "path": "data/fonts/google/Edu_NSW_ACT_Foundation.ttf",
+  "trained": true
+ },
+ {
+  "name": "Edu NSW ACT Hand Pre",
+  "path": "data/fonts/google/Edu_NSW_ACT_Hand_Pre.ttf",
+  "trained": true
+ },
+ {
+  "name": "Edu QLD Beginner",
+  "path": "data/fonts/google/Edu_QLD_Beginner.ttf",
+  "trained": true
+ },
+ {
+  "name": "Edu QLD Hand",
+  "path": "data/fonts/google/Edu_QLD_Hand.ttf",
+  "trained": true
+ },
+ {
+  "name": "Edu SA Beginner",
+  "path": "data/fonts/google/Edu_SA_Beginner.ttf",
+  "trained": true
+ },
+ {
+  "name": "Edu SA Hand",
+  "path": "data/fonts/google/Edu_SA_Hand.ttf",
+  "trained": true
+ },
+ {
+  "name": "Edu TAS Beginner",
+  "path": "data/fonts/google/Edu_TAS_Beginner.ttf",
+  "trained": true
+ },
+ {
+  "name": "Edu VIC WA NT Beginner",
+  "path": "data/fonts/google/Edu_VIC_WA_NT_Beginner.ttf",
+  "trained": true
+ },
+ {
+  "name": "Edu VIC WA NT Hand",
+  "path": "data/fonts/google/Edu_VIC_WA_NT_Hand.ttf",
+  "trained": true,
+  "group": "Edu AU VIC WA NT Hand",
+  "twins": [
+   "Edu VIC WA NT Hand"
+  ]
+ },
+ {
+  "name": "Edu VIC WA NT Hand Pre",
+  "path": "data/fonts/google/Edu_VIC_WA_NT_Hand_Pre.ttf",
+  "trained": true
+ },
+ {
+  "name": "El Messiri",
+  "path": "data/fonts/google/El_Messiri.ttf",
+  "trained": true,
+  "group": "El Messiri",
+  "twins": [
+   "Philosopher"
+  ]
+ },
+ {
+  "name": "Electrolize",
+  "path": "data/fonts/google/Electrolize.ttf",
+  "trained": true
+ },
+ {
+  "name": "Elms Sans",
+  "path": "data/fonts/google/Elms_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Elsie",
+  "path": "data/fonts/google/Elsie.ttf",
+  "trained": true,
+  "group": "Elsie",
+  "twins": [
+   "Elsie Swash Caps"
+  ]
+ },
+ {
+  "name": "Elsie Swash Caps",
+  "path": "data/fonts/google/Elsie_Swash_Caps.ttf",
+  "trained": true,
+  "group": "Elsie",
+  "twins": [
+   "Elsie Swash Caps"
+  ]
+ },
+ {
+  "name": "Emblema One",
+  "path": "data/fonts/google/Emblema_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Emilys Candy",
+  "path": "data/fonts/google/Emilys_Candy.ttf",
+  "trained": true
+ },
+ {
+  "name": "Encode Sans",
+  "path": "data/fonts/google/Encode_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Encode Sans Condensed",
+  "path": "data/fonts/google/Encode_Sans_Condensed.ttf",
+  "trained": true
+ },
+ {
+  "name": "Encode Sans Expanded",
+  "path": "data/fonts/google/Encode_Sans_Expanded.ttf",
+  "trained": true
+ },
+ {
+  "name": "Encode Sans SC",
+  "path": "data/fonts/google/Encode_Sans_SC.ttf",
+  "trained": true
+ },
+ {
+  "name": "Encode Sans Semi Condensed",
+  "path": "data/fonts/google/Encode_Sans_Semi_Condensed.ttf",
+  "trained": true
+ },
+ {
+  "name": "Encode Sans Semi Expanded",
+  "path": "data/fonts/google/Encode_Sans_Semi_Expanded.ttf",
+  "trained": true
+ },
+ {
+  "name": "Engagement",
+  "path": "data/fonts/google/Engagement.ttf",
+  "trained": true
+ },
+ {
+  "name": "Englebert",
+  "path": "data/fonts/google/Englebert.ttf",
+  "trained": true
+ },
+ {
+  "name": "Enriqueta",
+  "path": "data/fonts/google/Enriqueta.ttf",
+  "trained": true
+ },
+ {
+  "name": "Ephesis",
+  "path": "data/fonts/google/Ephesis.ttf",
+  "trained": true
+ },
+ {
+  "name": "Epilogue",
+  "path": "data/fonts/google/Epilogue.ttf",
+  "trained": true
+ },
+ {
+  "name": "Epunda Sans",
+  "path": "data/fonts/google/Epunda_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Epunda Slab",
+  "path": "data/fonts/google/Epunda_Slab.ttf",
+  "trained": true
+ },
+ {
+  "name": "Erica One",
+  "path": "data/fonts/google/Erica_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Esteban",
+  "path": "data/fonts/google/Esteban.ttf",
+  "trained": true
+ },
+ {
+  "name": "Estedad",
+  "path": "data/fonts/google/Estedad.ttf",
+  "trained": true
+ },
+ {
+  "name": "Estonia",
+  "path": "data/fonts/google/Estonia.ttf",
+  "trained": true
+ },
+ {
+  "name": "Euphoria Script",
+  "path": "data/fonts/google/Euphoria_Script.ttf",
+  "trained": true
+ },
+ {
+  "name": "Ewert",
+  "path": "data/fonts/google/Ewert.ttf",
+  "trained": true
+ },
+ {
+  "name": "Exile",
+  "path": "data/fonts/google/Exile.ttf",
+  "trained": true
+ },
+ {
+  "name": "Exo",
+  "path": "data/fonts/google/Exo.ttf",
+  "trained": true
+ },
+ {
+  "name": "Exo 2",
+  "path": "data/fonts/google/Exo_2.ttf",
+  "trained": true
+ },
+ {
+  "name": "Expletus Sans",
+  "path": "data/fonts/google/Expletus_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Explora",
+  "path": "data/fonts/google/Explora.ttf",
+  "trained": true
+ },
+ {
+  "name": "Faculty Glyphic",
+  "path": "data/fonts/google/Faculty_Glyphic.ttf",
+  "trained": true
+ },
+ {
+  "name": "Fahkwang",
+  "path": "data/fonts/google/Fahkwang.ttf",
+  "trained": true
+ },
+ {
+  "name": "Familjen Grotesk",
+  "path": "data/fonts/google/Familjen_Grotesk.ttf",
+  "trained": true
+ },
+ {
+  "name": "Fanwood Text",
+  "path": "data/fonts/google/Fanwood_Text.ttf",
+  "trained": true
+ },
+ {
+  "name": "Farro",
+  "path": "data/fonts/google/Farro.ttf",
+  "trained": true
+ },
+ {
+  "name": "Farsan",
+  "path": "data/fonts/google/Farsan.ttf",
+  "trained": true
+ },
+ {
+  "name": "Fascinate",
+  "path": "data/fonts/google/Fascinate.ttf",
+  "trained": true
+ },
+ {
+  "name": "Fascinate Inline",
+  "path": "data/fonts/google/Fascinate_Inline.ttf",
+  "trained": true
+ },
+ {
+  "name": "Faster One",
+  "path": "data/fonts/google/Faster_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Fasthand",
+  "path": "data/fonts/google/Fasthand.ttf",
+  "trained": true,
+  "group": "Fasthand",
+  "twins": [
+   "Seaweed Script",
+   "Freehand",
+   "Taprom"
+  ]
+ },
+ {
+  "name": "Fauna One",
+  "path": "data/fonts/google/Fauna_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Faustina",
+  "path": "data/fonts/google/Faustina.ttf",
+  "trained": true
+ },
+ {
+  "name": "Federant",
+  "path": "data/fonts/google/Federant.ttf",
+  "trained": true
+ },
+ {
+  "name": "Federo",
+  "path": "data/fonts/google/Federo.ttf",
+  "trained": true
+ },
+ {
+  "name": "Felipa",
+  "path": "data/fonts/google/Felipa.ttf",
+  "trained": true
+ },
+ {
+  "name": "Fenix",
+  "path": "data/fonts/google/Fenix.ttf",
+  "trained": true
+ },
+ {
+  "name": "Festive",
+  "path": "data/fonts/google/Festive.ttf",
+  "trained": true
+ },
+ {
+  "name": "Figtree",
+  "path": "data/fonts/google/Figtree.ttf",
+  "trained": true
+ },
+ {
+  "name": "Finger Paint",
+  "path": "data/fonts/google/Finger_Paint.ttf",
+  "trained": true
+ },
+ {
+  "name": "Finlandica Headline",
+  "path": "data/fonts/google/Finlandica_Headline.ttf",
+  "trained": true
+ },
+ {
+  "name": "Finlandica Text",
+  "path": "data/fonts/google/Finlandica_Text.ttf",
+  "trained": true
+ },
+ {
+  "name": "Fira Code",
+  "path": "data/fonts/google/Fira_Code.ttf",
+  "trained": true,
+  "group": "Fira Code",
+  "twins": [
+   "Fira Mono"
+  ]
+ },
+ {
+  "name": "Fira Mono",
+  "path": "data/fonts/google/Fira_Mono.ttf",
+  "trained": true,
+  "group": "Fira Code",
+  "twins": [
+   "Fira Mono"
+  ]
+ },
+ {
+  "name": "Fira Sans",
+  "path": "data/fonts/google/Fira_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Fira Sans Condensed",
+  "path": "data/fonts/google/Fira_Sans_Condensed.ttf",
+  "trained": true
+ },
+ {
+  "name": "Fira Sans Extra Condensed",
+  "path": "data/fonts/google/Fira_Sans_Extra_Condensed.ttf",
+  "trained": true
+ },
+ {
+  "name": "Fjalla One",
+  "path": "data/fonts/google/Fjalla_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Fjord One",
+  "path": "data/fonts/google/Fjord_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Flamenco",
+  "path": "data/fonts/google/Flamenco.ttf",
+  "trained": true
+ },
+ {
+  "name": "Flavors",
+  "path": "data/fonts/google/Flavors.ttf",
+  "trained": true
+ },
+ {
+  "name": "Fleur De Leah",
+  "path": "data/fonts/google/Fleur_De_Leah.ttf",
+  "trained": true
+ },
+ {
+  "name": "Foldit",
+  "path": "data/fonts/google/Foldit.ttf",
+  "trained": true
+ },
+ {
+  "name": "Fondamento",
+  "path": "data/fonts/google/Fondamento.ttf",
+  "trained": true
+ },
+ {
+  "name": "Fontdiner Swanky",
+  "path": "data/fonts/google/Fontdiner_Swanky.ttf",
+  "trained": true
+ },
+ {
+  "name": "Forum",
+  "path": "data/fonts/google/Forum.ttf",
+  "trained": true
+ },
+ {
+  "name": "Fragment Mono",
+  "path": "data/fonts/google/Fragment_Mono.ttf",
+  "trained": true
+ },
+ {
+  "name": "Francois One",
+  "path": "data/fonts/google/Francois_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Frank Ruhl Libre",
+  "path": "data/fonts/google/Frank_Ruhl_Libre.ttf",
+  "trained": true
+ },
+ {
+  "name": "Franklin Gothic Medium",
+  "path": "C:/Windows/Fonts/framd.ttf",
+  "trained": true
+ },
+ {
+  "name": "Fraunces",
+  "path": "data/fonts/google/Fraunces.ttf",
+  "trained": true
+ },
+ {
+  "name": "Freckle Face",
+  "path": "data/fonts/google/Freckle_Face.ttf",
+  "trained": true
+ },
+ {
+  "name": "Fredericka the Great",
+  "path": "data/fonts/google/Fredericka_the_Great.ttf",
+  "trained": true
+ },
+ {
+  "name": "Fredoka",
+  "path": "data/fonts/google/Fredoka.ttf",
+  "trained": true
+ },
+ {
+  "name": "Freeman",
+  "path": "data/fonts/google/Freeman.ttf",
+  "trained": true
+ },
+ {
+  "name": "Freestyle Script",
+  "path": "C:/Windows/Fonts/FREESCPT.TTF",
+  "trained": true
+ },
+ {
+  "name": "French Script MT",
+  "path": "C:/Windows/Fonts/FRSCRIPT.TTF",
+  "trained": true
+ },
+ {
+  "name": "Fresca",
+  "path": "data/fonts/google/Fresca.ttf",
+  "trained": true
+ },
+ {
+  "name": "Frijole",
+  "path": "data/fonts/google/Frijole.ttf",
+  "trained": true
+ },
+ {
+  "name": "Fruktur",
+  "path": "data/fonts/google/Fruktur.ttf",
+  "trained": true
+ },
+ {
+  "name": "Fugaz One",
+  "path": "data/fonts/google/Fugaz_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Fuggles",
+  "path": "data/fonts/google/Fuggles.ttf",
+  "trained": true
+ },
+ {
+  "name": "Funnel Display",
+  "path": "data/fonts/google/Funnel_Display.ttf",
+  "trained": true
+ },
+ {
+  "name": "Funnel Sans",
+  "path": "data/fonts/google/Funnel_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Fustat",
+  "path": "data/fonts/google/Fustat.ttf",
+  "trained": true
+ },
+ {
+  "name": "Fuzzy Bubbles",
+  "path": "data/fonts/google/Fuzzy_Bubbles.ttf",
+  "trained": true
+ },
+ {
+  "name": "Ga Maamli",
+  "path": "data/fonts/google/Ga_Maamli.ttf",
+  "trained": true
+ },
+ {
+  "name": "Gabarito",
+  "path": "data/fonts/google/Gabarito.ttf",
+  "trained": true
+ },
+ {
+  "name": "Gabriela",
+  "path": "data/fonts/google/Gabriela.ttf",
+  "trained": true
+ },
+ {
+  "name": "Gabriola",
+  "path": "C:/Windows/Fonts/Gabriola.ttf",
+  "trained": true
+ },
+ {
+  "name": "Gafata",
+  "path": "data/fonts/google/Gafata.ttf",
+  "trained": true
+ },
+ {
+  "name": "Gajraj One",
+  "path": "data/fonts/google/Gajraj_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Galada",
+  "path": "data/fonts/google/Galada.ttf",
+  "trained": true,
+  "group": "Galada",
+  "twins": [
+   "Lobster"
+  ]
+ },
+ {
+  "name": "Galdeano",
+  "path": "data/fonts/google/Galdeano.ttf",
+  "trained": true
+ },
+ {
+  "name": "Galindo",
+  "path": "data/fonts/google/Galindo.ttf",
+  "trained": true
+ },
+ {
+  "name": "Gantari",
+  "path": "data/fonts/google/Gantari.ttf",
+  "trained": true
+ },
+ {
+  "name": "Garamond",
+  "path": "C:/Windows/Fonts/GARA.TTF",
+  "trained": true
+ },
+ {
+  "name": "Gayathri",
+  "path": "data/fonts/google/Gayathri.ttf",
+  "trained": true
+ },
+ {
+  "name": "Geist",
+  "path": "data/fonts/google/Geist.ttf",
+  "trained": true
+ },
+ {
+  "name": "Geist Mono",
+  "path": "data/fonts/google/Geist_Mono.ttf",
+  "trained": true
+ },
+ {
+  "name": "Geist Pixel",
+  "path": "data/fonts/google/Geist_Pixel.ttf",
+  "trained": true
+ },
+ {
+  "name": "Gelasio",
+  "path": "data/fonts/google/Gelasio.ttf",
+  "trained": true
+ },
+ {
+  "name": "Gemunu Libre",
+  "path": "data/fonts/google/Gemunu_Libre.ttf",
+  "trained": true
+ },
+ {
+  "name": "Genos",
+  "path": "data/fonts/google/Genos.ttf",
+  "trained": true
+ },
+ {
+  "name": "Gentium Book Plus",
+  "path": "data/fonts/google/Gentium_Book_Plus.ttf",
+  "trained": true
+ },
+ {
+  "name": "Gentium Plus",
+  "path": "data/fonts/google/Gentium_Plus.ttf",
+  "trained": true,
+  "group": "David Libre",
+  "twins": [
+   "Gentium Plus"
+  ]
+ },
+ {
+  "name": "Geo",
+  "path": "data/fonts/google/Geo.ttf",
+  "trained": true
+ },
+ {
+  "name": "Geologica",
+  "path": "data/fonts/google/Geologica.ttf",
+  "trained": true
+ },
+ {
+  "name": "Geom",
+  "path": "data/fonts/google/Geom.ttf",
+  "trained": true
+ },
+ {
+  "name": "Geomini",
+  "path": "data/fonts/google/Geomini.ttf",
+  "trained": true
+ },
+ {
+  "name": "Georama",
+  "path": "data/fonts/google/Georama.ttf",
+  "trained": true
+ },
+ {
+  "name": "Georgia",
+  "path": "C:/Windows/Fonts/georgia.ttf",
+  "trained": true
+ },
+ {
+  "name": "Geostar",
+  "path": "data/fonts/google/Geostar.ttf",
+  "trained": true
+ },
+ {
+  "name": "Geostar Fill",
+  "path": "data/fonts/google/Geostar_Fill.ttf",
+  "trained": true
+ },
+ {
+  "name": "Germania One",
+  "path": "data/fonts/google/Germania_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "GFS Didot",
+  "path": "data/fonts/google/GFS_Didot.ttf",
+  "trained": true
+ },
+ {
+  "name": "GFS Neohellenic",
+  "path": "data/fonts/google/GFS_Neohellenic.ttf",
+  "trained": true
+ },
+ {
+  "name": "Gideon Roman",
+  "path": "data/fonts/google/Gideon_Roman.ttf",
+  "trained": true
+ },
+ {
+  "name": "Gidole",
+  "path": "data/fonts/google/Gidole.ttf",
+  "trained": true
+ },
+ {
+  "name": "Gidugu",
+  "path": "data/fonts/google/Gidugu.ttf",
+  "trained": true
+ },
+ {
+  "name": "Gilda Display",
+  "path": "data/fonts/google/Gilda_Display.ttf",
+  "trained": true
+ },
+ {
+  "name": "Girassol",
+  "path": "data/fonts/google/Girassol.ttf",
+  "trained": true
+ },
+ {
+  "name": "Give You Glory",
+  "path": "data/fonts/google/Give_You_Glory.ttf",
+  "trained": true
+ },
+ {
+  "name": "Glass Antiqua",
+  "path": "data/fonts/google/Glass_Antiqua.ttf",
+  "trained": true
+ },
+ {
+  "name": "Glegoo",
+  "path": "data/fonts/google/Glegoo.ttf",
+  "trained": true
+ },
+ {
+  "name": "Gloock",
+  "path": "data/fonts/google/Gloock.ttf",
+  "trained": true
+ },
+ {
+  "name": "Gloria Hallelujah",
+  "path": "data/fonts/google/Gloria_Hallelujah.ttf",
+  "trained": true
+ },
+ {
+  "name": "Glory",
+  "path": "data/fonts/google/Glory.ttf",
+  "trained": true
+ },
+ {
+  "name": "Gluten",
+  "path": "data/fonts/google/Gluten.ttf",
+  "trained": true
+ },
+ {
+  "name": "Goblin One",
+  "path": "data/fonts/google/Goblin_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Gochi Hand",
+  "path": "data/fonts/google/Gochi_Hand.ttf",
+  "trained": true
+ },
+ {
+  "name": "Goldman",
+  "path": "data/fonts/google/Goldman.ttf",
+  "trained": true
+ },
+ {
+  "name": "Golos Text",
+  "path": "data/fonts/google/Golos_Text.ttf",
+  "trained": true
+ },
+ {
+  "name": "Google Sans",
+  "path": "data/fonts/google/Google_Sans.ttf",
+  "trained": true,
+  "group": "Google Sans",
+  "twins": [
+   "Google Sans Flex"
+  ]
+ },
+ {
+  "name": "Google Sans Code",
+  "path": "data/fonts/google/Google_Sans_Code.ttf",
+  "trained": true
+ },
+ {
+  "name": "Google Sans Flex",
+  "path": "data/fonts/google/Google_Sans_Flex.ttf",
+  "trained": true,
+  "group": "Google Sans",
+  "twins": [
+   "Google Sans Flex"
+  ]
+ },
+ {
+  "name": "Gorditas",
+  "path": "data/fonts/google/Gorditas.ttf",
+  "trained": true
+ },
+ {
+  "name": "Gotu",
+  "path": "data/fonts/google/Gotu.ttf",
+  "trained": true
+ },
+ {
+  "name": "Goudy Bookletter 1911",
+  "path": "data/fonts/google/Goudy_Bookletter_1911.ttf",
+  "trained": true
+ },
+ {
+  "name": "Graduate",
+  "path": "data/fonts/google/Graduate.ttf",
+  "trained": true
+ },
+ {
+  "name": "Grand Hotel",
+  "path": "data/fonts/google/Grand_Hotel.ttf",
+  "trained": true
+ },
+ {
+  "name": "Grandstander",
+  "path": "data/fonts/google/Grandstander.ttf",
+  "trained": true
+ },
+ {
+  "name": "Grape Nuts",
+  "path": "data/fonts/google/Grape_Nuts.ttf",
+  "trained": true
+ },
+ {
+  "name": "Gravitas One",
+  "path": "data/fonts/google/Gravitas_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Great Vibes",
+  "path": "data/fonts/google/Great_Vibes.ttf",
+  "trained": true
+ },
+ {
+  "name": "Grechen Fuemen",
+  "path": "data/fonts/google/Grechen_Fuemen.ttf",
+  "trained": true
+ },
+ {
+  "name": "Grenze",
+  "path": "data/fonts/google/Grenze.ttf",
+  "trained": true
+ },
+ {
+  "name": "Grenze Gotisch",
+  "path": "data/fonts/google/Grenze_Gotisch.ttf",
+  "trained": true
+ },
+ {
+  "name": "Grey Qo",
+  "path": "data/fonts/google/Grey_Qo.ttf",
+  "trained": true
+ },
+ {
+  "name": "Griffy",
+  "path": "data/fonts/google/Griffy.ttf",
+  "trained": true
+ },
+ {
+  "name": "Gruppo",
+  "path": "data/fonts/google/Gruppo.ttf",
+  "trained": true
+ },
+ {
+  "name": "Gudea",
+  "path": "data/fonts/google/Gudea.ttf",
+  "trained": true
+ },
+ {
+  "name": "Gulzar",
+  "path": "data/fonts/google/Gulzar.ttf",
+  "trained": true
+ },
+ {
+  "name": "Gupter",
+  "path": "data/fonts/google/Gupter.ttf",
+  "trained": true
+ },
+ {
+  "name": "Gurajada",
+  "path": "data/fonts/google/Gurajada.ttf",
+  "trained": true
+ },
+ {
+  "name": "Gveret Levin",
+  "path": "data/fonts/google/Gveret_Levin.ttf",
+  "trained": true
+ },
+ {
+  "name": "Gwendolyn",
+  "path": "data/fonts/google/Gwendolyn.ttf",
+  "trained": true
+ },
+ {
+  "name": "Habibi",
+  "path": "data/fonts/google/Habibi.ttf",
+  "trained": true
+ },
+ {
+  "name": "Haettenschweiler",
+  "path": "C:/Windows/Fonts/HATTEN.TTF",
+  "trained": true
+ },
+ {
+  "name": "Halant",
+  "path": "data/fonts/google/Halant.ttf",
+  "trained": true
+ },
+ {
+  "name": "Hammersmith One",
+  "path": "data/fonts/google/Hammersmith_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Hanalei",
+  "path": "data/fonts/google/Hanalei.ttf",
+  "trained": true
+ },
+ {
+  "name": "Hanalei Fill",
+  "path": "data/fonts/google/Hanalei_Fill.ttf",
+  "trained": true
+ },
+ {
+  "name": "Handjet",
+  "path": "data/fonts/google/Handjet.ttf",
+  "trained": true
+ },
+ {
+  "name": "Handlee",
+  "path": "data/fonts/google/Handlee.ttf",
+  "trained": true
+ },
+ {
+  "name": "Hanken Grotesk",
+  "path": "data/fonts/google/Hanken_Grotesk.ttf",
+  "trained": true
+ },
+ {
+  "name": "Hanuman",
+  "path": "data/fonts/google/Hanuman.ttf",
+  "trained": true
+ },
+ {
+  "name": "Happy Monkey",
+  "path": "data/fonts/google/Happy_Monkey.ttf",
+  "trained": true
+ },
+ {
+  "name": "Harmattan",
+  "path": "data/fonts/google/Harmattan.ttf",
+  "trained": true
+ },
+ {
+  "name": "Headland One",
+  "path": "data/fonts/google/Headland_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Hedvig Letters Sans",
+  "path": "data/fonts/google/Hedvig_Letters_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Hedvig Letters Serif",
+  "path": "data/fonts/google/Hedvig_Letters_Serif.ttf",
+  "trained": true
+ },
+ {
+  "name": "Heebo",
+  "path": "data/fonts/google/Heebo.ttf",
+  "trained": true
+ },
+ {
+  "name": "Helvetica / Nimbus Sans",
+  "path": "data/fonts/extras/NimbusSans-Regular.otf",
+  "trained": true
+ },
+ {
+  "name": "Helvetica Narrow / Nimbus Sans Narrow",
+  "path": "data/fonts/extras/NimbusSansNarrow-Regular.otf",
+  "trained": true
+ },
+ {
+  "name": "Henny Penny",
+  "path": "data/fonts/google/Henny_Penny.ttf",
+  "trained": true
+ },
+ {
+  "name": "Hepta Slab",
+  "path": "data/fonts/google/Hepta_Slab.ttf",
+  "trained": true
+ },
+ {
+  "name": "Herr Von Muellerhoff",
+  "path": "data/fonts/google/Herr_Von_Muellerhoff.ttf",
+  "trained": true
+ },
+ {
+  "name": "Hibur Mono",
+  "path": "data/fonts/google/Hibur_Mono.ttf",
+  "trained": true,
+  "group": "Hibur Mono",
+  "twins": [
+   "Noto Sans Mono"
+  ]
+ },
+ {
+  "name": "Hind",
+  "path": "data/fonts/google/Hind.ttf",
+  "trained": true
+ },
+ {
+  "name": "Hind Guntur",
+  "path": "data/fonts/google/Hind_Guntur.ttf",
+  "trained": true,
+  "group": "Hind Guntur",
+  "twins": [
+   "Hind Siliguri",
+   "Hind Vadodara"
+  ]
+ },
+ {
+  "name": "Hind Madurai",
+  "path": "data/fonts/google/Hind_Madurai.ttf",
+  "trained": true
+ },
+ {
+  "name": "Hind Mysuru",
+  "path": "data/fonts/google/Hind_Mysuru.ttf",
+  "trained": true
+ },
+ {
+  "name": "Holtwood One SC",
+  "path": "data/fonts/google/Holtwood_One_SC.ttf",
+  "trained": true
+ },
+ {
+  "name": "Homemade Apple",
+  "path": "data/fonts/google/Homemade_Apple.ttf",
+  "trained": true
+ },
+ {
+  "name": "Homenaje",
+  "path": "data/fonts/google/Homenaje.ttf",
+  "trained": true
+ },
+ {
+  "name": "Honk",
+  "path": "data/fonts/google/Honk.ttf",
+  "trained": true
+ },
+ {
+  "name": "Host Grotesk",
+  "path": "data/fonts/google/Host_Grotesk.ttf",
+  "trained": true
+ },
+ {
+  "name": "Hubballi",
+  "path": "data/fonts/google/Hubballi.ttf",
+  "trained": true
+ },
+ {
+  "name": "Hubot Sans",
+  "path": "data/fonts/google/Hubot_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Hurricane",
+  "path": "data/fonts/google/Hurricane.ttf",
+  "trained": true
+ },
+ {
+  "name": "Ibarra Real Nova",
+  "path": "data/fonts/google/Ibarra_Real_Nova.ttf",
+  "trained": true
+ },
+ {
+  "name": "IBM Plex Mono",
+  "path": "data/fonts/google/IBM_Plex_Mono.ttf",
+  "trained": true,
+  "group": "IBM Plex Mono",
+  "twins": [
+   "Lilex"
+  ]
+ },
+ {
+  "name": "IBM Plex Sans",
+  "path": "data/fonts/google/IBM_Plex_Sans.ttf",
+  "trained": true,
+  "group": "IBM Plex Sans",
+  "twins": [
+   "IBM Plex Sans Arabic",
+   "IBM Plex Sans Thai",
+   "IBM Plex Sans Hebrew"
+  ]
+ },
+ {
+  "name": "IBM Plex Sans Arabic",
+  "path": "data/fonts/google/IBM_Plex_Sans_Arabic.ttf",
+  "trained": true,
+  "group": "IBM Plex Sans",
+  "twins": [
+   "IBM Plex Sans Arabic",
+   "IBM Plex Sans Thai",
+   "IBM Plex Sans Devanagari"
+  ]
+ },
+ {
+  "name": "IBM Plex Sans Condensed",
+  "path": "data/fonts/google/IBM_Plex_Sans_Condensed.ttf",
+  "trained": true
+ },
+ {
+  "name": "IBM Plex Sans Thai",
+  "path": "data/fonts/google/IBM_Plex_Sans_Thai.ttf",
+  "trained": true,
+  "group": "IBM Plex Sans",
+  "twins": [
+   "IBM Plex Sans Arabic",
+   "IBM Plex Sans Thai",
+   "IBM Plex Sans Thai Looped"
+  ]
+ },
+ {
+  "name": "IBM Plex Serif",
+  "path": "data/fonts/google/IBM_Plex_Serif.ttf",
+  "trained": true
+ },
+ {
+  "name": "Iceberg",
+  "path": "data/fonts/google/Iceberg.ttf",
+  "trained": true
+ },
+ {
+  "name": "Iceland",
+  "path": "data/fonts/google/Iceland.ttf",
+  "trained": true
+ },
+ {
+  "name": "Idiqlat",
+  "path": "data/fonts/google/Idiqlat.ttf",
+  "trained": true
+ },
+ {
+  "name": "IM Fell Double Pica",
+  "path": "data/fonts/google/IM_Fell_Double_Pica.ttf",
+  "trained": true
+ },
+ {
+  "name": "IM Fell Double Pica SC",
+  "path": "data/fonts/google/IM_Fell_Double_Pica_SC.ttf",
+  "trained": true
+ },
+ {
+  "name": "IM Fell DW Pica",
+  "path": "data/fonts/google/IM_Fell_DW_Pica.ttf",
+  "trained": true
+ },
+ {
+  "name": "IM Fell DW Pica SC",
+  "path": "data/fonts/google/IM_Fell_DW_Pica_SC.ttf",
+  "trained": true
+ },
+ {
+  "name": "IM Fell English",
+  "path": "data/fonts/google/IM_Fell_English.ttf",
+  "trained": true
+ },
+ {
+  "name": "IM Fell English SC",
+  "path": "data/fonts/google/IM_Fell_English_SC.ttf",
+  "trained": true
+ },
+ {
+  "name": "IM Fell French Canon",
+  "path": "data/fonts/google/IM_Fell_French_Canon.ttf",
+  "trained": true
+ },
+ {
+  "name": "IM Fell French Canon SC",
+  "path": "data/fonts/google/IM_Fell_French_Canon_SC.ttf",
+  "trained": true
+ },
+ {
+  "name": "IM Fell Great Primer",
+  "path": "data/fonts/google/IM_Fell_Great_Primer.ttf",
+  "trained": true
+ },
+ {
+  "name": "IM Fell Great Primer SC",
+  "path": "data/fonts/google/IM_Fell_Great_Primer_SC.ttf",
+  "trained": true
+ },
+ {
+  "name": "Imbue",
+  "path": "data/fonts/google/Imbue.ttf",
+  "trained": true
+ },
+ {
+  "name": "Impact",
+  "path": "C:/Windows/Fonts/impact.ttf",
+  "trained": true
+ },
+ {
+  "name": "Imperial Script",
+  "path": "data/fonts/google/Imperial_Script.ttf",
+  "trained": true
+ },
+ {
+  "name": "Imprima",
+  "path": "data/fonts/google/Imprima.ttf",
+  "trained": true
+ },
+ {
+  "name": "Inclusive Sans",
+  "path": "data/fonts/google/Inclusive_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Inconsolata",
+  "path": "data/fonts/google/Inconsolata.ttf",
+  "trained": true
+ },
+ {
+  "name": "Inder",
+  "path": "data/fonts/google/Inder.ttf",
+  "trained": true
+ },
+ {
+  "name": "Indie Flower",
+  "path": "data/fonts/google/Indie_Flower.ttf",
+  "trained": true
+ },
+ {
+  "name": "Ingrid Darling",
+  "path": "data/fonts/google/Ingrid_Darling.ttf",
+  "trained": true
+ },
+ {
+  "name": "Inika",
+  "path": "data/fonts/google/Inika.ttf",
+  "trained": true
+ },
+ {
+  "name": "Ink Free",
+  "path": "C:/Windows/Fonts/Inkfree.ttf",
+  "trained": true
+ },
+ {
+  "name": "Inknut Antiqua",
+  "path": "data/fonts/google/Inknut_Antiqua.ttf",
+  "trained": true
+ },
+ {
+  "name": "Inria Sans",
+  "path": "data/fonts/google/Inria_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Inria Serif",
+  "path": "data/fonts/google/Inria_Serif.ttf",
+  "trained": true
+ },
+ {
+  "name": "Inspiration",
+  "path": "data/fonts/google/Inspiration.ttf",
+  "trained": true
+ },
+ {
+  "name": "Instrument Sans",
+  "path": "data/fonts/google/Instrument_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Instrument Serif",
+  "path": "data/fonts/google/Instrument_Serif.ttf",
+  "trained": true
+ },
+ {
+  "name": "Intel One Mono",
+  "path": "data/fonts/google/Intel_One_Mono.ttf",
+  "trained": true
+ },
+ {
+  "name": "Inter",
+  "path": "data/fonts/google/Inter.ttf",
+  "trained": true
+ },
+ {
+  "name": "Inter Tight",
+  "path": "data/fonts/google/Inter_Tight.ttf",
+  "trained": true
+ },
+ {
+  "name": "Iosevka Charon",
+  "path": "data/fonts/google/Iosevka_Charon.ttf",
+  "trained": true
+ },
+ {
+  "name": "Iosevka Charon Mono",
+  "path": "data/fonts/google/Iosevka_Charon_Mono.ttf",
+  "trained": true
+ },
+ {
+  "name": "Irish Grover",
+  "path": "data/fonts/google/Irish_Grover.ttf",
+  "trained": true,
+  "group": "Irish Grover",
+  "twins": [
+   "Lakki Reddy"
+  ]
+ },
+ {
+  "name": "Island Moments",
+  "path": "data/fonts/google/Island_Moments.ttf",
+  "trained": true
+ },
+ {
+  "name": "Isometra",
+  "path": "data/fonts/google/Isometra.ttf",
+  "trained": true
+ },
+ {
+  "name": "Istok Web",
+  "path": "data/fonts/google/Istok_Web.ttf",
+  "trained": true
+ },
+ {
+  "name": "Italiana",
+  "path": "data/fonts/google/Italiana.ttf",
+  "trained": true
+ },
+ {
+  "name": "Italianno",
+  "path": "data/fonts/google/Italianno.ttf",
+  "trained": true
+ },
+ {
+  "name": "ITC Avant Garde Gothic / URW Gothic",
+  "path": "data/fonts/extras/URWGothic-Book.otf",
+  "trained": true
+ },
+ {
+  "name": "ITC Bookman / URW Bookman",
+  "path": "data/fonts/extras/URWBookman-Light.otf",
+  "trained": true
+ },
+ {
+  "name": "ITC Zapf Chancery / Z003",
+  "path": "data/fonts/extras/Z003-MediumItalic.otf",
+  "trained": true
+ },
+ {
+  "name": "Itim",
+  "path": "data/fonts/google/Itim.ttf",
+  "trained": true
+ },
+ {
+  "name": "Jacquard 12",
+  "path": "data/fonts/google/Jacquard_12.ttf",
+  "trained": true
+ },
+ {
+  "name": "Jacquard 12 Charted",
+  "path": "data/fonts/google/Jacquard_12_Charted.ttf",
+  "trained": true
+ },
+ {
+  "name": "Jacquard 24",
+  "path": "data/fonts/google/Jacquard_24.ttf",
+  "trained": true
+ },
+ {
+  "name": "Jacquard 24 Charted",
+  "path": "data/fonts/google/Jacquard_24_Charted.ttf",
+  "trained": true
+ },
+ {
+  "name": "Jacquarda Bastarda 9",
+  "path": "data/fonts/google/Jacquarda_Bastarda_9.ttf",
+  "trained": true
+ },
+ {
+  "name": "Jacquarda Bastarda 9 Charted",
+  "path": "data/fonts/google/Jacquarda_Bastarda_9_Charted.ttf",
+  "trained": true
+ },
+ {
+  "name": "Jacques Francois",
+  "path": "data/fonts/google/Jacques_Francois.ttf",
+  "trained": true
+ },
+ {
+  "name": "Jacques Francois Shadow",
+  "path": "data/fonts/google/Jacques_Francois_Shadow.ttf",
+  "trained": true
+ },
+ {
+  "name": "Jaini",
+  "path": "data/fonts/google/Jaini.ttf",
+  "trained": true,
+  "group": "Jaini",
+  "twins": [
+   "Jaini Purva"
+  ]
+ },
+ {
+  "name": "Jaldi",
+  "path": "data/fonts/google/Jaldi.ttf",
+  "trained": true
+ },
+ {
+  "name": "Jaro",
+  "path": "data/fonts/google/Jaro.ttf",
+  "trained": true
+ },
+ {
+  "name": "Javanese Text",
+  "path": "C:/Windows/Fonts/javatext.ttf",
+  "trained": true
+ },
+ {
+  "name": "Jersey 10",
+  "path": "data/fonts/google/Jersey_10.ttf",
+  "trained": true
+ },
+ {
+  "name": "Jersey 10 Charted",
+  "path": "data/fonts/google/Jersey_10_Charted.ttf",
+  "trained": true
+ },
+ {
+  "name": "Jersey 15",
+  "path": "data/fonts/google/Jersey_15.ttf",
+  "trained": true
+ },
+ {
+  "name": "Jersey 15 Charted",
+  "path": "data/fonts/google/Jersey_15_Charted.ttf",
+  "trained": true
+ },
+ {
+  "name": "Jersey 20",
+  "path": "data/fonts/google/Jersey_20.ttf",
+  "trained": true
+ },
+ {
+  "name": "Jersey 20 Charted",
+  "path": "data/fonts/google/Jersey_20_Charted.ttf",
+  "trained": true
+ },
+ {
+  "name": "Jersey 25",
+  "path": "data/fonts/google/Jersey_25.ttf",
+  "trained": true
+ },
+ {
+  "name": "Jersey 25 Charted",
+  "path": "data/fonts/google/Jersey_25_Charted.ttf",
+  "trained": true
+ },
+ {
+  "name": "JetBrains Mono",
+  "path": "data/fonts/google/JetBrains_Mono.ttf",
+  "trained": true
+ },
+ {
+  "name": "Jim Nightshade",
+  "path": "data/fonts/google/Jim_Nightshade.ttf",
+  "trained": true
+ },
+ {
+  "name": "Joan",
+  "path": "data/fonts/google/Joan.ttf",
+  "trained": true
+ },
+ {
+  "name": "Jockey One",
+  "path": "data/fonts/google/Jockey_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Jolly Lodger",
+  "path": "data/fonts/google/Jolly_Lodger.ttf",
+  "trained": true
+ },
+ {
+  "name": "Jomhuria",
+  "path": "data/fonts/google/Jomhuria.ttf",
+  "trained": true
+ },
+ {
+  "name": "Jomolhari",
+  "path": "data/fonts/google/Jomolhari.ttf",
+  "trained": true
+ },
+ {
+  "name": "Josefin Sans",
+  "path": "data/fonts/google/Josefin_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Josefin Slab",
+  "path": "data/fonts/google/Josefin_Slab.ttf",
+  "trained": true
+ },
+ {
+  "name": "Jost",
+  "path": "data/fonts/google/Jost.ttf",
+  "trained": true
+ },
+ {
+  "name": "Joti One",
+  "path": "data/fonts/google/Joti_One.ttf",
+  "trained": true,
+  "group": "Joti One",
+  "twins": [
+   "Ravi Prakash"
+  ]
+ },
+ {
+  "name": "Judson",
+  "path": "data/fonts/google/Judson.ttf",
+  "trained": true
+ },
+ {
+  "name": "Juice ITC",
+  "path": "C:/Windows/Fonts/JUICE___.TTF",
+  "trained": true
+ },
+ {
+  "name": "Julee",
+  "path": "data/fonts/google/Julee.ttf",
+  "trained": true
+ },
+ {
+  "name": "Julius Sans One",
+  "path": "data/fonts/google/Julius_Sans_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Junge",
+  "path": "data/fonts/google/Junge.ttf",
+  "trained": true
+ },
+ {
+  "name": "Jura",
+  "path": "data/fonts/google/Jura.ttf",
+  "trained": true
+ },
+ {
+  "name": "Just Another Hand",
+  "path": "data/fonts/google/Just_Another_Hand.ttf",
+  "trained": true
+ },
+ {
+  "name": "Just Me Again Down Here",
+  "path": "data/fonts/google/Just_Me_Again_Down_Here.ttf",
+  "trained": true
+ },
+ {
+  "name": "K2D",
+  "path": "data/fonts/google/K2D.ttf",
+  "trained": true
+ },
+ {
+  "name": "Kablammo",
+  "path": "data/fonts/google/Kablammo.ttf",
+  "trained": true
+ },
+ {
+  "name": "Kadwa",
+  "path": "data/fonts/google/Kadwa.ttf",
+  "trained": true
+ },
+ {
+  "name": "Kalam",
+  "path": "data/fonts/google/Kalam.ttf",
+  "trained": true
+ },
+ {
+  "name": "Kalnia",
+  "path": "data/fonts/google/Kalnia.ttf",
+  "trained": true
+ },
+ {
+  "name": "Kalnia Glaze",
+  "path": "data/fonts/google/Kalnia_Glaze.ttf",
+  "trained": true
+ },
+ {
+  "name": "Kameron",
+  "path": "data/fonts/google/Kameron.ttf",
+  "trained": true
+ },
+ {
+  "name": "Kanchenjunga",
+  "path": "data/fonts/google/Kanchenjunga.ttf",
+  "trained": true,
+  "group": "Andika",
+  "twins": [
+   "Kanchenjunga"
+  ]
+ },
+ {
+  "name": "Kanit",
+  "path": "data/fonts/google/Kanit.ttf",
+  "trained": true
+ },
+ {
+  "name": "Kantumruy Pro",
+  "path": "data/fonts/google/Kantumruy_Pro.ttf",
+  "trained": true
+ },
+ {
+  "name": "Karantina",
+  "path": "data/fonts/google/Karantina.ttf",
+  "trained": true
+ },
+ {
+  "name": "Karla",
+  "path": "data/fonts/google/Karla.ttf",
+  "trained": true
+ },
+ {
+  "name": "Karma",
+  "path": "data/fonts/google/Karma.ttf",
+  "trained": true
+ },
+ {
+  "name": "Katibeh",
+  "path": "data/fonts/google/Katibeh.ttf",
+  "trained": true
+ },
+ {
+  "name": "Kaushan Script",
+  "path": "data/fonts/google/Kaushan_Script.ttf",
+  "trained": true
+ },
+ {
+  "name": "Kavivanar",
+  "path": "data/fonts/google/Kavivanar.ttf",
+  "trained": true
+ },
+ {
+  "name": "Kavoon",
+  "path": "data/fonts/google/Kavoon.ttf",
+  "trained": true
+ },
+ {
+  "name": "Kay Pho Du",
+  "path": "data/fonts/google/Kay_Pho_Du.ttf",
+  "trained": true
+ },
+ {
+  "name": "Kdam Thmor Pro",
+  "path": "data/fonts/google/Kdam_Thmor_Pro.ttf",
+  "trained": true
+ },
+ {
+  "name": "Keania One",
+  "path": "data/fonts/google/Keania_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Kedebideri",
+  "path": "data/fonts/google/Kedebideri.ttf",
+  "trained": true
+ },
+ {
+  "name": "Kelly Slab",
+  "path": "data/fonts/google/Kelly_Slab.ttf",
+  "trained": true
+ },
+ {
+  "name": "Kenia",
+  "path": "data/fonts/google/Kenia.ttf",
+  "trained": true
+ },
+ {
+  "name": "Khand",
+  "path": "data/fonts/google/Khand.ttf",
+  "trained": true
+ },
+ {
+  "name": "Khula",
+  "path": "data/fonts/google/Khula.ttf",
+  "trained": true,
+  "group": "Khula",
+  "twins": [
+   "Open Sans"
+  ]
+ },
+ {
+  "name": "Kings",
+  "path": "data/fonts/google/Kings.ttf",
+  "trained": true
+ },
+ {
+  "name": "Kite One",
+  "path": "data/fonts/google/Kite_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Knewave",
+  "path": "data/fonts/google/Knewave.ttf",
+  "trained": true
+ },
+ {
+  "name": "Kodchasan",
+  "path": "data/fonts/google/Kodchasan.ttf",
+  "trained": true
+ },
+ {
+  "name": "Kode Mono",
+  "path": "data/fonts/google/Kode_Mono.ttf",
+  "trained": true
+ },
+ {
+  "name": "Koh Santepheap",
+  "path": "data/fonts/google/Koh_Santepheap.ttf",
+  "trained": true,
+  "group": "Koh Santepheap",
+  "twins": [
+   "Noto Serif",
+   "Noto Serif Hentaigana",
+   "Noto Serif Khitan Small Script",
+   "Noto Serif Ottoman Siyaq"
+  ]
+ },
+ {
+  "name": "KoHo",
+  "path": "data/fonts/google/KoHo.ttf",
+  "trained": true
+ },
+ {
+  "name": "Kolker Brush",
+  "path": "data/fonts/google/Kolker_Brush.ttf",
+  "trained": true
+ },
+ {
+  "name": "Konkhmer Sleokchher",
+  "path": "data/fonts/google/Konkhmer_Sleokchher.ttf",
+  "trained": true
+ },
+ {
+  "name": "Kotta One",
+  "path": "data/fonts/google/Kotta_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Kranky",
+  "path": "data/fonts/google/Kranky.ttf",
+  "trained": true
+ },
+ {
+  "name": "Kreon",
+  "path": "data/fonts/google/Kreon.ttf",
+  "trained": true
+ },
+ {
+  "name": "Kripa",
+  "path": "data/fonts/google/Kripa.ttf",
+  "trained": true
+ },
+ {
+  "name": "Kristen ITC",
+  "path": "C:/Windows/Fonts/ITCKRIST.TTF",
+  "trained": true
+ },
+ {
+  "name": "Kristi",
+  "path": "data/fonts/google/Kristi.ttf",
+  "trained": true
+ },
+ {
+  "name": "Krona One",
+  "path": "data/fonts/google/Krona_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Krub",
+  "path": "data/fonts/google/Krub.ttf",
+  "trained": true
+ },
+ {
+  "name": "Kufam",
+  "path": "data/fonts/google/Kufam.ttf",
+  "trained": true
+ },
+ {
+  "name": "Kulim Park",
+  "path": "data/fonts/google/Kulim_Park.ttf",
+  "trained": true
+ },
+ {
+  "name": "Kumbh Sans",
+  "path": "data/fonts/google/Kumbh_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Kurale",
+  "path": "data/fonts/google/Kurale.ttf",
+  "trained": true
+ },
+ {
+  "name": "La Belle Aurore",
+  "path": "data/fonts/google/La_Belle_Aurore.ttf",
+  "trained": true
+ },
+ {
+  "name": "Labrada",
+  "path": "data/fonts/google/Labrada.ttf",
+  "trained": true
+ },
+ {
+  "name": "Lacquer",
+  "path": "data/fonts/google/Lacquer.ttf",
+  "trained": true
+ },
+ {
+  "name": "Laila",
+  "path": "data/fonts/google/Laila.ttf",
+  "trained": true
+ },
+ {
+  "name": "Lakki Reddy",
+  "path": "data/fonts/google/Lakki_Reddy.ttf",
+  "trained": true,
+  "group": "Irish Grover",
+  "twins": [
+   "Lakki Reddy"
+  ]
+ },
+ {
+  "name": "Lalezar",
+  "path": "data/fonts/google/Lalezar.ttf",
+  "trained": true
+ },
+ {
+  "name": "Lancelot",
+  "path": "data/fonts/google/Lancelot.ttf",
+  "trained": true
+ },
+ {
+  "name": "Langar",
+  "path": "data/fonts/google/Langar.ttf",
+  "trained": true
+ },
+ {
+  "name": "Lateef",
+  "path": "data/fonts/google/Lateef.ttf",
+  "trained": true
+ },
+ {
+  "name": "Lato",
+  "path": "data/fonts/google/Lato.ttf",
+  "trained": true
+ },
+ {
+  "name": "Lavishly Yours",
+  "path": "data/fonts/google/Lavishly_Yours.ttf",
+  "trained": true
+ },
+ {
+  "name": "League Gothic",
+  "path": "data/fonts/google/League_Gothic.ttf",
+  "trained": true
+ },
+ {
+  "name": "League Script",
+  "path": "data/fonts/google/League_Script.ttf",
+  "trained": true
+ },
+ {
+  "name": "League Spartan",
+  "path": "data/fonts/google/League_Spartan.ttf",
+  "trained": true
+ },
+ {
+  "name": "Leckerli One",
+  "path": "data/fonts/google/Leckerli_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Ledger",
+  "path": "data/fonts/google/Ledger.ttf",
+  "trained": true
+ },
+ {
+  "name": "Leelawadee",
+  "path": "C:/Windows/Fonts/LEELAWAD.TTF",
+  "trained": true
+ },
+ {
+  "name": "Lekton",
+  "path": "data/fonts/google/Lekton.ttf",
+  "trained": true
+ },
+ {
+  "name": "Lemon",
+  "path": "data/fonts/google/Lemon.ttf",
+  "trained": true
+ },
+ {
+  "name": "Lemonada",
+  "path": "data/fonts/google/Lemonada.ttf",
+  "trained": true
+ },
+ {
+  "name": "Lexend",
+  "path": "data/fonts/google/Lexend.ttf",
+  "trained": true,
+  "group": "Lexend",
+  "twins": [
+   "Lexend Deca"
+  ]
+ },
+ {
+  "name": "Lexend Exa",
+  "path": "data/fonts/google/Lexend_Exa.ttf",
+  "trained": true
+ },
+ {
+  "name": "Lexend Giga",
+  "path": "data/fonts/google/Lexend_Giga.ttf",
+  "trained": true
+ },
+ {
+  "name": "Lexend Mega",
+  "path": "data/fonts/google/Lexend_Mega.ttf",
+  "trained": true
+ },
+ {
+  "name": "Lexend Peta",
+  "path": "data/fonts/google/Lexend_Peta.ttf",
+  "trained": true,
+  "group": "Lexend Peta",
+  "twins": [
+   "Lexend Tera"
+  ]
+ },
+ {
+  "name": "Lexend Tera",
+  "path": "data/fonts/google/Lexend_Tera.ttf",
+  "trained": true,
+  "group": "Lexend Peta",
+  "twins": [
+   "Lexend Tera"
+  ]
+ },
+ {
+  "name": "Lexend Zetta",
+  "path": "data/fonts/google/Lexend_Zetta.ttf",
+  "trained": true
+ },
+ {
+  "name": "Libertinus Keyboard",
+  "path": "data/fonts/google/Libertinus_Keyboard.ttf",
+  "trained": true
+ },
+ {
+  "name": "Libertinus Mono",
+  "path": "data/fonts/google/Libertinus_Mono.ttf",
+  "trained": true
+ },
+ {
+  "name": "Libertinus Sans",
+  "path": "data/fonts/google/Libertinus_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Libertinus Serif",
+  "path": "data/fonts/google/Libertinus_Serif.ttf",
+  "trained": true,
+  "group": "Libertinus Serif",
+  "twins": [
+   "Ponomar"
+  ]
+ },
+ {
+  "name": "Libertinus Serif Display",
+  "path": "data/fonts/google/Libertinus_Serif_Display.ttf",
+  "trained": true
+ },
+ {
+  "name": "Libre Baskerville",
+  "path": "data/fonts/google/Libre_Baskerville.ttf",
+  "trained": true
+ },
+ {
+  "name": "Libre Bodoni",
+  "path": "data/fonts/google/Libre_Bodoni.ttf",
+  "trained": true
+ },
+ {
+  "name": "Libre Caslon Condensed",
+  "path": "data/fonts/google/Libre_Caslon_Condensed.ttf",
+  "trained": true
+ },
+ {
+  "name": "Libre Caslon Display",
+  "path": "data/fonts/google/Libre_Caslon_Display.ttf",
+  "trained": true
+ },
+ {
+  "name": "Libre Caslon Text",
+  "path": "data/fonts/google/Libre_Caslon_Text.ttf",
+  "trained": true
+ },
+ {
+  "name": "Libre Franklin",
+  "path": "data/fonts/google/Libre_Franklin.ttf",
+  "trained": true
+ },
+ {
+  "name": "Licorice",
+  "path": "data/fonts/google/Licorice.ttf",
+  "trained": true
+ },
+ {
+  "name": "Life Savers",
+  "path": "data/fonts/google/Life_Savers.ttf",
+  "trained": true
+ },
+ {
+  "name": "Lilex",
+  "path": "data/fonts/google/Lilex.ttf",
+  "trained": true,
+  "group": "IBM Plex Mono",
+  "twins": [
+   "Lilex"
+  ]
+ },
+ {
+  "name": "Lilita One",
+  "path": "data/fonts/google/Lilita_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Lily Script One",
+  "path": "data/fonts/google/Lily_Script_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Limelight",
+  "path": "data/fonts/google/Limelight.ttf",
+  "trained": true
+ },
+ {
+  "name": "Linden Hill",
+  "path": "data/fonts/google/Linden_Hill.ttf",
+  "trained": true
+ },
+ {
+  "name": "Lisu Bosa",
+  "path": "data/fonts/google/Lisu_Bosa.ttf",
+  "trained": true
+ },
+ {
+  "name": "Liter",
+  "path": "data/fonts/google/Liter.ttf",
+  "trained": true
+ },
+ {
+  "name": "Literata",
+  "path": "data/fonts/google/Literata.ttf",
+  "trained": true
+ },
+ {
+  "name": "Livvic",
+  "path": "data/fonts/google/Livvic.ttf",
+  "trained": true
+ },
+ {
+  "name": "Lobster",
+  "path": "data/fonts/google/Lobster.ttf",
+  "trained": true,
+  "group": "Galada",
+  "twins": [
+   "Lobster"
+  ]
+ },
+ {
+  "name": "Lobster Two",
+  "path": "data/fonts/google/Lobster_Two.ttf",
+  "trained": true
+ },
+ {
+  "name": "Londrina Outline",
+  "path": "data/fonts/google/Londrina_Outline.ttf",
+  "trained": true
+ },
+ {
+  "name": "Londrina Shadow",
+  "path": "data/fonts/google/Londrina_Shadow.ttf",
+  "trained": true
+ },
+ {
+  "name": "Londrina Sketch",
+  "path": "data/fonts/google/Londrina_Sketch.ttf",
+  "trained": true
+ },
+ {
+  "name": "Londrina Solid",
+  "path": "data/fonts/google/Londrina_Solid.ttf",
+  "trained": true
+ },
+ {
+  "name": "Lora",
+  "path": "data/fonts/google/Lora.ttf",
+  "trained": true,
+  "group": "Lora",
+  "twins": [
+   "Parastoo"
+  ]
+ },
+ {
+  "name": "Love Light",
+  "path": "data/fonts/google/Love_Light.ttf",
+  "trained": true,
+  "group": "Love Light",
+  "twins": [
+   "Ruthie"
+  ]
+ },
+ {
+  "name": "Love Ya Like A Sister",
+  "path": "data/fonts/google/Love_Ya_Like_A_Sister.ttf",
+  "trained": true
+ },
+ {
+  "name": "Loved by the King",
+  "path": "data/fonts/google/Loved_by_the_King.ttf",
+  "trained": true
+ },
+ {
+  "name": "Lovers Quarrel",
+  "path": "data/fonts/google/Lovers_Quarrel.ttf",
+  "trained": true
+ },
+ {
+  "name": "Lucida Console",
+  "path": "C:/Windows/Fonts/lucon.ttf",
+  "trained": true
+ },
+ {
+  "name": "Lucida Sans Unicode",
+  "path": "C:/Windows/Fonts/l_10646.ttf",
+  "trained": true
+ },
+ {
+  "name": "Luckiest Guy",
+  "path": "data/fonts/google/Luckiest_Guy.ttf",
+  "trained": true
+ },
+ {
+  "name": "Lugrasimo",
+  "path": "data/fonts/google/Lugrasimo.ttf",
+  "trained": true
+ },
+ {
+  "name": "Lumanosimo",
+  "path": "data/fonts/google/Lumanosimo.ttf",
+  "trained": true
+ },
+ {
+  "name": "Lunasima",
+  "path": "data/fonts/google/Lunasima.ttf",
+  "trained": true
+ },
+ {
+  "name": "Lusitana",
+  "path": "data/fonts/google/Lusitana.ttf",
+  "trained": true
+ },
+ {
+  "name": "Lustria",
+  "path": "data/fonts/google/Lustria.ttf",
+  "trained": true
+ },
+ {
+  "name": "Luxurious Roman",
+  "path": "data/fonts/google/Luxurious_Roman.ttf",
+  "trained": true
+ },
+ {
+  "name": "Luxurious Script",
+  "path": "data/fonts/google/Luxurious_Script.ttf",
+  "trained": true
+ },
+ {
+  "name": "M PLUS Code Latin",
+  "path": "data/fonts/google/M_PLUS_Code_Latin.ttf",
+  "trained": true
+ },
+ {
+  "name": "Macondo",
+  "path": "data/fonts/google/Macondo.ttf",
+  "trained": true,
+  "group": "Macondo",
+  "twins": [
+   "Macondo Swash Caps"
+  ]
+ },
+ {
+  "name": "Mada",
+  "path": "data/fonts/google/Mada.ttf",
+  "trained": true,
+  "group": "Mada",
+  "twins": [
+   "Source Sans 3"
+  ]
+ },
+ {
+  "name": "Madimi One",
+  "path": "data/fonts/google/Madimi_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Magra",
+  "path": "data/fonts/google/Magra.ttf",
+  "trained": true
+ },
+ {
+  "name": "Maiden Orange",
+  "path": "data/fonts/google/Maiden_Orange.ttf",
+  "trained": true
+ },
+ {
+  "name": "Maitree",
+  "path": "data/fonts/google/Maitree.ttf",
+  "trained": true
+ },
+ {
+  "name": "Major Mono Display",
+  "path": "data/fonts/google/Major_Mono_Display.ttf",
+  "trained": true
+ },
+ {
+  "name": "Mako",
+  "path": "data/fonts/google/Mako.ttf",
+  "trained": true
+ },
+ {
+  "name": "Malgun Gothic",
+  "path": "C:/Windows/Fonts/malgun.ttf",
+  "trained": true,
+  "group": "Malgun Gothic",
+  "twins": [
+   "Microsoft JhengHei",
+   "Microsoft PhagsPa",
+   "Myanmar Text"
+  ]
+ },
+ {
+  "name": "Mali",
+  "path": "data/fonts/google/Mali.ttf",
+  "trained": true
+ },
+ {
+  "name": "Mallanna",
+  "path": "data/fonts/google/Mallanna.ttf",
+  "trained": true
+ },
+ {
+  "name": "Maname",
+  "path": "data/fonts/google/Maname.ttf",
+  "trained": true
+ },
+ {
+  "name": "Mandali",
+  "path": "data/fonts/google/Mandali.ttf",
+  "trained": true
+ },
+ {
+  "name": "Manjari",
+  "path": "data/fonts/google/Manjari.ttf",
+  "trained": true
+ },
+ {
+  "name": "Manrope",
+  "path": "data/fonts/google/Manrope.ttf",
+  "trained": true
+ },
+ {
+  "name": "Mansalva",
+  "path": "data/fonts/google/Mansalva.ttf",
+  "trained": true
+ },
+ {
+  "name": "Manuale",
+  "path": "data/fonts/google/Manuale.ttf",
+  "trained": true
+ },
+ {
+  "name": "Manufacturing Consent",
+  "path": "data/fonts/google/Manufacturing_Consent.ttf",
+  "trained": true
+ },
+ {
+  "name": "Marcellus",
+  "path": "data/fonts/google/Marcellus.ttf",
+  "trained": true
+ },
+ {
+  "name": "Marcellus SC",
+  "path": "data/fonts/google/Marcellus_SC.ttf",
+  "trained": true
+ },
+ {
+  "name": "Marck Script",
+  "path": "data/fonts/google/Marck_Script.ttf",
+  "trained": true
+ },
+ {
+  "name": "Margarine",
+  "path": "data/fonts/google/Margarine.ttf",
+  "trained": true
+ },
+ {
+  "name": "Marhey",
+  "path": "data/fonts/google/Marhey.ttf",
+  "trained": true
+ },
+ {
+  "name": "Markazi Text",
+  "path": "data/fonts/google/Markazi_Text.ttf",
+  "trained": true
+ },
+ {
+  "name": "Marko One",
+  "path": "data/fonts/google/Marko_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Marmelad",
+  "path": "data/fonts/google/Marmelad.ttf",
+  "trained": true
+ },
+ {
+  "name": "Martel",
+  "path": "data/fonts/google/Martel.ttf",
+  "trained": true
+ },
+ {
+  "name": "Martel Sans",
+  "path": "data/fonts/google/Martel_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Martian Mono",
+  "path": "data/fonts/google/Martian_Mono.ttf",
+  "trained": true
+ },
+ {
+  "name": "Marvel",
+  "path": "data/fonts/google/Marvel.ttf",
+  "trained": true
+ },
+ {
+  "name": "Matangi",
+  "path": "data/fonts/google/Matangi.ttf",
+  "trained": true
+ },
+ {
+  "name": "Mate",
+  "path": "data/fonts/google/Mate.ttf",
+  "trained": true
+ },
+ {
+  "name": "Mate SC",
+  "path": "data/fonts/google/Mate_SC.ttf",
+  "trained": true
+ },
+ {
+  "name": "Matemasie",
+  "path": "data/fonts/google/Matemasie.ttf",
+  "trained": true
+ },
+ {
+  "name": "Maven Pro",
+  "path": "data/fonts/google/Maven_Pro.ttf",
+  "trained": true
+ },
+ {
+  "name": "McLaren",
+  "path": "data/fonts/google/McLaren.ttf",
+  "trained": true
+ },
+ {
+  "name": "Mea Culpa",
+  "path": "data/fonts/google/Mea_Culpa.ttf",
+  "trained": true
+ },
+ {
+  "name": "Meddon",
+  "path": "data/fonts/google/Meddon.ttf",
+  "trained": true
+ },
+ {
+  "name": "MedievalSharp",
+  "path": "data/fonts/google/MedievalSharp.ttf",
+  "trained": true
+ },
+ {
+  "name": "Medula One",
+  "path": "data/fonts/google/Medula_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Meera Inimai",
+  "path": "data/fonts/google/Meera_Inimai.ttf",
+  "trained": true
+ },
+ {
+  "name": "Megrim",
+  "path": "data/fonts/google/Megrim.ttf",
+  "trained": true
+ },
+ {
+  "name": "Meie Script",
+  "path": "data/fonts/google/Meie_Script.ttf",
+  "trained": true
+ },
+ {
+  "name": "Menbere",
+  "path": "data/fonts/google/Menbere.ttf",
+  "trained": true
+ },
+ {
+  "name": "Meow Script",
+  "path": "data/fonts/google/Meow_Script.ttf",
+  "trained": true
+ },
+ {
+  "name": "Merienda",
+  "path": "data/fonts/google/Merienda.ttf",
+  "trained": true
+ },
+ {
+  "name": "Merriweather",
+  "path": "data/fonts/google/Merriweather.ttf",
+  "trained": true
+ },
+ {
+  "name": "Merriweather Sans",
+  "path": "data/fonts/google/Merriweather_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Metal",
+  "path": "data/fonts/google/Metal.ttf",
+  "trained": true
+ },
+ {
+  "name": "Metal Mania",
+  "path": "data/fonts/google/Metal_Mania.ttf",
+  "trained": true
+ },
+ {
+  "name": "Metamorphous",
+  "path": "data/fonts/google/Metamorphous.ttf",
+  "trained": true
+ },
+ {
+  "name": "Metrophobic",
+  "path": "data/fonts/google/Metrophobic.ttf",
+  "trained": true
+ },
+ {
+  "name": "Michroma",
+  "path": "data/fonts/google/Michroma.ttf",
+  "trained": true
+ },
+ {
+  "name": "Micro 5",
+  "path": "data/fonts/google/Micro_5.ttf",
+  "trained": true
+ },
+ {
+  "name": "Micro 5 Charted",
+  "path": "data/fonts/google/Micro_5_Charted.ttf",
+  "trained": true
+ },
+ {
+  "name": "Microsoft Himalaya",
+  "path": "C:/Windows/Fonts/himalaya.ttf",
+  "trained": true
+ },
+ {
+  "name": "Microsoft JhengHei",
+  "path": "C:/Windows/Fonts/msjh.ttc",
+  "trained": true,
+  "group": "Malgun Gothic",
+  "twins": [
+   "Microsoft JhengHei",
+   "Microsoft PhagsPa",
+   "Myanmar Text"
+  ]
+ },
+ {
+  "name": "Microsoft New Tai Lue",
+  "path": "C:/Windows/Fonts/ntailu.ttf",
+  "trained": true,
+  "group": "Microsoft New Tai Lue",
+  "twins": [
+   "Microsoft Tai Le"
+  ]
+ },
+ {
+  "name": "Microsoft PhagsPa",
+  "path": "C:/Windows/Fonts/phagspa.ttf",
+  "trained": true,
+  "group": "Malgun Gothic",
+  "twins": [
+   "Microsoft JhengHei",
+   "Microsoft PhagsPa",
+   "Myanmar Text"
+  ]
+ },
+ {
+  "name": "Microsoft Sans Serif",
+  "path": "C:/Windows/Fonts/micross.ttf",
+  "trained": true
+ },
+ {
+  "name": "Microsoft Uighur",
+  "path": "C:/Windows/Fonts/MSUIGHUR.TTF",
+  "trained": true
+ },
+ {
+  "name": "Microsoft YaHei",
+  "path": "C:/Windows/Fonts/msyh.ttc",
+  "trained": true
+ },
+ {
+  "name": "Microsoft Yi Baiti",
+  "path": "C:/Windows/Fonts/msyi.ttf",
+  "trained": true
+ },
+ {
+  "name": "Milonga",
+  "path": "data/fonts/google/Milonga.ttf",
+  "trained": true
+ },
+ {
+  "name": "Miltonian",
+  "path": "data/fonts/google/Miltonian.ttf",
+  "trained": true
+ },
+ {
+  "name": "Miltonian Tattoo",
+  "path": "data/fonts/google/Miltonian_Tattoo.ttf",
+  "trained": true
+ },
+ {
+  "name": "Mina",
+  "path": "data/fonts/google/Mina.ttf",
+  "trained": true
+ },
+ {
+  "name": "MingLiU-ExtB",
+  "path": "C:/Windows/Fonts/mingliub.ttc",
+  "trained": true
+ },
+ {
+  "name": "Mingzat",
+  "path": "data/fonts/google/Mingzat.ttf",
+  "trained": true
+ },
+ {
+  "name": "Miniver",
+  "path": "data/fonts/google/Miniver.ttf",
+  "trained": true
+ },
+ {
+  "name": "Miranda Sans",
+  "path": "data/fonts/google/Miranda_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Miriam Libre",
+  "path": "data/fonts/google/Miriam_Libre.ttf",
+  "trained": true
+ },
+ {
+  "name": "Mirza",
+  "path": "data/fonts/google/Mirza.ttf",
+  "trained": true
+ },
+ {
+  "name": "Miss Fajardose",
+  "path": "data/fonts/google/Miss_Fajardose.ttf",
+  "trained": true
+ },
+ {
+  "name": "Mistral",
+  "path": "C:/Windows/Fonts/MISTRAL.TTF",
+  "trained": true
+ },
+ {
+  "name": "Mitr",
+  "path": "data/fonts/google/Mitr.ttf",
+  "trained": true
+ },
+ {
+  "name": "Modak",
+  "path": "data/fonts/google/Modak.ttf",
+  "trained": true
+ },
+ {
+  "name": "Modern Antiqua",
+  "path": "data/fonts/google/Modern_Antiqua.ttf",
+  "trained": true
+ },
+ {
+  "name": "Moderustic",
+  "path": "data/fonts/google/Moderustic.ttf",
+  "trained": true
+ },
+ {
+  "name": "Mogra",
+  "path": "data/fonts/google/Mogra.ttf",
+  "trained": true
+ },
+ {
+  "name": "Mohave",
+  "path": "data/fonts/google/Mohave.ttf",
+  "trained": true
+ },
+ {
+  "name": "Molengo",
+  "path": "data/fonts/google/Molengo.ttf",
+  "trained": true
+ },
+ {
+  "name": "Momo Signature",
+  "path": "data/fonts/google/Momo_Signature.ttf",
+  "trained": true
+ },
+ {
+  "name": "Momo Trust Display",
+  "path": "data/fonts/google/Momo_Trust_Display.ttf",
+  "trained": true
+ },
+ {
+  "name": "Momo Trust Sans",
+  "path": "data/fonts/google/Momo_Trust_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Mona Sans",
+  "path": "data/fonts/google/Mona_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Monda",
+  "path": "data/fonts/google/Monda.ttf",
+  "trained": true
+ },
+ {
+  "name": "Monofett",
+  "path": "data/fonts/google/Monofett.ttf",
+  "trained": true
+ },
+ {
+  "name": "Monomakh",
+  "path": "data/fonts/google/Monomakh.ttf",
+  "trained": true
+ },
+ {
+  "name": "Monoton",
+  "path": "data/fonts/google/Monoton.ttf",
+  "trained": true
+ },
+ {
+  "name": "Monotype Corsiva",
+  "path": "C:/Windows/Fonts/MTCORSVA.TTF",
+  "trained": true,
+  "group": "Monotype Corsiva",
+  "twins": [
+   "Monotype Corsiva Regular"
+  ]
+ },
+ {
+  "name": "Monsieur La Doulaise",
+  "path": "data/fonts/google/Monsieur_La_Doulaise.ttf",
+  "trained": true
+ },
+ {
+  "name": "Montaga",
+  "path": "data/fonts/google/Montaga.ttf",
+  "trained": true
+ },
+ {
+  "name": "Montagu Slab",
+  "path": "data/fonts/google/Montagu_Slab.ttf",
+  "trained": true
+ },
+ {
+  "name": "MonteCarlo",
+  "path": "data/fonts/google/MonteCarlo.ttf",
+  "trained": true
+ },
+ {
+  "name": "Montenegrin Gothic One",
+  "path": "data/fonts/google/Montenegrin_Gothic_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Montez",
+  "path": "data/fonts/google/Montez.ttf",
+  "trained": true
+ },
+ {
+  "name": "Montserrat",
+  "path": "data/fonts/google/Montserrat.ttf",
+  "trained": true
+ },
+ {
+  "name": "Montserrat Alternates",
+  "path": "data/fonts/google/Montserrat_Alternates.ttf",
+  "trained": true
+ },
+ {
+  "name": "Montserrat Underline",
+  "path": "data/fonts/google/Montserrat_Underline.ttf",
+  "trained": true
+ },
+ {
+  "name": "Moo Lah Lah",
+  "path": "data/fonts/google/Moo_Lah_Lah.ttf",
+  "trained": true
+ },
+ {
+  "name": "Mooli",
+  "path": "data/fonts/google/Mooli.ttf",
+  "trained": true
+ },
+ {
+  "name": "Moon Dance",
+  "path": "data/fonts/google/Moon_Dance.ttf",
+  "trained": true
+ },
+ {
+  "name": "Moulpali",
+  "path": "data/fonts/google/Moulpali.ttf",
+  "trained": true
+ },
+ {
+  "name": "Mountains of Christmas",
+  "path": "data/fonts/google/Mountains_of_Christmas.ttf",
+  "trained": true
+ },
+ {
+  "name": "Mouse Memoirs",
+  "path": "data/fonts/google/Mouse_Memoirs.ttf",
+  "trained": true
+ },
+ {
+  "name": "Mozilla Headline",
+  "path": "data/fonts/google/Mozilla_Headline.ttf",
+  "trained": true
+ },
+ {
+  "name": "Mozilla Text",
+  "path": "data/fonts/google/Mozilla_Text.ttf",
+  "trained": true
+ },
+ {
+  "name": "Mr Bedfort",
+  "path": "data/fonts/google/Mr_Bedfort.ttf",
+  "trained": true
+ },
+ {
+  "name": "Mr Dafoe",
+  "path": "data/fonts/google/Mr_Dafoe.ttf",
+  "trained": true
+ },
+ {
+  "name": "Mr De Haviland",
+  "path": "data/fonts/google/Mr_De_Haviland.ttf",
+  "trained": true
+ },
+ {
+  "name": "Mrs Saint Delafield",
+  "path": "data/fonts/google/Mrs_Saint_Delafield.ttf",
+  "trained": true
+ },
+ {
+  "name": "Mrs Sheppards",
+  "path": "data/fonts/google/Mrs_Sheppards.ttf",
+  "trained": true
+ },
+ {
+  "name": "MS Gothic",
+  "path": "C:/Windows/Fonts/msgothic.ttc",
+  "trained": true
+ },
+ {
+  "name": "Ms Madi",
+  "path": "data/fonts/google/Ms_Madi.ttf",
+  "trained": true
+ },
+ {
+  "name": "Mukta",
+  "path": "data/fonts/google/Mukta.ttf",
+  "trained": true,
+  "group": "Mukta",
+  "twins": [
+   "Mukta Mahee",
+   "Mukta Malar",
+   "Mukta Vaani"
+  ]
+ },
+ {
+  "name": "Mukta Mahee",
+  "path": "data/fonts/google/Mukta_Mahee.ttf",
+  "trained": true,
+  "group": "Mukta",
+  "twins": [
+   "Mukta Mahee",
+   "Mukta Malar"
+  ]
+ },
+ {
+  "name": "Mukta Malar",
+  "path": "data/fonts/google/Mukta_Malar.ttf",
+  "trained": true,
+  "group": "Mukta",
+  "twins": [
+   "Mukta Mahee",
+   "Mukta Malar"
+  ]
+ },
+ {
+  "name": "Mulish",
+  "path": "data/fonts/google/Mulish.ttf",
+  "trained": true
+ },
+ {
+  "name": "MuseoModerno",
+  "path": "data/fonts/google/MuseoModerno.ttf",
+  "trained": true
+ },
+ {
+  "name": "MV Boli",
+  "path": "C:/Windows/Fonts/mvboli.ttf",
+  "trained": true
+ },
+ {
+  "name": "My Soul",
+  "path": "data/fonts/google/My_Soul.ttf",
+  "trained": true
+ },
+ {
+  "name": "Mynerve",
+  "path": "data/fonts/google/Mynerve.ttf",
+  "trained": true
+ },
+ {
+  "name": "Mystery Quest",
+  "path": "data/fonts/google/Mystery_Quest.ttf",
+  "trained": true
+ },
+ {
+  "name": "Nabla",
+  "path": "data/fonts/google/Nabla.ttf",
+  "trained": true
+ },
+ {
+  "name": "Namdhinggo",
+  "path": "data/fonts/google/Namdhinggo.ttf",
+  "trained": true
+ },
+ {
+  "name": "Narnoor",
+  "path": "data/fonts/google/Narnoor.ttf",
+  "trained": true
+ },
+ {
+  "name": "Nata Sans",
+  "path": "data/fonts/google/Nata_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "National Park",
+  "path": "data/fonts/google/National_Park.ttf",
+  "trained": true
+ },
+ {
+  "name": "Neonderthaw",
+  "path": "data/fonts/google/Neonderthaw.ttf",
+  "trained": true
+ },
+ {
+  "name": "Nerko One",
+  "path": "data/fonts/google/Nerko_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Neucha",
+  "path": "data/fonts/google/Neucha.ttf",
+  "trained": true
+ },
+ {
+  "name": "Neuton",
+  "path": "data/fonts/google/Neuton.ttf",
+  "trained": true
+ },
+ {
+  "name": "New Amsterdam",
+  "path": "data/fonts/google/New_Amsterdam.ttf",
+  "trained": true
+ },
+ {
+  "name": "New Century Schoolbook / C059",
+  "path": "data/fonts/extras/C059-Roman.otf",
+  "trained": true
+ },
+ {
+  "name": "New Rocker",
+  "path": "data/fonts/google/New_Rocker.ttf",
+  "trained": true
+ },
+ {
+  "name": "News Cycle",
+  "path": "data/fonts/google/News_Cycle.ttf",
+  "trained": true
+ },
+ {
+  "name": "Newsreader",
+  "path": "data/fonts/google/Newsreader.ttf",
+  "trained": true
+ },
+ {
+  "name": "Niconne",
+  "path": "data/fonts/google/Niconne.ttf",
+  "trained": true
+ },
+ {
+  "name": "Niramit",
+  "path": "data/fonts/google/Niramit.ttf",
+  "trained": true
+ },
+ {
+  "name": "Nixie One",
+  "path": "data/fonts/google/Nixie_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Nobile",
+  "path": "data/fonts/google/Nobile.ttf",
+  "trained": true
+ },
+ {
+  "name": "Nokora",
+  "path": "data/fonts/google/Nokora.ttf",
+  "trained": true
+ },
+ {
+  "name": "Norican",
+  "path": "data/fonts/google/Norican.ttf",
+  "trained": true
+ },
+ {
+  "name": "Nosifer",
+  "path": "data/fonts/google/Nosifer.ttf",
+  "trained": true
+ },
+ {
+  "name": "Notable",
+  "path": "data/fonts/google/Notable.ttf",
+  "trained": true
+ },
+ {
+  "name": "Nothing You Could Do",
+  "path": "data/fonts/google/Nothing_You_Could_Do.ttf",
+  "trained": true
+ },
+ {
+  "name": "Noticia Text",
+  "path": "data/fonts/google/Noticia_Text.ttf",
+  "trained": true
+ },
+ {
+  "name": "Noto Music",
+  "path": "data/fonts/google/Noto_Music.ttf",
+  "trained": true
+ },
+ {
+  "name": "Noto Sans",
+  "path": "data/fonts/google/Noto_Sans.ttf",
+  "trained": true,
+  "group": "Noto Sans",
+  "twins": [
+   "Noto Sans Caucasian Albanian",
+   "Noto Sans Cypro Minoan",
+   "Noto Sans Display",
+   "Noto Sans Elymaic",
+   "Noto Sans Indic Siyaq Numbers",
+   "Noto Sans Old Hungarian",
+   "Noto Sans SignWriting",
+   "Sans Serif Collection"
+  ]
+ },
+ {
+  "name": "Noto Sans Caucasian Albanian",
+  "path": "data/fonts/google/Noto_Sans_Caucasian_Albanian.ttf",
+  "trained": true,
+  "group": "Noto Sans",
+  "twins": [
+   "Noto Sans Caucasian Albanian",
+   "Noto Sans Cypro Minoan",
+   "Noto Sans Display",
+   "Noto Sans Elymaic",
+   "Noto Sans Indic Siyaq Numbers",
+   "Noto Sans Old Hungarian",
+   "Noto Sans SignWriting",
+   "Sans Serif Collection"
+  ]
+ },
+ {
+  "name": "Noto Sans Cypro Minoan",
+  "path": "data/fonts/google/Noto_Sans_Cypro_Minoan.ttf",
+  "trained": true,
+  "group": "Noto Sans",
+  "twins": [
+   "Noto Sans Caucasian Albanian",
+   "Noto Sans Cypro Minoan",
+   "Noto Sans Display",
+   "Noto Sans Elymaic",
+   "Noto Sans Indic Siyaq Numbers",
+   "Noto Sans Old Hungarian",
+   "Noto Sans SignWriting",
+   "Sans Serif Collection",
+   "Noto Sans Mayan Numerals",
+   "Noto Sans Nushu",
+   "Noto Sans Pau Cin Hau"
+  ]
+ },
+ {
+  "name": "Noto Sans Display",
+  "path": "data/fonts/google/Noto_Sans_Display.ttf",
+  "trained": true,
+  "group": "Noto Sans",
+  "twins": [
+   "Noto Sans Caucasian Albanian",
+   "Noto Sans Cypro Minoan",
+   "Noto Sans Display",
+   "Noto Sans Elymaic",
+   "Noto Sans Indic Siyaq Numbers",
+   "Noto Sans Old Hungarian",
+   "Noto Sans SignWriting",
+   "Sans Serif Collection"
+  ]
+ },
+ {
+  "name": "Noto Sans Elymaic",
+  "path": "data/fonts/google/Noto_Sans_Elymaic.ttf",
+  "trained": true,
+  "group": "Noto Sans",
+  "twins": [
+   "Noto Sans Caucasian Albanian",
+   "Noto Sans Cypro Minoan",
+   "Noto Sans Display",
+   "Noto Sans Elymaic",
+   "Noto Sans Indic Siyaq Numbers",
+   "Noto Sans Old Hungarian",
+   "Noto Sans SignWriting",
+   "Sans Serif Collection"
+  ]
+ },
+ {
+  "name": "Noto Sans Indic Siyaq Numbers",
+  "path": "data/fonts/google/Noto_Sans_Indic_Siyaq_Numbers.ttf",
+  "trained": true,
+  "group": "Noto Sans",
+  "twins": [
+   "Noto Sans Caucasian Albanian",
+   "Noto Sans Cypro Minoan",
+   "Noto Sans Display",
+   "Noto Sans Elymaic",
+   "Noto Sans Indic Siyaq Numbers",
+   "Noto Sans Old Hungarian",
+   "Noto Sans SignWriting",
+   "Sans Serif Collection"
+  ]
+ },
+ {
+  "name": "Noto Sans Mono",
+  "path": "data/fonts/google/Noto_Sans_Mono.ttf",
+  "trained": true,
+  "group": "Hibur Mono",
+  "twins": [
+   "Noto Sans Mono"
+  ]
+ },
+ {
+  "name": "Noto Sans Old Hungarian",
+  "path": "data/fonts/google/Noto_Sans_Old_Hungarian.ttf",
+  "trained": true,
+  "group": "Noto Sans",
+  "twins": [
+   "Noto Sans Caucasian Albanian",
+   "Noto Sans Cypro Minoan",
+   "Noto Sans Display",
+   "Noto Sans Elymaic",
+   "Noto Sans Indic Siyaq Numbers",
+   "Noto Sans Old Hungarian",
+   "Noto Sans SignWriting",
+   "Sans Serif Collection"
+  ]
+ },
+ {
+  "name": "Noto Sans SignWriting",
+  "path": "data/fonts/google/Noto_Sans_SignWriting.ttf",
+  "trained": true,
+  "group": "Noto Sans",
+  "twins": [
+   "Noto Sans Caucasian Albanian",
+   "Noto Sans Cypro Minoan",
+   "Noto Sans Display",
+   "Noto Sans Elymaic",
+   "Noto Sans Indic Siyaq Numbers",
+   "Noto Sans Old Hungarian",
+   "Noto Sans SignWriting",
+   "Sans Serif Collection"
+  ]
+ },
+ {
+  "name": "Noto Serif",
+  "path": "data/fonts/google/Noto_Serif.ttf",
+  "trained": true,
+  "group": "Koh Santepheap",
+  "twins": [
+   "Noto Serif",
+   "Noto Serif Hentaigana",
+   "Noto Serif Khitan Small Script",
+   "Noto Serif Ottoman Siyaq"
+  ]
+ },
+ {
+  "name": "Noto Serif Display",
+  "path": "data/fonts/google/Noto_Serif_Display.ttf",
+  "trained": true
+ },
+ {
+  "name": "Noto Serif Hentaigana",
+  "path": "data/fonts/google/Noto_Serif_Hentaigana.ttf",
+  "trained": true,
+  "group": "Koh Santepheap",
+  "twins": [
+   "Noto Serif",
+   "Noto Serif Hentaigana",
+   "Noto Serif Khitan Small Script",
+   "Noto Serif Ottoman Siyaq"
+  ]
+ },
+ {
+  "name": "Noto Serif Khitan Small Script",
+  "path": "data/fonts/google/Noto_Serif_Khitan_Small_Script.ttf",
+  "trained": true,
+  "group": "Koh Santepheap",
+  "twins": [
+   "Noto Serif",
+   "Noto Serif Hentaigana",
+   "Noto Serif Khitan Small Script",
+   "Noto Serif Ottoman Siyaq"
+  ]
+ },
+ {
+  "name": "Noto Serif Ottoman Siyaq",
+  "path": "data/fonts/google/Noto_Serif_Ottoman_Siyaq.ttf",
+  "trained": true,
+  "group": "Koh Santepheap",
+  "twins": [
+   "Noto Serif",
+   "Noto Serif Hentaigana",
+   "Noto Serif Khitan Small Script",
+   "Noto Serif Ottoman Siyaq"
+  ]
+ },
+ {
+  "name": "Noto Znamenny Musical Notation",
+  "path": "data/fonts/google/Noto_Znamenny_Musical_Notation.ttf",
+  "trained": true
+ },
+ {
+  "name": "Nova Cut",
+  "path": "data/fonts/google/Nova_Cut.ttf",
+  "trained": true
+ },
+ {
+  "name": "Nova Flat",
+  "path": "data/fonts/google/Nova_Flat.ttf",
+  "trained": true,
+  "group": "Nova Flat",
+  "twins": [
+   "Nova Round",
+   "Nova Square"
+  ]
+ },
+ {
+  "name": "Nova Mono",
+  "path": "data/fonts/google/Nova_Mono.ttf",
+  "trained": true
+ },
+ {
+  "name": "Nova Oval",
+  "path": "data/fonts/google/Nova_Oval.ttf",
+  "trained": true
+ },
+ {
+  "name": "Nova Script",
+  "path": "data/fonts/google/Nova_Script.ttf",
+  "trained": true
+ },
+ {
+  "name": "Nova Slim",
+  "path": "data/fonts/google/Nova_Slim.ttf",
+  "trained": true
+ },
+ {
+  "name": "NTR",
+  "path": "data/fonts/google/NTR.ttf",
+  "trained": true,
+  "group": "NTR",
+  "twins": [
+   "Varela Round"
+  ]
+ },
+ {
+  "name": "Numans",
+  "path": "data/fonts/google/Numans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Nunito",
+  "path": "data/fonts/google/Nunito.ttf",
+  "trained": true
+ },
+ {
+  "name": "Nunito Sans",
+  "path": "data/fonts/google/Nunito_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Nuosu SIL",
+  "path": "data/fonts/google/Nuosu_SIL.ttf",
+  "trained": true,
+  "group": "Nuosu SIL",
+  "twins": [
+   "Tai Heritage Pro"
+  ]
+ },
+ {
+  "name": "Odibee Sans",
+  "path": "data/fonts/google/Odibee_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Odor Mean Chey",
+  "path": "data/fonts/google/Odor_Mean_Chey.ttf",
+  "trained": true,
+  "group": "Odor Mean Chey",
+  "twins": [
+   "Patua One"
+  ]
+ },
+ {
+  "name": "Offside",
+  "path": "data/fonts/google/Offside.ttf",
+  "trained": true
+ },
+ {
+  "name": "Oi",
+  "path": "data/fonts/google/Oi.ttf",
+  "trained": true
+ },
+ {
+  "name": "Ojuju",
+  "path": "data/fonts/google/Ojuju.ttf",
+  "trained": true
+ },
+ {
+  "name": "Old Standard TT",
+  "path": "data/fonts/google/Old_Standard_TT.ttf",
+  "trained": true
+ },
+ {
+  "name": "Oldenburg",
+  "path": "data/fonts/google/Oldenburg.ttf",
+  "trained": true
+ },
+ {
+  "name": "Ole",
+  "path": "data/fonts/google/Ole.ttf",
+  "trained": true
+ },
+ {
+  "name": "Oleo Script",
+  "path": "data/fonts/google/Oleo_Script.ttf",
+  "trained": true,
+  "group": "Oleo Script",
+  "twins": [
+   "Oleo Script Swash Caps"
+  ]
+ },
+ {
+  "name": "Oleo Script Swash Caps",
+  "path": "data/fonts/google/Oleo_Script_Swash_Caps.ttf",
+  "trained": true,
+  "group": "Oleo Script",
+  "twins": [
+   "Oleo Script Swash Caps"
+  ]
+ },
+ {
+  "name": "Onest",
+  "path": "data/fonts/google/Onest.ttf",
+  "trained": true
+ },
+ {
+  "name": "Oooh Baby",
+  "path": "data/fonts/google/Oooh_Baby.ttf",
+  "trained": true
+ },
+ {
+  "name": "Open Sans",
+  "path": "data/fonts/google/Open_Sans.ttf",
+  "trained": true,
+  "group": "Khula",
+  "twins": [
+   "Open Sans"
+  ]
+ },
+ {
+  "name": "Oranienbaum",
+  "path": "data/fonts/google/Oranienbaum.ttf",
+  "trained": true
+ },
+ {
+  "name": "Orbitron",
+  "path": "data/fonts/google/Orbitron.ttf",
+  "trained": true
+ },
+ {
+  "name": "Oregano",
+  "path": "data/fonts/google/Oregano.ttf",
+  "trained": true
+ },
+ {
+  "name": "Orelega One",
+  "path": "data/fonts/google/Orelega_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Orienta",
+  "path": "data/fonts/google/Orienta.ttf",
+  "trained": true
+ },
+ {
+  "name": "Original Surfer",
+  "path": "data/fonts/google/Original_Surfer.ttf",
+  "trained": true
+ },
+ {
+  "name": "Oswald",
+  "path": "data/fonts/google/Oswald.ttf",
+  "trained": true
+ },
+ {
+  "name": "Outfit",
+  "path": "data/fonts/google/Outfit.ttf",
+  "trained": true
+ },
+ {
+  "name": "Over the Rainbow",
+  "path": "data/fonts/google/Over_the_Rainbow.ttf",
+  "trained": true
+ },
+ {
+  "name": "Overlock",
+  "path": "data/fonts/google/Overlock.ttf",
+  "trained": true
+ },
+ {
+  "name": "Overlock SC",
+  "path": "data/fonts/google/Overlock_SC.ttf",
+  "trained": true
+ },
+ {
+  "name": "Overpass",
+  "path": "data/fonts/google/Overpass.ttf",
+  "trained": true
+ },
+ {
+  "name": "Overpass Mono",
+  "path": "data/fonts/google/Overpass_Mono.ttf",
+  "trained": true
+ },
+ {
+  "name": "Ovo",
+  "path": "data/fonts/google/Ovo.ttf",
+  "trained": true
+ },
+ {
+  "name": "Oxanium",
+  "path": "data/fonts/google/Oxanium.ttf",
+  "trained": true
+ },
+ {
+  "name": "Oxygen",
+  "path": "data/fonts/google/Oxygen.ttf",
+  "trained": true
+ },
+ {
+  "name": "Oxygen Mono",
+  "path": "data/fonts/google/Oxygen_Mono.ttf",
+  "trained": true
+ },
+ {
+  "name": "Pacifico",
+  "path": "data/fonts/google/Pacifico.ttf",
+  "trained": true
+ },
+ {
+  "name": "Padauk",
+  "path": "data/fonts/google/Padauk.ttf",
+  "trained": true
+ },
+ {
+  "name": "Padyakke Expanded One",
+  "path": "data/fonts/google/Padyakke_Expanded_One.ttf",
+  "trained": true,
+  "group": "BhuTuka Expanded One",
+  "twins": [
+   "Padyakke Expanded One"
+  ]
+ },
+ {
+  "name": "Palanquin",
+  "path": "data/fonts/google/Palanquin.ttf",
+  "trained": true
+ },
+ {
+  "name": "Palanquin Dark",
+  "path": "data/fonts/google/Palanquin_Dark.ttf",
+  "trained": true
+ },
+ {
+  "name": "Palatino / P052",
+  "path": "data/fonts/extras/P052-Roman.otf",
+  "trained": true
+ },
+ {
+  "name": "Palatino Linotype",
+  "path": "C:/Windows/Fonts/pala.ttf",
+  "trained": true,
+  "group": "Palatino Linotype",
+  "twins": [
+   "Book Antiqua"
+  ]
+ },
+ {
+  "name": "Pangolin",
+  "path": "data/fonts/google/Pangolin.ttf",
+  "trained": true
+ },
+ {
+  "name": "Paprika",
+  "path": "data/fonts/google/Paprika.ttf",
+  "trained": true
+ },
+ {
+  "name": "Papyrus",
+  "path": "C:/Windows/Fonts/PAPYRUS.TTF",
+  "trained": true
+ },
+ {
+  "name": "Parastoo",
+  "path": "data/fonts/google/Parastoo.ttf",
+  "trained": true,
+  "group": "Lora",
+  "twins": [
+   "Parastoo"
+  ]
+ },
+ {
+  "name": "Parisienne",
+  "path": "data/fonts/google/Parisienne.ttf",
+  "trained": true
+ },
+ {
+  "name": "Parkinsans",
+  "path": "data/fonts/google/Parkinsans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Passero One",
+  "path": "data/fonts/google/Passero_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Passion One",
+  "path": "data/fonts/google/Passion_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Passions Conflict",
+  "path": "data/fonts/google/Passions_Conflict.ttf",
+  "trained": true
+ },
+ {
+  "name": "Pathway Extreme",
+  "path": "data/fonts/google/Pathway_Extreme.ttf",
+  "trained": true
+ },
+ {
+  "name": "Pathway Gothic One",
+  "path": "data/fonts/google/Pathway_Gothic_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Patrick Hand",
+  "path": "data/fonts/google/Patrick_Hand.ttf",
+  "trained": true
+ },
+ {
+  "name": "Patrick Hand SC",
+  "path": "data/fonts/google/Patrick_Hand_SC.ttf",
+  "trained": true
+ },
+ {
+  "name": "Pattaya",
+  "path": "data/fonts/google/Pattaya.ttf",
+  "trained": true
+ },
+ {
+  "name": "Patua One",
+  "path": "data/fonts/google/Patua_One.ttf",
+  "trained": true,
+  "group": "Odor Mean Chey",
+  "twins": [
+   "Patua One"
+  ]
+ },
+ {
+  "name": "Pavanam",
+  "path": "data/fonts/google/Pavanam.ttf",
+  "trained": true
+ },
+ {
+  "name": "Paytone One",
+  "path": "data/fonts/google/Paytone_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Peddana",
+  "path": "data/fonts/google/Peddana.ttf",
+  "trained": true
+ },
+ {
+  "name": "Peralta",
+  "path": "data/fonts/google/Peralta.ttf",
+  "trained": true
+ },
+ {
+  "name": "Permanent Marker",
+  "path": "data/fonts/google/Permanent_Marker.ttf",
+  "trained": true
+ },
+ {
+  "name": "Petemoss",
+  "path": "data/fonts/google/Petemoss.ttf",
+  "trained": true
+ },
+ {
+  "name": "Petit Formal Script",
+  "path": "data/fonts/google/Petit_Formal_Script.ttf",
+  "trained": true
+ },
+ {
+  "name": "Petrona",
+  "path": "data/fonts/google/Petrona.ttf",
+  "trained": true
+ },
+ {
+  "name": "Philosopher",
+  "path": "data/fonts/google/Philosopher.ttf",
+  "trained": true,
+  "group": "El Messiri",
+  "twins": [
+   "Philosopher"
+  ]
+ },
+ {
+  "name": "Phudu",
+  "path": "data/fonts/google/Phudu.ttf",
+  "trained": true
+ },
+ {
+  "name": "Piazzolla",
+  "path": "data/fonts/google/Piazzolla.ttf",
+  "trained": true
+ },
+ {
+  "name": "Piedra",
+  "path": "data/fonts/google/Piedra.ttf",
+  "trained": true
+ },
+ {
+  "name": "Pinyon Script",
+  "path": "data/fonts/google/Pinyon_Script.ttf",
+  "trained": true
+ },
+ {
+  "name": "Pirata One",
+  "path": "data/fonts/google/Pirata_One.ttf",
+  "trained": true,
+  "group": "Bokor",
+  "twins": [
+   "Pirata One"
+  ]
+ },
+ {
+  "name": "Pixelify Sans",
+  "path": "data/fonts/google/Pixelify_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Plaster",
+  "path": "data/fonts/google/Plaster.ttf",
+  "trained": true
+ },
+ {
+  "name": "Platypi",
+  "path": "data/fonts/google/Platypi.ttf",
+  "trained": true
+ },
+ {
+  "name": "Play",
+  "path": "data/fonts/google/Play.ttf",
+  "trained": true
+ },
+ {
+  "name": "Playball",
+  "path": "data/fonts/google/Playball.ttf",
+  "trained": true
+ },
+ {
+  "name": "Playfair",
+  "path": "data/fonts/google/Playfair.ttf",
+  "trained": true
+ },
+ {
+  "name": "Playfair Display",
+  "path": "data/fonts/google/Playfair_Display.ttf",
+  "trained": true
+ },
+ {
+  "name": "Playfair Display SC",
+  "path": "data/fonts/google/Playfair_Display_SC.ttf",
+  "trained": true
+ },
+ {
+  "name": "Playpen Sans",
+  "path": "data/fonts/google/Playpen_Sans.ttf",
+  "trained": true,
+  "group": "Playpen Sans",
+  "twins": [
+   "Playpen Sans Arabic",
+   "Playpen Sans Deva",
+   "Playpen Sans Thai"
+  ]
+ },
+ {
+  "name": "Playpen Sans Arabic",
+  "path": "data/fonts/google/Playpen_Sans_Arabic.ttf",
+  "trained": true,
+  "group": "Playpen Sans",
+  "twins": [
+   "Playpen Sans Arabic",
+   "Playpen Sans Deva",
+   "Playpen Sans Thai",
+   "Playpen Sans Hebrew"
+  ]
+ },
+ {
+  "name": "Playpen Sans Deva",
+  "path": "data/fonts/google/Playpen_Sans_Deva.ttf",
+  "trained": true,
+  "group": "Playpen Sans",
+  "twins": [
+   "Playpen Sans Arabic",
+   "Playpen Sans Deva",
+   "Playpen Sans Thai"
+  ]
+ },
+ {
+  "name": "Playpen Sans Thai",
+  "path": "data/fonts/google/Playpen_Sans_Thai.ttf",
+  "trained": true,
+  "group": "Playpen Sans",
+  "twins": [
+   "Playpen Sans Arabic",
+   "Playpen Sans Deva",
+   "Playpen Sans Thai"
+  ]
+ },
+ {
+  "name": "Pliant",
+  "path": "data/fonts/google/Pliant.ttf",
+  "trained": true
+ },
+ {
+  "name": "Plus Jakarta Sans",
+  "path": "data/fonts/google/Plus_Jakarta_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Pochaevsk",
+  "path": "data/fonts/google/Pochaevsk.ttf",
+  "trained": true
+ },
+ {
+  "name": "Podkova",
+  "path": "data/fonts/google/Podkova.ttf",
+  "trained": true
+ },
+ {
+  "name": "Poetsen One",
+  "path": "data/fonts/google/Poetsen_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Poiret One",
+  "path": "data/fonts/google/Poiret_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Poller One",
+  "path": "data/fonts/google/Poller_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Poltawski Nowy",
+  "path": "data/fonts/google/Poltawski_Nowy.ttf",
+  "trained": true
+ },
+ {
+  "name": "Poly",
+  "path": "data/fonts/google/Poly.ttf",
+  "trained": true
+ },
+ {
+  "name": "Pompiere",
+  "path": "data/fonts/google/Pompiere.ttf",
+  "trained": true
+ },
+ {
+  "name": "Ponnala",
+  "path": "data/fonts/google/Ponnala.ttf",
+  "trained": true
+ },
+ {
+  "name": "Ponomar",
+  "path": "data/fonts/google/Ponomar.ttf",
+  "trained": true,
+  "group": "Libertinus Serif",
+  "twins": [
+   "Ponomar"
+  ]
+ },
+ {
+  "name": "Pontano Sans",
+  "path": "data/fonts/google/Pontano_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Poppins",
+  "path": "data/fonts/google/Poppins.ttf",
+  "trained": true
+ },
+ {
+  "name": "Port Lligat Sans",
+  "path": "data/fonts/google/Port_Lligat_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Port Lligat Slab",
+  "path": "data/fonts/google/Port_Lligat_Slab.ttf",
+  "trained": true
+ },
+ {
+  "name": "Pragati Narrow",
+  "path": "data/fonts/google/Pragati_Narrow.ttf",
+  "trained": true
+ },
+ {
+  "name": "Praise",
+  "path": "data/fonts/google/Praise.ttf",
+  "trained": true
+ },
+ {
+  "name": "Prata",
+  "path": "data/fonts/google/Prata.ttf",
+  "trained": true,
+  "group": "Prata",
+  "twins": [
+   "Suranna"
+  ]
+ },
+ {
+  "name": "Preahvihear",
+  "path": "data/fonts/google/Preahvihear.ttf",
+  "trained": true
+ },
+ {
+  "name": "Press Start 2P",
+  "path": "data/fonts/google/Press_Start_2P.ttf",
+  "trained": true
+ },
+ {
+  "name": "Pridi",
+  "path": "data/fonts/google/Pridi.ttf",
+  "trained": true
+ },
+ {
+  "name": "Princess Sofia",
+  "path": "data/fonts/google/Princess_Sofia.ttf",
+  "trained": true
+ },
+ {
+  "name": "Pristina",
+  "path": "C:/Windows/Fonts/PRISTINA.TTF",
+  "trained": true
+ },
+ {
+  "name": "Prociono",
+  "path": "data/fonts/google/Prociono.ttf",
+  "trained": true
+ },
+ {
+  "name": "Prompt",
+  "path": "data/fonts/google/Prompt.ttf",
+  "trained": true
+ },
+ {
+  "name": "Prosto One",
+  "path": "data/fonts/google/Prosto_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Protest Guerrilla",
+  "path": "data/fonts/google/Protest_Guerrilla.ttf",
+  "trained": true
+ },
+ {
+  "name": "Protest Revolution",
+  "path": "data/fonts/google/Protest_Revolution.ttf",
+  "trained": true
+ },
+ {
+  "name": "Protest Riot",
+  "path": "data/fonts/google/Protest_Riot.ttf",
+  "trained": true
+ },
+ {
+  "name": "Protest Strike",
+  "path": "data/fonts/google/Protest_Strike.ttf",
+  "trained": true
+ },
+ {
+  "name": "Proza Libre",
+  "path": "data/fonts/google/Proza_Libre.ttf",
+  "trained": true
+ },
+ {
+  "name": "PT Mono",
+  "path": "data/fonts/google/PT_Mono.ttf",
+  "trained": true
+ },
+ {
+  "name": "PT Sans",
+  "path": "data/fonts/google/PT_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "PT Sans Caption",
+  "path": "data/fonts/google/PT_Sans_Caption.ttf",
+  "trained": true
+ },
+ {
+  "name": "PT Sans Narrow",
+  "path": "data/fonts/google/PT_Sans_Narrow.ttf",
+  "trained": true
+ },
+ {
+  "name": "PT Serif",
+  "path": "data/fonts/google/PT_Serif.ttf",
+  "trained": true
+ },
+ {
+  "name": "PT Serif Caption",
+  "path": "data/fonts/google/PT_Serif_Caption.ttf",
+  "trained": true
+ },
+ {
+  "name": "Public Sans",
+  "path": "data/fonts/google/Public_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Puppies Play",
+  "path": "data/fonts/google/Puppies_Play.ttf",
+  "trained": true
+ },
+ {
+  "name": "Puritan",
+  "path": "data/fonts/google/Puritan.ttf",
+  "trained": true
+ },
+ {
+  "name": "Purple Purse",
+  "path": "data/fonts/google/Purple_Purse.ttf",
+  "trained": true
+ },
+ {
+  "name": "Qahiri",
+  "path": "data/fonts/google/Qahiri.ttf",
+  "trained": true
+ },
+ {
+  "name": "Quando",
+  "path": "data/fonts/google/Quando.ttf",
+  "trained": true
+ },
+ {
+  "name": "Quantico",
+  "path": "data/fonts/google/Quantico.ttf",
+  "trained": true
+ },
+ {
+  "name": "Quattrocento",
+  "path": "data/fonts/google/Quattrocento.ttf",
+  "trained": true
+ },
+ {
+  "name": "Quattrocento Sans",
+  "path": "data/fonts/google/Quattrocento_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Questrial",
+  "path": "data/fonts/google/Questrial.ttf",
+  "trained": true
+ },
+ {
+  "name": "Quicksand",
+  "path": "data/fonts/google/Quicksand.ttf",
+  "trained": true
+ },
+ {
+  "name": "Quintessential",
+  "path": "data/fonts/google/Quintessential.ttf",
+  "trained": true
+ },
+ {
+  "name": "Qwigley",
+  "path": "data/fonts/google/Qwigley.ttf",
+  "trained": true
+ },
+ {
+  "name": "Qwitcher Grypen",
+  "path": "data/fonts/google/Qwitcher_Grypen.ttf",
+  "trained": true
+ },
+ {
+  "name": "Racing Sans One",
+  "path": "data/fonts/google/Racing_Sans_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Radio Canada",
+  "path": "data/fonts/google/Radio_Canada.ttf",
+  "trained": true,
+  "group": "Radio Canada",
+  "twins": [
+   "Radio Canada Big"
+  ]
+ },
+ {
+  "name": "Radio Canada Big",
+  "path": "data/fonts/google/Radio_Canada_Big.ttf",
+  "trained": true,
+  "group": "Radio Canada",
+  "twins": [
+   "Radio Canada Big"
+  ]
+ },
+ {
+  "name": "Radley",
+  "path": "data/fonts/google/Radley.ttf",
+  "trained": true
+ },
+ {
+  "name": "Rajdhani",
+  "path": "data/fonts/google/Rajdhani.ttf",
+  "trained": true
+ },
+ {
+  "name": "Rakkas",
+  "path": "data/fonts/google/Rakkas.ttf",
+  "trained": true
+ },
+ {
+  "name": "Raleway",
+  "path": "data/fonts/google/Raleway.ttf",
+  "trained": true
+ },
+ {
+  "name": "Raleway Dots",
+  "path": "data/fonts/google/Raleway_Dots.ttf",
+  "trained": true
+ },
+ {
+  "name": "Ramabhadra",
+  "path": "data/fonts/google/Ramabhadra.ttf",
+  "trained": true
+ },
+ {
+  "name": "Ramaraja",
+  "path": "data/fonts/google/Ramaraja.ttf",
+  "trained": true
+ },
+ {
+  "name": "Rambla",
+  "path": "data/fonts/google/Rambla.ttf",
+  "trained": true
+ },
+ {
+  "name": "Rammetto One",
+  "path": "data/fonts/google/Rammetto_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Ramsina",
+  "path": "data/fonts/google/Ramsina.ttf",
+  "trained": true
+ },
+ {
+  "name": "Ranchers",
+  "path": "data/fonts/google/Ranchers.ttf",
+  "trained": true
+ },
+ {
+  "name": "Rancho",
+  "path": "data/fonts/google/Rancho.ttf",
+  "trained": true
+ },
+ {
+  "name": "Ranga",
+  "path": "data/fonts/google/Ranga.ttf",
+  "trained": true,
+  "group": "Allan",
+  "twins": [
+   "Ranga"
+  ]
+ },
+ {
+  "name": "Rasa",
+  "path": "data/fonts/google/Rasa.ttf",
+  "trained": true,
+  "group": "Rasa",
+  "twins": [
+   "Yrsa"
+  ]
+ },
+ {
+  "name": "Rationale",
+  "path": "data/fonts/google/Rationale.ttf",
+  "trained": true
+ },
+ {
+  "name": "Ravi Prakash",
+  "path": "data/fonts/google/Ravi_Prakash.ttf",
+  "trained": true,
+  "group": "Joti One",
+  "twins": [
+   "Ravi Prakash"
+  ]
+ },
+ {
+  "name": "Readex Pro",
+  "path": "data/fonts/google/Readex_Pro.ttf",
+  "trained": true
+ },
+ {
+  "name": "Recursive",
+  "path": "data/fonts/google/Recursive.ttf",
+  "trained": true
+ },
+ {
+  "name": "Red Hat Display",
+  "path": "data/fonts/google/Red_Hat_Display.ttf",
+  "trained": true,
+  "group": "Red Hat Display",
+  "twins": [
+   "Red Hat Text"
+  ]
+ },
+ {
+  "name": "Red Hat Mono",
+  "path": "data/fonts/google/Red_Hat_Mono.ttf",
+  "trained": true
+ },
+ {
+  "name": "Red Hat Text",
+  "path": "data/fonts/google/Red_Hat_Text.ttf",
+  "trained": true,
+  "group": "Red Hat Display",
+  "twins": [
+   "Red Hat Text"
+  ]
+ },
+ {
+  "name": "Red Rose",
+  "path": "data/fonts/google/Red_Rose.ttf",
+  "trained": true
+ },
+ {
+  "name": "Reddit Mono",
+  "path": "data/fonts/google/Reddit_Mono.ttf",
+  "trained": true
+ },
+ {
+  "name": "Reddit Sans",
+  "path": "data/fonts/google/Reddit_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Reddit Sans Condensed",
+  "path": "data/fonts/google/Reddit_Sans_Condensed.ttf",
+  "trained": true
+ },
+ {
+  "name": "Redressed",
+  "path": "data/fonts/google/Redressed.ttf",
+  "trained": true
+ },
+ {
+  "name": "Reem Kufi",
+  "path": "data/fonts/google/Reem_Kufi.ttf",
+  "trained": true,
+  "group": "Reem Kufi",
+  "twins": [
+   "Reem Kufi Fun",
+   "Reem Kufi Ink"
+  ]
+ },
+ {
+  "name": "Reenie Beanie",
+  "path": "data/fonts/google/Reenie_Beanie.ttf",
+  "trained": true
+ },
+ {
+  "name": "REM",
+  "path": "data/fonts/google/REM.ttf",
+  "trained": true
+ },
+ {
+  "name": "Rethink Sans",
+  "path": "data/fonts/google/Rethink_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Revalia",
+  "path": "data/fonts/google/Revalia.ttf",
+  "trained": true
+ },
+ {
+  "name": "Rhodium Libre",
+  "path": "data/fonts/google/Rhodium_Libre.ttf",
+  "trained": true
+ },
+ {
+  "name": "Ribeye",
+  "path": "data/fonts/google/Ribeye.ttf",
+  "trained": true
+ },
+ {
+  "name": "Ribeye Marrow",
+  "path": "data/fonts/google/Ribeye_Marrow.ttf",
+  "trained": true
+ },
+ {
+  "name": "Righteous",
+  "path": "data/fonts/google/Righteous.ttf",
+  "trained": true
+ },
+ {
+  "name": "Risque",
+  "path": "data/fonts/google/Risque.ttf",
+  "trained": true
+ },
+ {
+  "name": "Road Rage",
+  "path": "data/fonts/google/Road_Rage.ttf",
+  "trained": true
+ },
+ {
+  "name": "Roboto",
+  "path": "data/fonts/google/Roboto.ttf",
+  "trained": true,
+  "group": "Roboto",
+  "twins": [
+   "Roboto Flex"
+  ]
+ },
+ {
+  "name": "Roboto Condensed",
+  "path": "data/fonts/google/Roboto_Condensed.ttf",
+  "trained": true
+ },
+ {
+  "name": "Roboto Flex",
+  "path": "data/fonts/google/Roboto_Flex.ttf",
+  "trained": true,
+  "group": "Roboto",
+  "twins": [
+   "Roboto Flex"
+  ]
+ },
+ {
+  "name": "Roboto Mono",
+  "path": "data/fonts/google/Roboto_Mono.ttf",
+  "trained": true
+ },
+ {
+  "name": "Roboto Serif",
+  "path": "data/fonts/google/Roboto_Serif.ttf",
+  "trained": true
+ },
+ {
+  "name": "Roboto Slab",
+  "path": "data/fonts/google/Roboto_Slab.ttf",
+  "trained": true,
+  "group": "Battambang",
+  "twins": [
+   "Roboto Slab"
+  ]
+ },
+ {
+  "name": "Rochester",
+  "path": "data/fonts/google/Rochester.ttf",
+  "trained": true
+ },
+ {
+  "name": "Rock Salt",
+  "path": "data/fonts/google/Rock_Salt.ttf",
+  "trained": true
+ },
+ {
+  "name": "Rokkitt",
+  "path": "data/fonts/google/Rokkitt.ttf",
+  "trained": true
+ },
+ {
+  "name": "Romanesco",
+  "path": "data/fonts/google/Romanesco.ttf",
+  "trained": true
+ },
+ {
+  "name": "Ropa Sans",
+  "path": "data/fonts/google/Ropa_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Rosario",
+  "path": "data/fonts/google/Rosario.ttf",
+  "trained": true
+ },
+ {
+  "name": "Rosarivo",
+  "path": "data/fonts/google/Rosarivo.ttf",
+  "trained": true
+ },
+ {
+  "name": "Rouge Script",
+  "path": "data/fonts/google/Rouge_Script.ttf",
+  "trained": true
+ },
+ {
+  "name": "Rowdies",
+  "path": "data/fonts/google/Rowdies.ttf",
+  "trained": true
+ },
+ {
+  "name": "Rozha One",
+  "path": "data/fonts/google/Rozha_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Rubik",
+  "path": "data/fonts/google/Rubik.ttf",
+  "trained": true
+ },
+ {
+  "name": "Rubik 80s Fade",
+  "path": "data/fonts/google/Rubik_80s_Fade.ttf",
+  "trained": true
+ },
+ {
+  "name": "Rubik Beastly",
+  "path": "data/fonts/google/Rubik_Beastly.ttf",
+  "trained": true
+ },
+ {
+  "name": "Rubik Broken Fax",
+  "path": "data/fonts/google/Rubik_Broken_Fax.ttf",
+  "trained": true
+ },
+ {
+  "name": "Rubik Bubbles",
+  "path": "data/fonts/google/Rubik_Bubbles.ttf",
+  "trained": true
+ },
+ {
+  "name": "Rubik Burned",
+  "path": "data/fonts/google/Rubik_Burned.ttf",
+  "trained": true
+ },
+ {
+  "name": "Rubik Dirt",
+  "path": "data/fonts/google/Rubik_Dirt.ttf",
+  "trained": true
+ },
+ {
+  "name": "Rubik Distressed",
+  "path": "data/fonts/google/Rubik_Distressed.ttf",
+  "trained": true
+ },
+ {
+  "name": "Rubik Doodle Shadow",
+  "path": "data/fonts/google/Rubik_Doodle_Shadow.ttf",
+  "trained": true
+ },
+ {
+  "name": "Rubik Doodle Triangles",
+  "path": "data/fonts/google/Rubik_Doodle_Triangles.ttf",
+  "trained": true
+ },
+ {
+  "name": "Rubik Gemstones",
+  "path": "data/fonts/google/Rubik_Gemstones.ttf",
+  "trained": true
+ },
+ {
+  "name": "Rubik Glitch",
+  "path": "data/fonts/google/Rubik_Glitch.ttf",
+  "trained": true
+ },
+ {
+  "name": "Rubik Glitch Pop",
+  "path": "data/fonts/google/Rubik_Glitch_Pop.ttf",
+  "trained": true
+ },
+ {
+  "name": "Rubik Iso",
+  "path": "data/fonts/google/Rubik_Iso.ttf",
+  "trained": true
+ },
+ {
+  "name": "Rubik Lines",
+  "path": "data/fonts/google/Rubik_Lines.ttf",
+  "trained": true
+ },
+ {
+  "name": "Rubik Maps",
+  "path": "data/fonts/google/Rubik_Maps.ttf",
+  "trained": true
+ },
+ {
+  "name": "Rubik Marker Hatch",
+  "path": "data/fonts/google/Rubik_Marker_Hatch.ttf",
+  "trained": true
+ },
+ {
+  "name": "Rubik Maze",
+  "path": "data/fonts/google/Rubik_Maze.ttf",
+  "trained": true
+ },
+ {
+  "name": "Rubik Microbe",
+  "path": "data/fonts/google/Rubik_Microbe.ttf",
+  "trained": true
+ },
+ {
+  "name": "Rubik Mono One",
+  "path": "data/fonts/google/Rubik_Mono_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Rubik Moonrocks",
+  "path": "data/fonts/google/Rubik_Moonrocks.ttf",
+  "trained": true
+ },
+ {
+  "name": "Rubik Pixels",
+  "path": "data/fonts/google/Rubik_Pixels.ttf",
+  "trained": true
+ },
+ {
+  "name": "Rubik Puddles",
+  "path": "data/fonts/google/Rubik_Puddles.ttf",
+  "trained": true
+ },
+ {
+  "name": "Rubik Scribble",
+  "path": "data/fonts/google/Rubik_Scribble.ttf",
+  "trained": true
+ },
+ {
+  "name": "Rubik Spray Paint",
+  "path": "data/fonts/google/Rubik_Spray_Paint.ttf",
+  "trained": true
+ },
+ {
+  "name": "Rubik Storm",
+  "path": "data/fonts/google/Rubik_Storm.ttf",
+  "trained": true
+ },
+ {
+  "name": "Rubik Vinyl",
+  "path": "data/fonts/google/Rubik_Vinyl.ttf",
+  "trained": true
+ },
+ {
+  "name": "Rubik Wet Paint",
+  "path": "data/fonts/google/Rubik_Wet_Paint.ttf",
+  "trained": true
+ },
+ {
+  "name": "Ruda",
+  "path": "data/fonts/google/Ruda.ttf",
+  "trained": true
+ },
+ {
+  "name": "Rufina",
+  "path": "data/fonts/google/Rufina.ttf",
+  "trained": true
+ },
+ {
+  "name": "Ruge Boogie",
+  "path": "data/fonts/google/Ruge_Boogie.ttf",
+  "trained": true
+ },
+ {
+  "name": "Ruluko",
+  "path": "data/fonts/google/Ruluko.ttf",
+  "trained": true
+ },
+ {
+  "name": "Rum Raisin",
+  "path": "data/fonts/google/Rum_Raisin.ttf",
+  "trained": true
+ },
+ {
+  "name": "Ruslan Display",
+  "path": "data/fonts/google/Ruslan_Display.ttf",
+  "trained": true
+ },
+ {
+  "name": "Russo One",
+  "path": "data/fonts/google/Russo_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Ruthie",
+  "path": "data/fonts/google/Ruthie.ttf",
+  "trained": true,
+  "group": "Love Light",
+  "twins": [
+   "Ruthie"
+  ]
+ },
+ {
+  "name": "Ruwudu",
+  "path": "data/fonts/google/Ruwudu.ttf",
+  "trained": true
+ },
+ {
+  "name": "Rye",
+  "path": "data/fonts/google/Rye.ttf",
+  "trained": true
+ },
+ {
+  "name": "Sacramento",
+  "path": "data/fonts/google/Sacramento.ttf",
+  "trained": true
+ },
+ {
+  "name": "Sahitya",
+  "path": "data/fonts/google/Sahitya.ttf",
+  "trained": true
+ },
+ {
+  "name": "Sail",
+  "path": "data/fonts/google/Sail.ttf",
+  "trained": true
+ },
+ {
+  "name": "Saira",
+  "path": "data/fonts/google/Saira.ttf",
+  "trained": true
+ },
+ {
+  "name": "Saira Condensed",
+  "path": "data/fonts/google/Saira_Condensed.ttf",
+  "trained": true
+ },
+ {
+  "name": "Saira Extra Condensed",
+  "path": "data/fonts/google/Saira_Extra_Condensed.ttf",
+  "trained": true
+ },
+ {
+  "name": "Saira Semi Condensed",
+  "path": "data/fonts/google/Saira_Semi_Condensed.ttf",
+  "trained": true
+ },
+ {
+  "name": "Saira Stencil",
+  "path": "data/fonts/google/Saira_Stencil.ttf",
+  "trained": true
+ },
+ {
+  "name": "Salsa",
+  "path": "data/fonts/google/Salsa.ttf",
+  "trained": true
+ },
+ {
+  "name": "Sanchez",
+  "path": "data/fonts/google/Sanchez.ttf",
+  "trained": true
+ },
+ {
+  "name": "Sancreek",
+  "path": "data/fonts/google/Sancreek.ttf",
+  "trained": true
+ },
+ {
+  "name": "Sankofa Display",
+  "path": "data/fonts/google/Sankofa_Display.ttf",
+  "trained": true
+ },
+ {
+  "name": "Sans Serif Collection",
+  "path": "C:/Windows/Fonts/SansSerifCollection.ttf",
+  "trained": true,
+  "group": "Noto Sans",
+  "twins": [
+   "Noto Sans Caucasian Albanian",
+   "Noto Sans Cypro Minoan",
+   "Noto Sans Display",
+   "Noto Sans Elymaic",
+   "Noto Sans Indic Siyaq Numbers",
+   "Noto Sans Old Hungarian",
+   "Noto Sans SignWriting",
+   "Sans Serif Collection"
+  ]
+ },
+ {
+  "name": "Sansation",
+  "path": "data/fonts/google/Sansation.ttf",
+  "trained": true
+ },
+ {
+  "name": "Sansita",
+  "path": "data/fonts/google/Sansita.ttf",
+  "trained": true
+ },
+ {
+  "name": "Sansita Swashed",
+  "path": "data/fonts/google/Sansita_Swashed.ttf",
+  "trained": true
+ },
+ {
+  "name": "Sarabun",
+  "path": "data/fonts/google/Sarabun.ttf",
+  "trained": true
+ },
+ {
+  "name": "Sarala",
+  "path": "data/fonts/google/Sarala.ttf",
+  "trained": true
+ },
+ {
+  "name": "Sarina",
+  "path": "data/fonts/google/Sarina.ttf",
+  "trained": true
+ },
+ {
+  "name": "Sarpanch",
+  "path": "data/fonts/google/Sarpanch.ttf",
+  "trained": true
+ },
+ {
+  "name": "Sassy Frass",
+  "path": "data/fonts/google/Sassy_Frass.ttf",
+  "trained": true
+ },
+ {
+  "name": "Satisfy",
+  "path": "data/fonts/google/Satisfy.ttf",
+  "trained": true
+ },
+ {
+  "name": "Savate",
+  "path": "data/fonts/google/Savate.ttf",
+  "trained": true
+ },
+ {
+  "name": "Scada",
+  "path": "data/fonts/google/Scada.ttf",
+  "trained": true
+ },
+ {
+  "name": "Scheherazade New",
+  "path": "data/fonts/google/Scheherazade_New.ttf",
+  "trained": true
+ },
+ {
+  "name": "Schibsted Grotesk",
+  "path": "data/fonts/google/Schibsted_Grotesk.ttf",
+  "trained": true
+ },
+ {
+  "name": "Schoolbell",
+  "path": "data/fonts/google/Schoolbell.ttf",
+  "trained": true
+ },
+ {
+  "name": "Science Gothic",
+  "path": "data/fonts/google/Science_Gothic.ttf",
+  "trained": true
+ },
+ {
+  "name": "Scope One",
+  "path": "data/fonts/google/Scope_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Scoutie Sans",
+  "path": "data/fonts/google/Scoutie_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Seaweed Script",
+  "path": "data/fonts/google/Seaweed_Script.ttf",
+  "trained": true,
+  "group": "Fasthand",
+  "twins": [
+   "Seaweed Script"
+  ]
+ },
+ {
+  "name": "Secular One",
+  "path": "data/fonts/google/Secular_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Sedan",
+  "path": "data/fonts/google/Sedan.ttf",
+  "trained": true,
+  "group": "Sedan",
+  "twins": [
+   "Sedan SC"
+  ]
+ },
+ {
+  "name": "Sedgwick Ave",
+  "path": "data/fonts/google/Sedgwick_Ave.ttf",
+  "trained": true
+ },
+ {
+  "name": "Sedgwick Ave Display",
+  "path": "data/fonts/google/Sedgwick_Ave_Display.ttf",
+  "trained": true
+ },
+ {
+  "name": "Segoe Print",
+  "path": "C:/Windows/Fonts/segoepr.ttf",
+  "trained": true
+ },
+ {
+  "name": "Segoe Script",
+  "path": "C:/Windows/Fonts/segoesc.ttf",
+  "trained": true
+ },
+ {
+  "name": "Segoe UI",
+  "path": "C:/Windows/Fonts/segoeui.ttf",
+  "trained": true,
+  "group": "Segoe UI",
+  "twins": [
+   "Ebrima",
+   "Gadugi",
+   "Leelawadee UI",
+   "Nirmala UI",
+   "Segoe UI Historic"
+  ]
+ },
+ {
+  "name": "Segoe UI Variable",
+  "path": "C:/Windows/Fonts/SegUIVar.ttf",
+  "trained": true
+ },
+ {
+  "name": "Sekuya",
+  "path": "data/fonts/google/Sekuya.ttf",
+  "trained": true
+ },
+ {
+  "name": "Sen",
+  "path": "data/fonts/google/Sen.ttf",
+  "trained": true
+ },
+ {
+  "name": "Send Flowers",
+  "path": "data/fonts/google/Send_Flowers.ttf",
+  "trained": true
+ },
+ {
+  "name": "Sevillana",
+  "path": "data/fonts/google/Sevillana.ttf",
+  "trained": true
+ },
+ {
+  "name": "Seymour One",
+  "path": "data/fonts/google/Seymour_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Shadows Into Light",
+  "path": "data/fonts/google/Shadows_Into_Light.ttf",
+  "trained": true
+ },
+ {
+  "name": "Shadows Into Light Two",
+  "path": "data/fonts/google/Shadows_Into_Light_Two.ttf",
+  "trained": true
+ },
+ {
+  "name": "Shafarik",
+  "path": "data/fonts/google/Shafarik.ttf",
+  "trained": true
+ },
+ {
+  "name": "Shalimar",
+  "path": "data/fonts/google/Shalimar.ttf",
+  "trained": true
+ },
+ {
+  "name": "Shantell Sans",
+  "path": "data/fonts/google/Shantell_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Shanti",
+  "path": "data/fonts/google/Shanti.ttf",
+  "trained": true
+ },
+ {
+  "name": "Share",
+  "path": "data/fonts/google/Share.ttf",
+  "trained": true
+ },
+ {
+  "name": "Share Tech",
+  "path": "data/fonts/google/Share_Tech.ttf",
+  "trained": true
+ },
+ {
+  "name": "Share Tech Mono",
+  "path": "data/fonts/google/Share_Tech_Mono.ttf",
+  "trained": true
+ },
+ {
+  "name": "Shojumaru",
+  "path": "data/fonts/google/Shojumaru.ttf",
+  "trained": true
+ },
+ {
+  "name": "Short Stack",
+  "path": "data/fonts/google/Short_Stack.ttf",
+  "trained": true
+ },
+ {
+  "name": "Shrikhand",
+  "path": "data/fonts/google/Shrikhand.ttf",
+  "trained": true
+ },
+ {
+  "name": "Sigmar",
+  "path": "data/fonts/google/Sigmar.ttf",
+  "trained": true
+ },
+ {
+  "name": "Sigmar One",
+  "path": "data/fonts/google/Sigmar_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Signika",
+  "path": "data/fonts/google/Signika.ttf",
+  "trained": true,
+  "group": "Signika",
+  "twins": [
+   "Signika Negative"
+  ]
+ },
+ {
+  "name": "Signika Negative",
+  "path": "data/fonts/google/Signika_Negative.ttf",
+  "trained": true,
+  "group": "Signika",
+  "twins": [
+   "Signika Negative"
+  ]
+ },
+ {
+  "name": "Silkscreen",
+  "path": "data/fonts/google/Silkscreen.ttf",
+  "trained": true
+ },
+ {
+  "name": "Simonetta",
+  "path": "data/fonts/google/Simonetta.ttf",
+  "trained": true
+ },
+ {
+  "name": "SimSun",
+  "path": "C:/Windows/Fonts/simsun.ttc",
+  "trained": true,
+  "group": "SimSun",
+  "twins": [
+   "SimSun-ExtB",
+   "SimSun-ExtG"
+  ]
+ },
+ {
+  "name": "SimSun-ExtB",
+  "path": "C:/Windows/Fonts/simsunb.ttf",
+  "trained": true,
+  "group": "SimSun",
+  "twins": [
+   "SimSun-ExtB",
+   "SimSun-ExtG"
+  ]
+ },
+ {
+  "name": "SimSun-ExtG",
+  "path": "C:/Windows/Fonts/SimsunExtG.ttf",
+  "trained": true,
+  "group": "SimSun",
+  "twins": [
+   "SimSun-ExtB",
+   "SimSun-ExtG"
+  ]
+ },
+ {
+  "name": "Single Day",
+  "path": "data/fonts/google/Single_Day.ttf",
+  "trained": true
+ },
+ {
+  "name": "Sintony",
+  "path": "data/fonts/google/Sintony.ttf",
+  "trained": true
+ },
+ {
+  "name": "Sirin Stencil",
+  "path": "data/fonts/google/Sirin_Stencil.ttf",
+  "trained": true
+ },
+ {
+  "name": "Sirivennela",
+  "path": "data/fonts/google/Sirivennela.ttf",
+  "trained": true
+ },
+ {
+  "name": "Six Caps",
+  "path": "data/fonts/google/Six_Caps.ttf",
+  "trained": true
+ },
+ {
+  "name": "Sixtyfour",
+  "path": "data/fonts/google/Sixtyfour.ttf",
+  "trained": true,
+  "group": "Sixtyfour",
+  "twins": [
+   "Sixtyfour Convergence"
+  ]
+ },
+ {
+  "name": "Skranji",
+  "path": "data/fonts/google/Skranji.ttf",
+  "trained": true
+ },
+ {
+  "name": "Slabo 13px",
+  "path": "data/fonts/google/Slabo_13px.ttf",
+  "trained": true
+ },
+ {
+  "name": "Slabo 27px",
+  "path": "data/fonts/google/Slabo_27px.ttf",
+  "trained": true
+ },
+ {
+  "name": "Slackey",
+  "path": "data/fonts/google/Slackey.ttf",
+  "trained": true
+ },
+ {
+  "name": "Smokum",
+  "path": "data/fonts/google/Smokum.ttf",
+  "trained": true
+ },
+ {
+  "name": "Smooch",
+  "path": "data/fonts/google/Smooch.ttf",
+  "trained": true
+ },
+ {
+  "name": "Smooch Sans",
+  "path": "data/fonts/google/Smooch_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Smythe",
+  "path": "data/fonts/google/Smythe.ttf",
+  "trained": true
+ },
+ {
+  "name": "SN Pro",
+  "path": "data/fonts/google/SN_Pro.ttf",
+  "trained": true
+ },
+ {
+  "name": "Sniglet",
+  "path": "data/fonts/google/Sniglet.ttf",
+  "trained": true
+ },
+ {
+  "name": "Snippet",
+  "path": "data/fonts/google/Snippet.ttf",
+  "trained": true
+ },
+ {
+  "name": "Snowburst One",
+  "path": "data/fonts/google/Snowburst_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Sofadi One",
+  "path": "data/fonts/google/Sofadi_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Sofia",
+  "path": "data/fonts/google/Sofia.ttf",
+  "trained": true
+ },
+ {
+  "name": "Sofia Sans",
+  "path": "data/fonts/google/Sofia_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Sofia Sans Condensed",
+  "path": "data/fonts/google/Sofia_Sans_Condensed.ttf",
+  "trained": true
+ },
+ {
+  "name": "Sofia Sans Extra Condensed",
+  "path": "data/fonts/google/Sofia_Sans_Extra_Condensed.ttf",
+  "trained": true
+ },
+ {
+  "name": "Sofia Sans Semi Condensed",
+  "path": "data/fonts/google/Sofia_Sans_Semi_Condensed.ttf",
+  "trained": true
+ },
+ {
+  "name": "Solitreo",
+  "path": "data/fonts/google/Solitreo.ttf",
+  "trained": true
+ },
+ {
+  "name": "Solway",
+  "path": "data/fonts/google/Solway.ttf",
+  "trained": true
+ },
+ {
+  "name": "Sometype Mono",
+  "path": "data/fonts/google/Sometype_Mono.ttf",
+  "trained": true
+ },
+ {
+  "name": "Sono",
+  "path": "data/fonts/google/Sono.ttf",
+  "trained": true
+ },
+ {
+  "name": "Sonsie One",
+  "path": "data/fonts/google/Sonsie_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Sora",
+  "path": "data/fonts/google/Sora.ttf",
+  "trained": true
+ },
+ {
+  "name": "Sorts Mill Goudy",
+  "path": "data/fonts/google/Sorts_Mill_Goudy.ttf",
+  "trained": true
+ },
+ {
+  "name": "Sour Gummy",
+  "path": "data/fonts/google/Sour_Gummy.ttf",
+  "trained": true
+ },
+ {
+  "name": "Source Code Pro",
+  "path": "data/fonts/google/Source_Code_Pro.ttf",
+  "trained": true
+ },
+ {
+  "name": "Source Sans 3",
+  "path": "data/fonts/google/Source_Sans_3.ttf",
+  "trained": true,
+  "group": "Mada",
+  "twins": [
+   "Source Sans 3"
+  ]
+ },
+ {
+  "name": "Source Sans Pro",
+  "path": "C:/Windows/Fonts/SourceSansPro-Regular.ttf",
+  "trained": true
+ },
+ {
+  "name": "Source Serif 4",
+  "path": "data/fonts/google/Source_Serif_4.ttf",
+  "trained": true
+ },
+ {
+  "name": "Space Grotesk",
+  "path": "data/fonts/google/Space_Grotesk.ttf",
+  "trained": true
+ },
+ {
+  "name": "Space Mono",
+  "path": "data/fonts/google/Space_Mono.ttf",
+  "trained": true
+ },
+ {
+  "name": "Special Elite",
+  "path": "data/fonts/google/Special_Elite.ttf",
+  "trained": true
+ },
+ {
+  "name": "Special Gothic",
+  "path": "data/fonts/google/Special_Gothic.ttf",
+  "trained": true
+ },
+ {
+  "name": "Special Gothic Condensed One",
+  "path": "data/fonts/google/Special_Gothic_Condensed_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Special Gothic Expanded One",
+  "path": "data/fonts/google/Special_Gothic_Expanded_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Spectral",
+  "path": "data/fonts/google/Spectral.ttf",
+  "trained": true,
+  "group": "Spectral",
+  "twins": [
+   "Spectral SC"
+  ]
+ },
+ {
+  "name": "Spicy Rice",
+  "path": "data/fonts/google/Spicy_Rice.ttf",
+  "trained": true
+ },
+ {
+  "name": "Spinnaker",
+  "path": "data/fonts/google/Spinnaker.ttf",
+  "trained": true
+ },
+ {
+  "name": "Spirax",
+  "path": "data/fonts/google/Spirax.ttf",
+  "trained": true
+ },
+ {
+  "name": "Splash",
+  "path": "data/fonts/google/Splash.ttf",
+  "trained": true
+ },
+ {
+  "name": "Spline Sans",
+  "path": "data/fonts/google/Spline_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Spline Sans Mono",
+  "path": "data/fonts/google/Spline_Sans_Mono.ttf",
+  "trained": true
+ },
+ {
+  "name": "Squada One",
+  "path": "data/fonts/google/Squada_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Square Peg",
+  "path": "data/fonts/google/Square_Peg.ttf",
+  "trained": true
+ },
+ {
+  "name": "Sree Krushnadevaraya",
+  "path": "data/fonts/google/Sree_Krushnadevaraya.ttf",
+  "trained": true
+ },
+ {
+  "name": "Sriracha",
+  "path": "data/fonts/google/Sriracha.ttf",
+  "trained": true
+ },
+ {
+  "name": "Srisakdi",
+  "path": "data/fonts/google/Srisakdi.ttf",
+  "trained": true
+ },
+ {
+  "name": "Staatliches",
+  "path": "data/fonts/google/Staatliches.ttf",
+  "trained": true,
+  "group": "Bayon",
+  "twins": [
+   "Staatliches"
+  ]
+ },
+ {
+  "name": "Stack Sans Headline",
+  "path": "data/fonts/google/Stack_Sans_Headline.ttf",
+  "trained": true
+ },
+ {
+  "name": "Stack Sans Notch",
+  "path": "data/fonts/google/Stack_Sans_Notch.ttf",
+  "trained": true
+ },
+ {
+  "name": "Stack Sans Text",
+  "path": "data/fonts/google/Stack_Sans_Text.ttf",
+  "trained": true
+ },
+ {
+  "name": "Stalemate",
+  "path": "data/fonts/google/Stalemate.ttf",
+  "trained": true
+ },
+ {
+  "name": "Stalinist One",
+  "path": "data/fonts/google/Stalinist_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Stardos Stencil",
+  "path": "data/fonts/google/Stardos_Stencil.ttf",
+  "trained": true
+ },
+ {
+  "name": "Stick No Bills",
+  "path": "data/fonts/google/Stick_No_Bills.ttf",
+  "trained": true
+ },
+ {
+  "name": "Stint Ultra Condensed",
+  "path": "data/fonts/google/Stint_Ultra_Condensed.ttf",
+  "trained": true
+ },
+ {
+  "name": "Stint Ultra Expanded",
+  "path": "data/fonts/google/Stint_Ultra_Expanded.ttf",
+  "trained": true
+ },
+ {
+  "name": "STIX Two Text",
+  "path": "data/fonts/google/STIX_Two_Text.ttf",
+  "trained": true
+ },
+ {
+  "name": "Stoke",
+  "path": "data/fonts/google/Stoke.ttf",
+  "trained": true
+ },
+ {
+  "name": "Story Script",
+  "path": "data/fonts/google/Story_Script.ttf",
+  "trained": true
+ },
+ {
+  "name": "Strait",
+  "path": "data/fonts/google/Strait.ttf",
+  "trained": true
+ },
+ {
+  "name": "Strichpunkt Sans",
+  "path": "data/fonts/google/Strichpunkt_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Style Script",
+  "path": "data/fonts/google/Style_Script.ttf",
+  "trained": true
+ },
+ {
+  "name": "Sue Ellen Francisco",
+  "path": "data/fonts/google/Sue_Ellen_Francisco.ttf",
+  "trained": true
+ },
+ {
+  "name": "Suez One",
+  "path": "data/fonts/google/Suez_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Sulphur Point",
+  "path": "data/fonts/google/Sulphur_Point.ttf",
+  "trained": true
+ },
+ {
+  "name": "Sumana",
+  "path": "data/fonts/google/Sumana.ttf",
+  "trained": true
+ },
+ {
+  "name": "Sunshiney",
+  "path": "data/fonts/google/Sunshiney.ttf",
+  "trained": true
+ },
+ {
+  "name": "Supermercado One",
+  "path": "data/fonts/google/Supermercado_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Sura",
+  "path": "data/fonts/google/Sura.ttf",
+  "trained": true
+ },
+ {
+  "name": "Suranna",
+  "path": "data/fonts/google/Suranna.ttf",
+  "trained": true,
+  "group": "Prata",
+  "twins": [
+   "Suranna"
+  ]
+ },
+ {
+  "name": "Suravaram",
+  "path": "data/fonts/google/Suravaram.ttf",
+  "trained": true,
+  "group": "Suravaram",
+  "twins": [
+   "Tienne"
+  ]
+ },
+ {
+  "name": "SUSE",
+  "path": "data/fonts/google/SUSE.ttf",
+  "trained": true
+ },
+ {
+  "name": "SUSE Mono",
+  "path": "data/fonts/google/SUSE_Mono.ttf",
+  "trained": true
+ },
+ {
+  "name": "Swanky and Moo Moo",
+  "path": "data/fonts/google/Swanky_and_Moo_Moo.ttf",
+  "trained": true
+ },
+ {
+  "name": "Sylfaen",
+  "path": "C:/Windows/Fonts/sylfaen.ttf",
+  "trained": true
+ },
+ {
+  "name": "Syncopate",
+  "path": "data/fonts/google/Syncopate.ttf",
+  "trained": true
+ },
+ {
+  "name": "Syne",
+  "path": "data/fonts/google/Syne.ttf",
+  "trained": true
+ },
+ {
+  "name": "Syne Mono",
+  "path": "data/fonts/google/Syne_Mono.ttf",
+  "trained": true
+ },
+ {
+  "name": "Syne Tactile",
+  "path": "data/fonts/google/Syne_Tactile.ttf",
+  "trained": true
+ },
+ {
+  "name": "Tac One",
+  "path": "data/fonts/google/Tac_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Tagesschrift",
+  "path": "data/fonts/google/Tagesschrift.ttf",
+  "trained": true
+ },
+ {
+  "name": "Tahoma",
+  "path": "C:/Windows/Fonts/tahoma.ttf",
+  "trained": true
+ },
+ {
+  "name": "Tai Heritage Pro",
+  "path": "data/fonts/google/Tai_Heritage_Pro.ttf",
+  "trained": true,
+  "group": "Nuosu SIL",
+  "twins": [
+   "Tai Heritage Pro"
+  ]
+ },
+ {
+  "name": "Tajawal",
+  "path": "data/fonts/google/Tajawal.ttf",
+  "trained": true
+ },
+ {
+  "name": "Tangerine",
+  "path": "data/fonts/google/Tangerine.ttf",
+  "trained": true
+ },
+ {
+  "name": "Tapestry",
+  "path": "data/fonts/google/Tapestry.ttf",
+  "trained": true
+ },
+ {
+  "name": "TASA Explorer",
+  "path": "data/fonts/google/TASA_Explorer.ttf",
+  "trained": true
+ },
+ {
+  "name": "TASA Orbiter",
+  "path": "data/fonts/google/TASA_Orbiter.ttf",
+  "trained": true
+ },
+ {
+  "name": "Tauri",
+  "path": "data/fonts/google/Tauri.ttf",
+  "trained": true
+ },
+ {
+  "name": "Taviraj",
+  "path": "data/fonts/google/Taviraj.ttf",
+  "trained": true
+ },
+ {
+  "name": "Teachers",
+  "path": "data/fonts/google/Teachers.ttf",
+  "trained": true
+ },
+ {
+  "name": "Teko",
+  "path": "data/fonts/google/Teko.ttf",
+  "trained": true
+ },
+ {
+  "name": "Tektur",
+  "path": "data/fonts/google/Tektur.ttf",
+  "trained": true
+ },
+ {
+  "name": "Telex",
+  "path": "data/fonts/google/Telex.ttf",
+  "trained": true
+ },
+ {
+  "name": "Tempus Sans ITC",
+  "path": "C:/Windows/Fonts/TEMPSITC.TTF",
+  "trained": true
+ },
+ {
+  "name": "Tenali Ramakrishna",
+  "path": "data/fonts/google/Tenali_Ramakrishna.ttf",
+  "trained": true
+ },
+ {
+  "name": "Tenor Sans",
+  "path": "data/fonts/google/Tenor_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Text Me One",
+  "path": "data/fonts/google/Text_Me_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Texturina",
+  "path": "data/fonts/google/Texturina.ttf",
+  "trained": true
+ },
+ {
+  "name": "Thasadith",
+  "path": "data/fonts/google/Thasadith.ttf",
+  "trained": true
+ },
+ {
+  "name": "The Girl Next Door",
+  "path": "data/fonts/google/The_Girl_Next_Door.ttf",
+  "trained": true
+ },
+ {
+  "name": "The Nautigal",
+  "path": "data/fonts/google/The_Nautigal.ttf",
+  "trained": true
+ },
+ {
+  "name": "Tienne",
+  "path": "data/fonts/google/Tienne.ttf",
+  "trained": true,
+  "group": "Suravaram",
+  "twins": [
+   "Tienne"
+  ]
+ },
+ {
+  "name": "TikTok Sans",
+  "path": "data/fonts/google/TikTok_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Tillana",
+  "path": "data/fonts/google/Tillana.ttf",
+  "trained": true
+ },
+ {
+  "name": "Tilt Neon",
+  "path": "data/fonts/google/Tilt_Neon.ttf",
+  "trained": true
+ },
+ {
+  "name": "Tilt Prism",
+  "path": "data/fonts/google/Tilt_Prism.ttf",
+  "trained": true
+ },
+ {
+  "name": "Tilt Warp",
+  "path": "data/fonts/google/Tilt_Warp.ttf",
+  "trained": true
+ },
+ {
+  "name": "Times / Nimbus Roman",
+  "path": "data/fonts/extras/NimbusRoman-Regular.otf",
+  "trained": true
+ },
+ {
+  "name": "Times New Roman / Tinos",
+  "path": "data/fonts/google/Tinos.ttf",
+  "trained": true
+ },
+ {
+  "name": "Timmana",
+  "path": "data/fonts/google/Timmana.ttf",
+  "trained": true
+ },
+ {
+  "name": "Tiny5",
+  "path": "data/fonts/google/Tiny5.ttf",
+  "trained": true
+ },
+ {
+  "name": "Tiro Bangla",
+  "path": "data/fonts/google/Tiro_Bangla.ttf",
+  "trained": true,
+  "group": "Castoro",
+  "twins": [
+   "Tiro Bangla",
+   "Tiro Devanagari Hindi",
+   "Tiro Devanagari Marathi",
+   "Tiro Devanagari Sanskrit",
+   "Tiro Gurmukhi",
+   "Tiro Kannada",
+   "Tiro Tamil",
+   "Tiro Telugu"
+  ]
+ },
+ {
+  "name": "Titan One",
+  "path": "data/fonts/google/Titan_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Titillium Web",
+  "path": "data/fonts/google/Titillium_Web.ttf",
+  "trained": true
+ },
+ {
+  "name": "Tomorrow",
+  "path": "data/fonts/google/Tomorrow.ttf",
+  "trained": true
+ },
+ {
+  "name": "Tourney",
+  "path": "data/fonts/google/Tourney.ttf",
+  "trained": true
+ },
+ {
+  "name": "Trade Winds",
+  "path": "data/fonts/google/Trade_Winds.ttf",
+  "trained": true
+ },
+ {
+  "name": "Trebuchet MS",
+  "path": "C:/Windows/Fonts/trebuc.ttf",
+  "trained": true
+ },
+ {
+  "name": "Triodion",
+  "path": "data/fonts/google/Triodion.ttf",
+  "trained": true
+ },
+ {
+  "name": "Trirong",
+  "path": "data/fonts/google/Trirong.ttf",
+  "trained": true
+ },
+ {
+  "name": "Trispace",
+  "path": "data/fonts/google/Trispace.ttf",
+  "trained": true
+ },
+ {
+  "name": "Trocchi",
+  "path": "data/fonts/google/Trocchi.ttf",
+  "trained": true
+ },
+ {
+  "name": "Trochut",
+  "path": "data/fonts/google/Trochut.ttf",
+  "trained": true
+ },
+ {
+  "name": "Truculenta",
+  "path": "data/fonts/google/Truculenta.ttf",
+  "trained": true
+ },
+ {
+  "name": "Trykker",
+  "path": "data/fonts/google/Trykker.ttf",
+  "trained": true
+ },
+ {
+  "name": "Tuffy",
+  "path": "data/fonts/google/Tuffy.ttf",
+  "trained": true
+ },
+ {
+  "name": "Tulpen One",
+  "path": "data/fonts/google/Tulpen_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Turret Road",
+  "path": "data/fonts/google/Turret_Road.ttf",
+  "trained": true
+ },
+ {
+  "name": "Twinkle Star",
+  "path": "data/fonts/google/Twinkle_Star.ttf",
+  "trained": true
+ },
+ {
+  "name": "Ubuntu",
+  "path": "data/fonts/google/Ubuntu.ttf",
+  "trained": true
+ },
+ {
+  "name": "Ubuntu Condensed",
+  "path": "data/fonts/google/Ubuntu_Condensed.ttf",
+  "trained": true
+ },
+ {
+  "name": "Ubuntu Mono",
+  "path": "data/fonts/google/Ubuntu_Mono.ttf",
+  "trained": true
+ },
+ {
+  "name": "Ubuntu Sans",
+  "path": "data/fonts/google/Ubuntu_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Ubuntu Sans Mono",
+  "path": "data/fonts/google/Ubuntu_Sans_Mono.ttf",
+  "trained": true
+ },
+ {
+  "name": "Uchen",
+  "path": "data/fonts/google/Uchen.ttf",
+  "trained": true
+ },
+ {
+  "name": "Ultra",
+  "path": "data/fonts/google/Ultra.ttf",
+  "trained": true
+ },
+ {
+  "name": "Unbounded",
+  "path": "data/fonts/google/Unbounded.ttf",
+  "trained": true
+ },
+ {
+  "name": "Uncial Antiqua",
+  "path": "data/fonts/google/Uncial_Antiqua.ttf",
+  "trained": true
+ },
+ {
+  "name": "Underdog",
+  "path": "data/fonts/google/Underdog.ttf",
+  "trained": true
+ },
+ {
+  "name": "Unica One",
+  "path": "data/fonts/google/Unica_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "UnifrakturCook",
+  "path": "data/fonts/google/UnifrakturCook.ttf",
+  "trained": true
+ },
+ {
+  "name": "UnifrakturMaguntia",
+  "path": "data/fonts/google/UnifrakturMaguntia.ttf",
+  "trained": true
+ },
+ {
+  "name": "Unkempt",
+  "path": "data/fonts/google/Unkempt.ttf",
+  "trained": true
+ },
+ {
+  "name": "Unlock",
+  "path": "data/fonts/google/Unlock.ttf",
+  "trained": true
+ },
+ {
+  "name": "Unna",
+  "path": "data/fonts/google/Unna.ttf",
+  "trained": true
+ },
+ {
+  "name": "Updock",
+  "path": "data/fonts/google/Updock.ttf",
+  "trained": true
+ },
+ {
+  "name": "Urbanist",
+  "path": "data/fonts/google/Urbanist.ttf",
+  "trained": true
+ },
+ {
+  "name": "Valley Sans",
+  "path": "data/fonts/google/Valley_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Vampiro One",
+  "path": "data/fonts/google/Vampiro_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Varela",
+  "path": "data/fonts/google/Varela.ttf",
+  "trained": true
+ },
+ {
+  "name": "Varela Round",
+  "path": "data/fonts/google/Varela_Round.ttf",
+  "trained": true,
+  "group": "NTR",
+  "twins": [
+   "Varela Round"
+  ]
+ },
+ {
+  "name": "Varta",
+  "path": "data/fonts/google/Varta.ttf",
+  "trained": true
+ },
+ {
+  "name": "Vast Shadow",
+  "path": "data/fonts/google/Vast_Shadow.ttf",
+  "trained": true
+ },
+ {
+  "name": "Vazirmatn",
+  "path": "data/fonts/google/Vazirmatn.ttf",
+  "trained": true
+ },
+ {
+  "name": "Vend Sans",
+  "path": "data/fonts/google/Vend_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Verdana",
+  "path": "C:/Windows/Fonts/verdana.ttf",
+  "trained": true,
+  "group": "Verdana",
+  "twins": [
+   "MS Reference Sans Serif"
+  ]
+ },
+ {
+  "name": "Vesper Libre",
+  "path": "data/fonts/google/Vesper_Libre.ttf",
+  "trained": true
+ },
+ {
+  "name": "Viaoda Libre",
+  "path": "data/fonts/google/Viaoda_Libre.ttf",
+  "trained": true
+ },
+ {
+  "name": "Vibes",
+  "path": "data/fonts/google/Vibes.ttf",
+  "trained": true
+ },
+ {
+  "name": "Vibur",
+  "path": "data/fonts/google/Vibur.ttf",
+  "trained": true
+ },
+ {
+  "name": "Victor Mono",
+  "path": "data/fonts/google/Victor_Mono.ttf",
+  "trained": true
+ },
+ {
+  "name": "Vidaloka",
+  "path": "data/fonts/google/Vidaloka.ttf",
+  "trained": true
+ },
+ {
+  "name": "Viga",
+  "path": "data/fonts/google/Viga.ttf",
+  "trained": true
+ },
+ {
+  "name": "Vina Sans",
+  "path": "data/fonts/google/Vina_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Voces",
+  "path": "data/fonts/google/Voces.ttf",
+  "trained": true
+ },
+ {
+  "name": "Volkhov",
+  "path": "data/fonts/google/Volkhov.ttf",
+  "trained": true
+ },
+ {
+  "name": "Vollkorn",
+  "path": "data/fonts/google/Vollkorn.ttf",
+  "trained": true
+ },
+ {
+  "name": "Vollkorn SC",
+  "path": "data/fonts/google/Vollkorn_SC.ttf",
+  "trained": true
+ },
+ {
+  "name": "Voltaire",
+  "path": "data/fonts/google/Voltaire.ttf",
+  "trained": true
+ },
+ {
+  "name": "VT323",
+  "path": "data/fonts/google/VT323.ttf",
+  "trained": true
+ },
+ {
+  "name": "Vujahday Script",
+  "path": "data/fonts/google/Vujahday_Script.ttf",
+  "trained": true
+ },
+ {
+  "name": "Waiting for the Sunrise",
+  "path": "data/fonts/google/Waiting_for_the_Sunrise.ttf",
+  "trained": true
+ },
+ {
+  "name": "Wallpoet",
+  "path": "data/fonts/google/Wallpoet.ttf",
+  "trained": true
+ },
+ {
+  "name": "Walter Turncoat",
+  "path": "data/fonts/google/Walter_Turncoat.ttf",
+  "trained": true
+ },
+ {
+  "name": "Warnes",
+  "path": "data/fonts/google/Warnes.ttf",
+  "trained": true
+ },
+ {
+  "name": "Water Brush",
+  "path": "data/fonts/google/Water_Brush.ttf",
+  "trained": true
+ },
+ {
+  "name": "Waterfall",
+  "path": "data/fonts/google/Waterfall.ttf",
+  "trained": true
+ },
+ {
+  "name": "Wellfleet",
+  "path": "data/fonts/google/Wellfleet.ttf",
+  "trained": true
+ },
+ {
+  "name": "Wendy One",
+  "path": "data/fonts/google/Wendy_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Whisper",
+  "path": "data/fonts/google/Whisper.ttf",
+  "trained": true
+ },
+ {
+  "name": "WindSong",
+  "path": "data/fonts/google/WindSong.ttf",
+  "trained": true
+ },
+ {
+  "name": "Winky Rough",
+  "path": "data/fonts/google/Winky_Rough.ttf",
+  "trained": true
+ },
+ {
+  "name": "Winky Sans",
+  "path": "data/fonts/google/Winky_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Wire One",
+  "path": "data/fonts/google/Wire_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Wittgenstein",
+  "path": "data/fonts/google/Wittgenstein.ttf",
+  "trained": true
+ },
+ {
+  "name": "Wix Madefor Display",
+  "path": "data/fonts/google/Wix_Madefor_Display.ttf",
+  "trained": true
+ },
+ {
+  "name": "Wix Madefor Text",
+  "path": "data/fonts/google/Wix_Madefor_Text.ttf",
+  "trained": true
+ },
+ {
+  "name": "Work Sans",
+  "path": "data/fonts/google/Work_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Workbench",
+  "path": "data/fonts/google/Workbench.ttf",
+  "trained": true
+ },
+ {
+  "name": "Xanh Mono",
+  "path": "data/fonts/google/Xanh_Mono.ttf",
+  "trained": true
+ },
+ {
+  "name": "Yaldevi",
+  "path": "data/fonts/google/Yaldevi.ttf",
+  "trained": true
+ },
+ {
+  "name": "Yanone Kaffeesatz",
+  "path": "data/fonts/google/Yanone_Kaffeesatz.ttf",
+  "trained": true
+ },
+ {
+  "name": "Yantramanav",
+  "path": "data/fonts/google/Yantramanav.ttf",
+  "trained": true
+ },
+ {
+  "name": "Yarndings 12",
+  "path": "data/fonts/google/Yarndings_12.ttf",
+  "trained": true
+ },
+ {
+  "name": "Yarndings 12 Charted",
+  "path": "data/fonts/google/Yarndings_12_Charted.ttf",
+  "trained": true
+ },
+ {
+  "name": "Yarndings 20",
+  "path": "data/fonts/google/Yarndings_20.ttf",
+  "trained": true
+ },
+ {
+  "name": "Yarndings 20 Charted",
+  "path": "data/fonts/google/Yarndings_20_Charted.ttf",
+  "trained": true
+ },
+ {
+  "name": "Yatra One",
+  "path": "data/fonts/google/Yatra_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Yellowtail",
+  "path": "data/fonts/google/Yellowtail.ttf",
+  "trained": true
+ },
+ {
+  "name": "Yeseva One",
+  "path": "data/fonts/google/Yeseva_One.ttf",
+  "trained": true
+ },
+ {
+  "name": "Yesteryear",
+  "path": "data/fonts/google/Yesteryear.ttf",
+  "trained": true
+ },
+ {
+  "name": "Young Serif",
+  "path": "data/fonts/google/Young_Serif.ttf",
+  "trained": true
+ },
+ {
+  "name": "Ysabeau",
+  "path": "data/fonts/google/Ysabeau.ttf",
+  "trained": true,
+  "group": "Ysabeau",
+  "twins": [
+   "Ysabeau Infant",
+   "Ysabeau Office"
+  ]
+ },
+ {
+  "name": "Ysabeau Infant",
+  "path": "data/fonts/google/Ysabeau_Infant.ttf",
+  "trained": true,
+  "group": "Ysabeau",
+  "twins": [
+   "Ysabeau Infant",
+   "Ysabeau Office"
+  ]
+ },
+ {
+  "name": "Ysabeau Office",
+  "path": "data/fonts/google/Ysabeau_Office.ttf",
+  "trained": true,
+  "group": "Ysabeau",
+  "twins": [
+   "Ysabeau Infant",
+   "Ysabeau Office"
+  ]
+ },
+ {
+  "name": "Ysabeau SC",
+  "path": "data/fonts/google/Ysabeau_SC.ttf",
+  "trained": true
+ },
+ {
+  "name": "Yu Gothic",
+  "path": "C:/Windows/Fonts/YuGothR.ttc",
+  "trained": true
+ },
+ {
+  "name": "Yuyu",
+  "path": "data/fonts/google/Yuyu.ttf",
+  "trained": true
+ },
+ {
+  "name": "Yuyu Short",
+  "path": "data/fonts/google/Yuyu_Short.ttf",
+  "trained": true
+ },
+ {
+  "name": "Zain",
+  "path": "data/fonts/google/Zain.ttf",
+  "trained": true
+ },
+ {
+  "name": "Zalando Sans",
+  "path": "data/fonts/google/Zalando_Sans.ttf",
+  "trained": true
+ },
+ {
+  "name": "Zalando Sans Expanded",
+  "path": "data/fonts/google/Zalando_Sans_Expanded.ttf",
+  "trained": true
+ },
+ {
+  "name": "Zalando Sans SemiExpanded",
+  "path": "data/fonts/google/Zalando_Sans_SemiExpanded.ttf",
+  "trained": true
+ },
+ {
+  "name": "Zen Dots",
+  "path": "data/fonts/google/Zen_Dots.ttf",
+  "trained": true
+ },
+ {
+  "name": "Zen Loop",
+  "path": "data/fonts/google/Zen_Loop.ttf",
+  "trained": true
+ },
+ {
+  "name": "Zen Tokyo Zoo",
+  "path": "data/fonts/google/Zen_Tokyo_Zoo.ttf",
+  "trained": true
+ },
+ {
+  "name": "Zeyada",
+  "path": "data/fonts/google/Zeyada.ttf",
+  "trained": true
+ },
+ {
+  "name": "Zilla Slab",
+  "path": "data/fonts/google/Zilla_Slab.ttf",
+  "trained": true
+ },
+ {
+  "name": "Zilla Slab Highlight",
+  "path": "data/fonts/google/Zilla_Slab_Highlight.ttf",
+  "trained": true
+ },
+ {
+  "name": "Cascadia Mono",
+  "path": "C:/Windows/Fonts/CascadiaMono.ttf",
+  "trained": false,
+  "group": "Cascadia Code",
+  "twins": [
+   "Cascadia Mono"
+  ]
+ },
+ {
+  "name": "Ebrima",
+  "path": "C:/Windows/Fonts/ebrima.ttf",
+  "trained": false,
+  "group": "Segoe UI",
+  "twins": [
+   "Ebrima",
+   "Gadugi",
+   "Leelawadee UI",
+   "Nirmala UI",
+   "Segoe UI Historic"
+  ]
+ },
+ {
+  "name": "Gadugi",
+  "path": "C:/Windows/Fonts/gadugi.ttf",
+  "trained": false,
+  "group": "Segoe UI",
+  "twins": [
+   "Ebrima",
+   "Gadugi",
+   "Leelawadee UI",
+   "Nirmala UI",
+   "Segoe UI Historic"
+  ]
+ },
+ {
+  "name": "Leelawadee UI",
+  "path": "C:/Windows/Fonts/LeelawUI.ttf",
+  "trained": false,
+  "group": "Segoe UI",
+  "twins": [
+   "Ebrima",
+   "Gadugi",
+   "Leelawadee UI",
+   "Nirmala UI",
+   "Segoe UI Historic"
+  ]
+ },
+ {
+  "name": "MS Reference Sans Serif",
+  "path": "C:/Windows/Fonts/REFSAN.TTF",
+  "trained": false,
+  "group": "Verdana",
+  "twins": [
+   "MS Reference Sans Serif"
+  ]
+ },
+ {
+  "name": "Microsoft Tai Le",
+  "path": "C:/Windows/Fonts/taile.ttf",
+  "trained": false,
+  "group": "Microsoft New Tai Lue",
+  "twins": [
+   "Microsoft Tai Le"
+  ]
+ },
+ {
+  "name": "Monotype Corsiva Regular",
+  "path": "~/AppData/Local/Microsoft/Windows/Fonts/Monotype-Corsiva-Regular.ttf",
+  "trained": false,
+  "group": "Monotype Corsiva",
+  "twins": [
+   "Monotype Corsiva Regular"
+  ]
+ },
+ {
+  "name": "Myanmar Text",
+  "path": "C:/Windows/Fonts/mmrtext.ttf",
+  "trained": false,
+  "group": "Malgun Gothic",
+  "twins": [
+   "Microsoft JhengHei",
+   "Microsoft PhagsPa",
+   "Myanmar Text"
+  ]
+ },
+ {
+  "name": "Nirmala UI",
+  "path": "C:/Windows/Fonts/Nirmala.ttc",
+  "trained": false,
+  "group": "Segoe UI",
+  "twins": [
+   "Ebrima",
+   "Gadugi",
+   "Leelawadee UI",
+   "Nirmala UI",
+   "Segoe UI Historic"
+  ]
+ },
+ {
+  "name": "Segoe UI Historic",
+  "path": "C:/Windows/Fonts/seguihis.ttf",
+  "trained": false,
+  "group": "Segoe UI",
+  "twins": [
+   "Ebrima",
+   "Gadugi",
+   "Leelawadee UI",
+   "Nirmala UI",
+   "Segoe UI Historic"
+  ]
+ }
+]

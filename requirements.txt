@@ -1,0 +1,18 @@
+# App (runtime)
+numpy
+pillow
+opencv-python-headless
+onnxruntime
+mss
+pynput
+pystray
+uiautomation
+
+# Training (install torch from the CUDA index, see README)
+torch
+torchvision
+timm
+onnx
+onnxscript
+requests
+playwright
